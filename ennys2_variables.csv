@@ -1,0 +1,1830 @@
+id,Numérico,SbjNum
+Srvyr,Cadena,Srvyr
+Duration,Cadena,Duration
+Upload,Numérico,Upload
+Status,Cadena,Status
+VStart,Numérico,VStart
+VEnd,Numérico,VEnd
+MHDR_KEY,Cadena,Codigo de miembro
+E_CUEST,Numérico,Cuestionario a aplicar
+C1_FECHA,Fecha,Fecha de nacimiento del niño/a
+C1_SEXO,Numérico,El niño/a nació
+C1_SP_1,Numérico,¿La madre biológica vive en este hogar?
+C1_SP_2,Numérico,¿La madre biológica esta presente?
+C1_SP_3,Numérico,Vínculo del adulto respondente con el niño/a
+C1_SP_3_OtherS,Cadena,Vínculo del adulto respondente con el niño/a [Other (specify)]
+C1_EP_LIBRETA_1,Numérico,Trae libreta?
+C1_EP_1_1,Numérico,"1.1. ¿Fue un embarazo simple o múltiple (mellizos, trillizos, etc)?"
+C1_EP_1_2,Numérico,1.2. ¿Cuál era su peso antes de quedar embarazada?
+C1_EP_1_3,Numérico,1.3. ¿Durante el embarazo le realizaron algún control?
+C1_EP_1_4,Numérico,1.4. ¿Cuántas semanas de embarazo tenía cuando le realizaron el primer control?
+C1_EP_1_5,Numérico,1.5. ¿Cuál era su peso en el primer control?
+C1_EP_1_6,Numérico,"1.6. En total, ¿cuántos controles tuvo durante el embarazo?"
+C1_EP_1_7,Numérico,1.7. ¿Cuántas semanas de embarazo tenía cuando le realizaron el último control?
+C1_EP_1_8,Numérico,1.8. ¿Cuál era su peso en el último control?
+C1_EP_1_9,Numérico,"1.9. En alguno de los controles, ¿le indicaron tomar hierro?"
+C1_EP_1_10,Numérico,"1.10. En alguno de los controles, ¿le indicaron tomar ácido fólico?"
+C1_LIBRETA_2,Numérico,Trae libreta?
+T_C1_EP_1_11_1,Numérico,La lactancia materna?
+T_C1_EP_1_11_2,Numérico,Los efectos del consumo de tabaco?
+T_C1_EP_1_11_3,Numérico,Los efectos del consumo de alcohol?
+T_C1_EP_1_11_4,Numérico,Los efectos del consumo de drogas?
+T_C1_EP_1_11_5,Numérico,Cómo alimentarse durante el embarazo?
+C1_EP_1_12,Numérico,"1.12. Aproximadamente, ¿cuántos kilos aumentó en todo el embarazo?"
+C1_EP_1_13,Numérico,1.13. ¿Fumó durante el embarazo?
+C1_EP_1_14,Numérico,"1.14. Durante el embarazo, en promedio, los días que fumó, ¿cuántos cigarrillos"
+C1_EP_1_15,Numérico,1.15. ¿Fuma actualmente?
+C1_EP_1_16,Numérico,"1.16. En promedio, los días que fuma, ¿cuántos cigarrillos fuma por día?"
+C1_EP_1_17,Numérico,1.17. ¿Tomó alguna vez alguna bebida alcohólica durante el embarazo?
+C1_EP_1_18,Numérico,1.18. ¿Cuántas semanas de embarazo tenía al momento del parto?
+C1_EP_1_19,Numérico,1.19. ¿Dónde fue el parto?
+C1_EP_1_19_OtherS,Cadena,1.19. ¿Dónde fue el parto? [Other (specify)]
+C1_EP_1_20,Numérico,"1.20. El parto, ¿fue vaginal o por cesárea?"
+C1_EP_1_21,Numérico,"1.21. ¿Alguien del equipo de salud, le ofreció estar acompañada durante el parto"
+C1_EP_1_22,Numérico,1.22. ¿Le permitieron elegir el/la acompañante?
+C1_EP_1_23,Numérico,1.23. ¿Cuántos días estuvo internada en el hospital/maternidad luego del nacimie
+C1_EP_1_25,Numérico,"1.25. Al momento del alta o antes del alta, ¿alguien del personal de salud le ex"
+C1_EP_1_26,Numérico,1.26. ¿Cómo le indicaron que debía dormir {0}?
+C1_EP_1_26_OtherS,Cadena,1.26. ¿Cómo le indicaron que debía dormir {0}? [Other (specify)]
+C1_EP_1_27,Numérico,1.27. ¿Cuánto pesó cuando nació?
+C1_VE_2_1,Numérico,"2.1. Durante el embarazo, ¿recibió una dosis de vacuna antigripal?"
+C1_VE_2_2_O1,Numérico,2.2. ¿Por qué motivo recibió la vacuna antigripal?
+C1_VE_2_2_O2,Numérico,2.2. ¿Por qué motivo recibió la vacuna antigripal?
+C1_VE_2_2_O3,Numérico,2.2. ¿Por qué motivo recibió la vacuna antigripal?
+C1_VE_2_2_O4,Numérico,2.2. ¿Por qué motivo recibió la vacuna antigripal?
+C1_VE_2_2_O5,Numérico,2.2. ¿Por qué motivo recibió la vacuna antigripal?
+C1_VE_2_2_O6,Numérico,2.2. ¿Por qué motivo recibió la vacuna antigripal?
+C1_VE_2_2_O7,Numérico,2.2. ¿Por qué motivo recibió la vacuna antigripal?
+C1_VE_2_2_O8,Numérico,2.2. ¿Por qué motivo recibió la vacuna antigripal?
+C1_VE_2_2_O9,Numérico,2.2. ¿Por qué motivo recibió la vacuna antigripal?
+C1_VE_2_2_OtherS,Cadena,2.2. ¿Por qué motivo recibió la vacuna antigripal? (Otro motivo) [Other (specify
+C1_VE_2_3_O1,Numérico,2.3. ¿Por qué motivo NO recibió la vacuna antigripal?
+C1_VE_2_3_O2,Numérico,2.3. ¿Por qué motivo NO recibió la vacuna antigripal?
+C1_VE_2_3_O3,Numérico,2.3. ¿Por qué motivo NO recibió la vacuna antigripal?
+C1_VE_2_3_O4,Numérico,2.3. ¿Por qué motivo NO recibió la vacuna antigripal?
+C1_VE_2_3_O5,Numérico,2.3. ¿Por qué motivo NO recibió la vacuna antigripal?
+C1_VE_2_3_O6,Numérico,2.3. ¿Por qué motivo NO recibió la vacuna antigripal?
+C1_VE_2_3_O7,Numérico,2.3. ¿Por qué motivo NO recibió la vacuna antigripal?
+C1_VE_2_3_OtherS,Cadena,2.3. ¿Por qué motivo NO recibió la vacuna antigripal?  (Otro motivo) [Other (spe
+C1_VE_2_4,Numérico,"2.4. Durante el embarazo, ¿recibió una dosis de vacuna contra la tos convulsa o"
+C1_VE_2_5_O1,Numérico,"2.5. ¿Por qué motivo recibió la vacuna contra la tos convulsa o coqueluche, teta"
+C1_VE_2_5_O2,Numérico,"2.5. ¿Por qué motivo recibió la vacuna contra la tos convulsa o coqueluche, teta"
+C1_VE_2_5_O3,Numérico,"2.5. ¿Por qué motivo recibió la vacuna contra la tos convulsa o coqueluche, teta"
+C1_VE_2_5_O4,Numérico,"2.5. ¿Por qué motivo recibió la vacuna contra la tos convulsa o coqueluche, teta"
+C1_VE_2_5_O5,Numérico,"2.5. ¿Por qué motivo recibió la vacuna contra la tos convulsa o coqueluche, teta"
+C1_VE_2_5_O6,Numérico,"2.5. ¿Por qué motivo recibió la vacuna contra la tos convulsa o coqueluche, teta"
+C1_VE_2_5_O7,Numérico,"2.5. ¿Por qué motivo recibió la vacuna contra la tos convulsa o coqueluche, teta"
+C1_VE_2_5_O8,Numérico,"2.5. ¿Por qué motivo recibió la vacuna contra la tos convulsa o coqueluche, teta"
+C1_VE_2_5_O9,Numérico,"2.5. ¿Por qué motivo recibió la vacuna contra la tos convulsa o coqueluche, teta"
+C1_VE_2_5_OtherS,Cadena,"2.5. ¿Por qué motivo recibió la vacuna contra la tos convulsa o coqueluche, teta"
+C1_VE_2_6_O1,Numérico,"2.6. ¿Por qué motivo NO recibió la contra la tos convulsa o coqueluche, tetanos"
+C1_VE_2_6_O2,Numérico,"2.6. ¿Por qué motivo NO recibió la contra la tos convulsa o coqueluche, tetanos"
+C1_VE_2_6_O3,Numérico,"2.6. ¿Por qué motivo NO recibió la contra la tos convulsa o coqueluche, tetanos"
+C1_VE_2_6_O4,Numérico,"2.6. ¿Por qué motivo NO recibió la contra la tos convulsa o coqueluche, tetanos"
+C1_VE_2_6_O5,Numérico,"2.6. ¿Por qué motivo NO recibió la contra la tos convulsa o coqueluche, tetanos"
+C1_VE_2_6_O6,Numérico,"2.6. ¿Por qué motivo NO recibió la contra la tos convulsa o coqueluche, tetanos"
+C1_VE_2_6_O7,Numérico,"2.6. ¿Por qué motivo NO recibió la contra la tos convulsa o coqueluche, tetanos"
+C1_VE_2_6_OtherS,Cadena,"2.6. ¿Por qué motivo NO recibió la contra la tos convulsa o coqueluche, tetanos"
+C1_VE_2_7,Numérico,2.7.
+C1_VE_2_8,Numérico,2.8. ¿Tiene carnet de vacunación?
+C1_HL_LIBRETA_1,Numérico,LIBRETA SANITARIA
+C1_HL_3_1,Numérico,3.1. ¿Tomó {0} leche materna alguna vez?
+C1_HL_3_2,Numérico,3.2. ¿Cuánto tiempo pasó desde que {0} nació hasta que le dio pecho por primera
+C1_HL_3_3_O1,Numérico,3.3. ¿Cuál fue el motivo por el que nunca amamantó a {0}?
+C1_HL_3_3_O2,Numérico,3.3. ¿Cuál fue el motivo por el que nunca amamantó a {0}?
+C1_HL_3_3_O3,Numérico,3.3. ¿Cuál fue el motivo por el que nunca amamantó a {0}?
+C1_HL_3_3_O4,Numérico,3.3. ¿Cuál fue el motivo por el que nunca amamantó a {0}?
+C1_HL_3_3_O5,Numérico,3.3. ¿Cuál fue el motivo por el que nunca amamantó a {0}?
+C1_HL_3_3_O6,Numérico,3.3. ¿Cuál fue el motivo por el que nunca amamantó a {0}?
+C1_HL_3_3_O7,Numérico,3.3. ¿Cuál fue el motivo por el que nunca amamantó a {0}?
+C1_HL_3_3_O8,Numérico,3.3. ¿Cuál fue el motivo por el que nunca amamantó a {0}?
+C1_HL_3_3_O9,Numérico,3.3. ¿Cuál fue el motivo por el que nunca amamantó a {0}?
+C1_HL_3_3_O10,Numérico,3.3. ¿Cuál fue el motivo por el que nunca amamantó a {0}?
+C1_HL_3_3_O11,Numérico,3.3. ¿Cuál fue el motivo por el que nunca amamantó a {0}?
+C1_HL_3_3_O12,Numérico,3.3. ¿Cuál fue el motivo por el que nunca amamantó a {0}?
+C1_HL_3_3_O13,Numérico,3.3. ¿Cuál fue el motivo por el que nunca amamantó a {0}?
+C1_HL_3_3_OtherS,Cadena,3.3. ¿Cuál fue el motivo por el que nunca amamantó a {0}? (Otro motivo) [Other (
+C1_HL_3_4,Numérico,"3.4. Al momento del alta o antes del alta, ¿alguien del personal de salud le exp"
+C1_HL_3_5,Numérico,"3.5. Al momento del alta, {0} era alimentado/a:"
+T_C1_HL_3_6_1,Numérico,Le explicó los beneficios de la lactancia
+T_C1_HL_3_6_2,Numérico,Le enseñó cómo extraerse leche para alimentar al niño/a en caso de tener que ale
+T_C1_HL_3_6_3,Numérico,La ayudó a poner el niño/a al pecho
+T_C1_HL_3_6_4,Numérico,"Le dio algún contacto (número telefónico, dirección, derivación, etc.) para pedi"
+T_C1_HL_3_6_5,Numérico,Le sugirió alguna marca de leche
+T_C1_HL_3_6_6,Numérico,Le enseñó cómo preparar la leche para el niño/a
+T_C1_HL_3_6_7,Numérico,Le indicó cómo higienizar los biberones/mamaderas/etc.
+T_C1_HL_3_6_8,Numérico,Le explicó cómo conservar los sobrantes de leche
+C1_HL_3_7,Numérico,3.7. ¿Sigue tomando leche materna actualmente?
+C1_HL_3_8,Numérico,3.8. ¿A qué edad {0} dejó de tomar leche materna?
+C1_HL_3_9_O1,Numérico,3.9. ¿Cuál fue el motivo por el que dejó de amamantarlo/a?
+C1_HL_3_9_O2,Numérico,3.9. ¿Cuál fue el motivo por el que dejó de amamantarlo/a?
+C1_HL_3_9_O3,Numérico,3.9. ¿Cuál fue el motivo por el que dejó de amamantarlo/a?
+C1_HL_3_9_O4,Numérico,3.9. ¿Cuál fue el motivo por el que dejó de amamantarlo/a?
+C1_HL_3_9_O5,Numérico,3.9. ¿Cuál fue el motivo por el que dejó de amamantarlo/a?
+C1_HL_3_9_O6,Numérico,3.9. ¿Cuál fue el motivo por el que dejó de amamantarlo/a?
+C1_HL_3_9_O7,Numérico,3.9. ¿Cuál fue el motivo por el que dejó de amamantarlo/a?
+C1_HL_3_9_O8,Numérico,3.9. ¿Cuál fue el motivo por el que dejó de amamantarlo/a?
+C1_HL_3_9_O9,Numérico,3.9. ¿Cuál fue el motivo por el que dejó de amamantarlo/a?
+C1_HL_3_9_O10,Numérico,3.9. ¿Cuál fue el motivo por el que dejó de amamantarlo/a?
+C1_HL_3_9_O11,Numérico,3.9. ¿Cuál fue el motivo por el que dejó de amamantarlo/a?
+C1_HL_3_9_O12,Numérico,3.9. ¿Cuál fue el motivo por el que dejó de amamantarlo/a?
+C1_HL_3_9_O13,Numérico,3.9. ¿Cuál fue el motivo por el que dejó de amamantarlo/a?
+C1_HL_3_9_O14,Numérico,3.9. ¿Cuál fue el motivo por el que dejó de amamantarlo/a?
+C1_HL_3_9_O15,Numérico,3.9. ¿Cuál fue el motivo por el que dejó de amamantarlo/a?
+C1_HL_3_9_O16,Numérico,3.9. ¿Cuál fue el motivo por el que dejó de amamantarlo/a?
+C1_HL_3_9_O17,Numérico,3.9. ¿Cuál fue el motivo por el que dejó de amamantarlo/a?
+C1_HL_3_9_O18,Numérico,3.9. ¿Cuál fue el motivo por el que dejó de amamantarlo/a?
+C1_HL_3_9_OtherS,Cadena,3.9. ¿Cuál fue el motivo por el que dejó de amamantarlo/a?  (Otro motivo) [Other
+T_C1_HL_3_10_1,Numérico,...tomó leche materna?
+T_C1_HL_3_10_2,Numérico,"...tomó líquidos como jugo, té, agua, etc?"
+T_C1_HL_3_10_3,Numérico,...tomó otro tipo de leche que no sea materna?
+T_C1_HL_3_10_4,Numérico,...consumió algún alimento sólido o semisólido?
+T_C1_HL_3_11_1,Numérico,¿Alguna otra mujer le da el pecho a {0}?
+T_C1_HL_3_11_2,Numérico,¿Amamanta a {0} sólo en horarios pautados?
+T_C1_HL_3_11_3,Numérico,¿Le ofrece usted el pecho cuando parece tener hambre sin importar el tiempo desd
+C1_HL_3_12_O1,Numérico,"3.12. En general, cada vez que le da el pecho a {0}, usted..."
+C1_HL_3_12_O2,Numérico,"3.12. En general, cada vez que le da el pecho a {0}, usted..."
+C1_HL_3_12_O3,Numérico,"3.12. En general, cada vez que le da el pecho a {0}, usted..."
+C1_HL_3_12_O4,Numérico,"3.12. En general, cada vez que le da el pecho a {0}, usted..."
+C1_HL_3_13,Numérico,"3.13. ¿Se saca leche para alimentarlo/a en su ausencia, o para otros fines?"
+C1_HL_3_14_O1,Numérico,"3.14. Cuando se saca leche, ¿en qué recipiente la conserva?"
+C1_HL_3_14_O2,Numérico,"3.14. Cuando se saca leche, ¿en qué recipiente la conserva?"
+C1_HL_3_14_O3,Numérico,"3.14. Cuando se saca leche, ¿en qué recipiente la conserva?"
+C1_HL_3_14_O4,Numérico,"3.14. Cuando se saca leche, ¿en qué recipiente la conserva?"
+C1_HL_3_14_O5,Numérico,"3.14. Cuando se saca leche, ¿en qué recipiente la conserva?"
+C1_HL_3_14_OtherS,Cadena,"3.14. Cuando se saca leche, ¿en qué recipiente la conserva? (Otro) [Other (speci"
+C1_HL_3_15,Numérico,"3.15. Algún día de la semana pasada, ¿consumió el niño/a algún líquido (como agu"
+T_C1_HL_3_16_1,Numérico,...dejó al niño/a dormido en algún momento con el biberón/mamadera en la boca?
+T_C1_HL_3_16_2,Numérico,...alentó al niño/a a terminar el biberón/mamadera aunque no pareciera quererlo?
+C1_HL_3_17_O1,Numérico,"3.17. En general, ¿qué hace cuando sobra leche que el niño/a no termina de tomar"
+C1_HL_3_17_O2,Numérico,"3.17. En general, ¿qué hace cuando sobra leche que el niño/a no termina de tomar"
+C1_HL_3_17_O3,Numérico,"3.17. En general, ¿qué hace cuando sobra leche que el niño/a no termina de tomar"
+C1_HL_3_17_O4,Numérico,"3.17. En general, ¿qué hace cuando sobra leche que el niño/a no termina de tomar"
+C1_HL_3_17_OtherS,Cadena,"3.17. En general, ¿qué hace cuando sobra leche que el niño/a no termina de tomar"
+C1_SN_LIBRETA_1,Numérico,Trae libreta?
+C1_SN_4_1,Numérico,4.1. ¿La/o ha llevado a {0} al médico o al hospital para que le efectuaran contr
+C1_SN_4_2,Numérico,"4.2. En total, ¿cuántas veces lo/a llevo al control en salud estando sano en los"
+T_C1_SN_4_3_1,Numérico,...diarrea?
+T_C1_SN_4_3_2,Numérico,...otitis?
+T_C1_SN_4_3_3,Numérico,...infección respiratoria?
+T_C1_SN_4_3_4,Numérico,...desnutrición o bajo peso?
+C1_SN_4_4_1,Numérico,"4.4.1. En esa ocasión, cuando diagnosticaron al niño/a con diarrea, usted, ¿susp"
+C1_SN_4_4_2,Numérico,"4.4.2. En esa ocasión, cuando diagnosticaron a {0} con otitis, usted, ¿suspendió"
+C1_SN_4_4_3,Numérico,"4.4.3. En esa ocasión, cuando diagnosticaron a {0} con infección respiratoria, u"
+C1_SN_4_4_4,Numérico,"4.4.4. En esa ocasión, cuando diagnosticaron al niño/a con desnutrición o bajo p"
+C1_SN_4_5_1,Numérico,"4.5.1. {0}, ¿usa chupete?"
+C1_SN_4_5_2,Numérico,4.5.2. ¿Desde qué mes de vida usa chupete?
+C1_SN_4_5_3,Numérico,"4.5.3. Usted o alguien que lo cuida, ¿moja el chupete con azúcar, miel, gaseosa,"
+C1_SN_4_5_4,Numérico,4.5.4. ¿Con que frecuencia {0} usa el chupete cuando está despierto?
+C1_SN_4_5_5,Numérico,4.5.5. ¿Con que frecuencia {0} usa  el chupete cuando duerme ?
+C1_SN_4_5_6_O1,Numérico,4.5.6. ¿Cómo higienizan el chupete?
+C1_SN_4_5_6_O2,Numérico,4.5.6. ¿Cómo higienizan el chupete?
+C1_SN_4_5_6_O3,Numérico,4.5.6. ¿Cómo higienizan el chupete?
+C1_SN_4_5_6_O4,Numérico,4.5.6. ¿Cómo higienizan el chupete?
+C1_SN_4_5_6_O5,Numérico,4.5.6. ¿Cómo higienizan el chupete?
+C1_SN_4_5_7,Numérico,"4.5.7. {0}, ¿se chupa el dedo?"
+C1_SN_4_6_1,Numérico,4.6.1. ¿Tomó el niño/a alguna vez suplementos de hierro?
+C1_SN_4_6_2,Numérico,4.6.2. ¿A qué edad comenzó a tomarlo?
+C1_SN_4_6_3,Numérico,4.6.3. ¿Lo toma actualmente?
+C1_SN_4_6_4,Numérico,4.6.4. ¿Cuántas veces por semana lo toma?
+C1_SN_4_6_5_O1,Numérico,4.6.5. ¿Cuáles fueron los motivos por los que dejó de darle hierro?
+C1_SN_4_6_5_O2,Numérico,4.6.5. ¿Cuáles fueron los motivos por los que dejó de darle hierro?
+C1_SN_4_6_5_O3,Numérico,4.6.5. ¿Cuáles fueron los motivos por los que dejó de darle hierro?
+C1_SN_4_6_5_O4,Numérico,4.6.5. ¿Cuáles fueron los motivos por los que dejó de darle hierro?
+C1_SN_4_6_5_OtherS,Cadena,4.6.5. ¿Cuáles fueron los motivos por los que dejó de darle hierro? (Otro) [Othe
+C1_SN_4_7_1,Numérico,4.7.1. ¿Tomó el niño/a alguna vez vitaminas?
+C1_SN_4_7_2,Numérico,4.7.2. ¿A qué edad comenzó a tomarlas?
+C1_SN_4_7_3,Numérico,4.7.3. ¿Lo toma actualmente?
+C1_SN_4_7_4,Numérico,4.7.4. ¿Cuántas veces por semana lo toma?
+C1_SN_4_7_5_O1,Numérico,4.7.5. ¿Cuáles fueron los motivos por los que dejó de darle vitaminas?
+C1_SN_4_7_5_O2,Numérico,4.7.5. ¿Cuáles fueron los motivos por los que dejó de darle vitaminas?
+C1_SN_4_7_5_O3,Numérico,4.7.5. ¿Cuáles fueron los motivos por los que dejó de darle vitaminas?
+C1_SN_4_7_5_O4,Numérico,4.7.5. ¿Cuáles fueron los motivos por los que dejó de darle vitaminas?
+C1_SN_4_7_5_OtherS,Cadena,4.7.5. ¿Cuáles fueron los motivos por los que dejó de darle vitaminas? (Otro) [O
+C1_SN_4_8,Numérico,"4.8. Tomando como referencia la semana pasada, ¿cuántos minutos/horas por día es"
+C1_SN_4_9,Numérico,"4.9. Tomando como referencia una semana normal (sin viajes, enfermedad, etc), in"
+C1_PC_5_1,Numérico,"5.1. Alguna vez, {0} ¿ha sido diagnosticado/a con celiaquía?"
+C1_PC_5_2,Numérico,"5.2. Para el diagnostico de celiaquía, ¿le han realizado una biopsia, es decir,"
+C1_PC_5_3,Numérico,5.3. ¿Sigue {0} la dieta especial para celiaquía?
+C1_PC_5_4,Numérico,"5.4. Desde que {0} fue diagnosticado/a, ¿con que frecuencia ha recibido asistenc"
+C1_PC_5_5_O1,Numérico,5.5. ¿Cuál de las siguientes asistencias alimentarias por celiaquía han recibido
+C1_PC_5_5_O2,Numérico,5.5. ¿Cuál de las siguientes asistencias alimentarias por celiaquía han recibido
+C1_PC_5_5_O3,Numérico,5.5. ¿Cuál de las siguientes asistencias alimentarias por celiaquía han recibido
+C1_PC_5_5_O4,Numérico,5.5. ¿Cuál de las siguientes asistencias alimentarias por celiaquía han recibido
+C1_PC_5_5_OtherS,Cadena,5.5. ¿Cuál de las siguientes asistencias alimentarias por celiaquía han recibido
+C1_HAC_6_1,Numérico,6.1. ¿Con qué frecuencia {0} come acompañado/a?
+C1_HAC_6_2,Numérico,6.2. ¿Con qué frecuencia le hablan a {0} durante las comidas?
+C1_HAC_6_3,Numérico,"6.3. Mientras {0} come, ¿con qué frecuencia mira pantallas de algún dispositivo"
+C1_HAC_6_4,Numérico,"6.4. Cuando alimentan a {0}, ¿con que frecuencia le permiten agarrar la comida s"
+C1_HAC_6_5,Numérico,"6.5. Cuando le sirven la comida a {0}, ¿con qué frecuencia lo hacen en un plato"
+C1_HAC_6_6,Numérico,"6.6. Cuando alimentan a {0}, ¿con qué frecuencia le permiten comer hasta que se"
+C1_HAC_6_7,Numérico,"6.7. Cuando alimentan a {0}, ¿con qué frecuencia le hacen algún tipo de juego (p"
+C1_HAC_6_8,Numérico,6.8. ¿Con qué frecuencia premian a {0} cuando consideran que comió bien (con gas
+C1_HAC_6_9,Numérico,6.9. ¿Con qué frecuencia considera como placentero el momento de la comida de {0
+C1_HAC_6_10,Numérico,6.10. En su opinión el niño acostumbra a comer una cantidad de comida...
+T_C1_HA_7_1_2,Numérico,Puré de verduras cocidas
+T_C1_HA_7_1_3,Numérico,Espinaca o acelga
+T_C1_HA_7_1_4,Numérico,Puré de frutas
+T_C1_HA_7_1_5,Numérico,Otras frutas o verduras crudas o ralladas
+T_C1_HA_7_1_7,Numérico,"Huevos (de gallina, codorniz, etc)"
+T_C1_HA_7_1_8,Numérico,Carne vacuna
+T_C1_HA_7_1_9,Numérico,Pollo
+T_C1_HA_7_1_10,Numérico,Pescado
+T_C1_HA_7_1_11,Numérico,Hígado
+T_C1_HA_7_1_12,Numérico,Morcilla
+T_C1_HA_7_1_13,Numérico,Otras carnes
+T_C1_HA_7_1_15,Numérico,"Legumbres (lentejas, garbanzos, porotos, etc.)"
+T_C1_HA_7_1_16,Numérico,"Fideos, sémola, avena y otros cereales con gluten"
+T_C1_HA_7_1_17,Numérico,"Arroz, harina de maíz, tapioca y otros cereales sin gluten"
+T_C1_HA_7_1_18,Numérico,Papillas listas para comer
+T_C1_HA_7_1_19,Numérico,Pan o galletitas saladas
+T_C1_HA_7_1_20,Numérico,Galletitas dulces
+T_C1_HA_7_1_22,Numérico,Yogur
+T_C1_HA_7_1_23,Numérico,Leche diferente de la materna
+T_C1_HA_7_1_25,Numérico,Helado
+T_C1_HA_7_1_26,Numérico,Postres lácteos envasados
+T_C1_HA_7_1_27,Numérico,Miel
+T_C1_HA_7_1_28,Numérico,Golosinas
+T_C1_HA_7_1_30,Numérico,Gaseosa (común o light)
+T_C1_HA_7_1_31,Numérico,Agua
+T_C1_HA_7_1_32,Numérico,Té
+T_C1_HA_7_1_33,Numérico,Jugo de frutas frescas casero
+T_C1_HA_7_1_34,Numérico,Jugo de frutas industrial
+T_C1_HA_7_1_35,Numérico,"Jugo de frutas para diluir, polvo o líquido (común o light)"
+T_C1_HA_7_1_37,Numérico,Sal
+T_C1_HA_7_1_38,Numérico,Aceite
+T_C1_HA_7_1_39,Numérico,¿Otro alimento que no hayamos mencionado? {0}
+C1_HA_7_1_OtherS,Cadena,7.1. ¿Qué otro alimento que no hayamos mencionado?
+T_C1_HA_7_1A_2,Numérico,Puré de verduras cocidas
+T_C1_HA_7_1A_3,Numérico,Espinaca o acelga
+T_C1_HA_7_1A_4,Numérico,Puré de frutas
+T_C1_HA_7_1A_5,Numérico,Otras frutas o verduras crudas o ralladas
+T_C1_HA_7_1A_7,Numérico,"Huevos (de gallina, codorniz, etc)"
+T_C1_HA_7_1A_8,Numérico,Carne vacuna
+T_C1_HA_7_1A_9,Numérico,Pollo
+T_C1_HA_7_1A_10,Numérico,Pescado
+T_C1_HA_7_1A_11,Numérico,Hígado
+T_C1_HA_7_1A_12,Numérico,Morcilla
+T_C1_HA_7_1A_13,Numérico,Otras carnes
+T_C1_HA_7_1A_15,Numérico,"Legumbres (lentejas, garbanzos, porotos, etc.)"
+T_C1_HA_7_1A_16,Numérico,"Fideos, sémola, avena y otros cereales con gluten"
+T_C1_HA_7_1A_17,Numérico,"Arroz, harina de maíz, tapioca y otros cereales sin gluten"
+T_C1_HA_7_1A_18,Numérico,Papillas listas para comer
+T_C1_HA_7_1A_19,Numérico,Pan o galletitas saladas
+T_C1_HA_7_1A_20,Numérico,Galletitas dulces
+T_C1_HA_7_1A_22,Numérico,Yogur
+T_C1_HA_7_1A_23,Numérico,Leche diferente de la materna
+T_C1_HA_7_1A_25,Numérico,Helado
+T_C1_HA_7_1A_26,Numérico,Postres lácteos envasados
+T_C1_HA_7_1A_27,Numérico,Miel
+T_C1_HA_7_1A_28,Numérico,Golosinas
+T_C1_HA_7_1A_30,Numérico,Gaseosa (común o light)
+T_C1_HA_7_1A_31,Numérico,Agua
+T_C1_HA_7_1A_32,Numérico,Té
+T_C1_HA_7_1A_33,Numérico,Jugo de frutas frescas casero
+T_C1_HA_7_1A_34,Numérico,Jugo de frutas industrial
+T_C1_HA_7_1A_35,Numérico,"Jugo de frutas para diluir, polvo o líquido (común o light)"
+T_C1_HA_7_1A_37,Numérico,Sal
+T_C1_HA_7_1A_38,Numérico,Aceite
+T_C1_HA_7_1A_39,Numérico,¿Otro alimento que no hayamos mencionado? {0}
+C1_HA_7_2_O1,Numérico,7.2. ¿Cuál fue el/los motivos para empezar a darle a {0} alimentos/bebidas?
+C1_HA_7_2_O2,Numérico,7.2. ¿Cuál fue el/los motivos para empezar a darle a {0} alimentos/bebidas?
+C1_HA_7_2_O3,Numérico,7.2. ¿Cuál fue el/los motivos para empezar a darle a {0} alimentos/bebidas?
+C1_HA_7_2_O4,Numérico,7.2. ¿Cuál fue el/los motivos para empezar a darle a {0} alimentos/bebidas?
+C1_HA_7_2_O5,Numérico,7.2. ¿Cuál fue el/los motivos para empezar a darle a {0} alimentos/bebidas?
+C1_HA_7_2_O6,Numérico,7.2. ¿Cuál fue el/los motivos para empezar a darle a {0} alimentos/bebidas?
+C1_HA_7_2_O7,Numérico,7.2. ¿Cuál fue el/los motivos para empezar a darle a {0} alimentos/bebidas?
+C1_HA_7_2_O8,Numérico,7.2. ¿Cuál fue el/los motivos para empezar a darle a {0} alimentos/bebidas?
+C1_HA_7_2_O9,Numérico,7.2. ¿Cuál fue el/los motivos para empezar a darle a {0} alimentos/bebidas?
+C1_HA_7_2_O10,Numérico,7.2. ¿Cuál fue el/los motivos para empezar a darle a {0} alimentos/bebidas?
+C1_HA_7_2_O11,Numérico,7.2. ¿Cuál fue el/los motivos para empezar a darle a {0} alimentos/bebidas?
+C1_HA_7_2_O12,Numérico,7.2. ¿Cuál fue el/los motivos para empezar a darle a {0} alimentos/bebidas?
+C1_HA_7_2_O13,Numérico,7.2. ¿Cuál fue el/los motivos para empezar a darle a {0} alimentos/bebidas?
+C1_HA_7_2_O14,Numérico,7.2. ¿Cuál fue el/los motivos para empezar a darle a {0} alimentos/bebidas?
+C1_HA_7_2_O15,Numérico,7.2. ¿Cuál fue el/los motivos para empezar a darle a {0} alimentos/bebidas?
+C1_HA_7_2_O16,Numérico,7.2. ¿Cuál fue el/los motivos para empezar a darle a {0} alimentos/bebidas?
+C1_HA_7_2_OtherS,Cadena,7.2. ¿Cuál fue el/los motivos para empezar a darle a {0} alimentos/bebidas?  (Ot
+C1_ELP_8_1,Numérico,"8.1. Durante el último mes, ¿recibió leche gratuita para {0} en alguna instituci"
+C1_ELP_8_2_O1,Numérico,8.2. ¿Dónde se la entregaron?
+C1_ELP_8_2_O2,Numérico,8.2. ¿Dónde se la entregaron?
+C1_ELP_8_2_O3,Numérico,8.2. ¿Dónde se la entregaron?
+C1_ELP_8_2_O4,Numérico,8.2. ¿Dónde se la entregaron?
+C1_ELP_8_2_O5,Numérico,8.2. ¿Dónde se la entregaron?
+C1_ELP_8_2_OtherS,Cadena,8.2. ¿Dónde se la entregaron?  (Otro) [Other (specify)]
+C1_ELP_8_3_O1,Numérico,"8.3. En el hogar, ¿quiénes consumen esa leche?"
+C1_ELP_8_3_O2,Numérico,"8.3. En el hogar, ¿quiénes consumen esa leche?"
+C1_ELP_8_3_O3,Numérico,"8.3. En el hogar, ¿quiénes consumen esa leche?"
+C1_ELP_8_3_O4,Numérico,"8.3. En el hogar, ¿quiénes consumen esa leche?"
+C1_ELP_8_3_O5,Numérico,"8.3. En el hogar, ¿quiénes consumen esa leche?"
+C1_ELP_8_4,Numérico,"8.4. En algún momento, alguien del equipo de salud, ¿le explicó cómo se preparab"
+C1_ELP_8_5,Numérico,8.5. ¿La explicación le resultó clara?
+C1_A_9_1,Numérico,9.1. Peso de la madre biológica
+C1_A_9_1A,Cadena,9.1A. Especificar qué ropa tiene puesta la madre:
+C1_A_9_2,Numérico,9.2. Peso del niño/a
+C1_A_9_2A,Numérico,9.2A. El peso del niño/a fue tomado…
+C1_A_9_2B,Cadena,9.2B. Especificar qué ropa tiene puesta el niño/a:
+C1_A_9_3,Cadena,9.3. En caso de haber tenido algún inconveniente para pesar al niño/a o a la mad
+C1_A_9_4,Numérico,9.4. Talla de la madre biológica
+C1_A_9_5,Numérico,9.5. Talla del niño/a
+C1_A_9_6,Cadena,9.6. En caso de haber tenido algún inconveniente para medir al niño/a o a la mad
+C1_A_9_7,Numérico,9.7. Perímetro cefálico del niño/a.
+C2_FECHA,Fecha,Fecha de nacimiento del niño/a
+C2_VINCULO,Numérico,Vínculo del adulto respondente con el niño/a
+C2_VINCULO_OtherS,Cadena,Vínculo del adulto respondente con el niño/a [Other (specify)]
+C2_SEXO,Numérico,El niño/a nació
+C2_SGN_LIBRETA_1,Numérico,Trae libreta?
+C2_SGN_1_1,Numérico,"1.1. En general, usted diría que la salud de {0} es:"
+T_C2_SGN_1_2_1,Numérico,Diabetes
+T_C2_SGN_1_2_2,Numérico,Enfermedad renal
+T_C2_SGN_1_2_3,Numérico,Hipertensión o presión alta
+T_C2_SGN_1_2_4,Numérico,"Dislipemia, colesterol o triglicéridos altos"
+T_C2_SGN_1_2_5,Numérico,Asma u otra enfermedad respiratoria
+T_C2_SGN_1_2_6,Numérico,Anemia
+T_C2_SGN_1_2_7,Numérico,Algún tipo de Cardiopatía
+T_C2_SGN_1_2_8,Numérico,Otra enfermedad de larga duración
+C2_SGN_1_2_OtherS,Cadena,Qué otra enfermedad de larga duración?
+C2_SGN_1_3,Numérico,"1.3. En el último año, ¿cuántas veces lo llevaron al médico a realizar un contro"
+C2_SGN_1_4,Numérico,"1.4. Algún integrante de la familia, ¿fuma tabaco dentro de la casa?"
+C2_SGN_1_5_O1,Numérico,1.5. ¿Tiene {0} dificultad o limitación permanente para…
+C2_SGN_1_5_O2,Numérico,1.5. ¿Tiene {0} dificultad o limitación permanente para…
+C2_SGN_1_5_O3,Numérico,1.5. ¿Tiene {0} dificultad o limitación permanente para…
+C2_SGN_1_5_O4,Numérico,1.5. ¿Tiene {0} dificultad o limitación permanente para…
+C2_SGN_1_5_O5,Numérico,1.5. ¿Tiene {0} dificultad o limitación permanente para…
+C2_SGN_1_5_O6,Numérico,1.5. ¿Tiene {0} dificultad o limitación permanente para…
+C2_SGN_1_6,Numérico,1.6. ¿Tiene {0} certificado de discapacidad?
+C2_SGN_1_7,Numérico,"1.7. {0}, ¿usa chupete en algún momento del día o la noche?"
+C2_SGN_1_8,Numérico,"1.8. Considerando el día y la noche, ¿cuántas horas por día en promedio usa el c"
+C2_SGN_1_9,Numérico,1.9. ¿Tomó pecho alguna vez?
+C2_SGN_1_10,Numérico,1.10. ¿Toma pecho actualmente?
+C2_SGN_1_11,Numérico,1.11. ¿A qué edad dejó el pecho?
+C2_SGN_1_12,Numérico,"1.12. {0}, ¿se chupa el dedo?"
+C2_V_2_1,Numérico,2.1. ¿Recibiste la vacuna contra el virus de papiloma humano (VPH)?
+C2_V_2_2,Numérico,2.2. ¿Cuántas dosis recibiste?
+C2_V_2_3_O1,Numérico,2.3. ¿Por qué motivo recibiste la vacuna contra el virus de papiloma humano (VPH
+C2_V_2_3_O2,Numérico,2.3. ¿Por qué motivo recibiste la vacuna contra el virus de papiloma humano (VPH
+C2_V_2_3_O3,Numérico,2.3. ¿Por qué motivo recibiste la vacuna contra el virus de papiloma humano (VPH
+C2_V_2_3_O4,Numérico,2.3. ¿Por qué motivo recibiste la vacuna contra el virus de papiloma humano (VPH
+C2_V_2_3_O5,Numérico,2.3. ¿Por qué motivo recibiste la vacuna contra el virus de papiloma humano (VPH
+C2_V_2_3_O6,Numérico,2.3. ¿Por qué motivo recibiste la vacuna contra el virus de papiloma humano (VPH
+C2_V_2_3_O7,Numérico,2.3. ¿Por qué motivo recibiste la vacuna contra el virus de papiloma humano (VPH
+C2_V_2_3_O8,Numérico,2.3. ¿Por qué motivo recibiste la vacuna contra el virus de papiloma humano (VPH
+C2_V_2_3_OtherS,Cadena,2.3. ¿Por qué motivo recibiste la vacuna contra el virus de papiloma humano (VPH
+C2_V_2_4_O1,Numérico,2.4. ¿Por qué motivo NO recibiste la vacuna contra el virus de papiloma humano (
+C2_V_2_4_O2,Numérico,2.4. ¿Por qué motivo NO recibiste la vacuna contra el virus de papiloma humano (
+C2_V_2_4_O3,Numérico,2.4. ¿Por qué motivo NO recibiste la vacuna contra el virus de papiloma humano (
+C2_V_2_4_O4,Numérico,2.4. ¿Por qué motivo NO recibiste la vacuna contra el virus de papiloma humano (
+C2_V_2_4_O5,Numérico,2.4. ¿Por qué motivo NO recibiste la vacuna contra el virus de papiloma humano (
+C2_V_2_4_O6,Numérico,2.4. ¿Por qué motivo NO recibiste la vacuna contra el virus de papiloma humano (
+C2_V_2_4_O7,Numérico,2.4. ¿Por qué motivo NO recibiste la vacuna contra el virus de papiloma humano (
+C2_V_2_4_OtherS,Cadena,2.4. ¿Por qué motivo NO recibiste la vacuna contra el virus de papiloma humano (
+C2_V_2_5,Numérico,"2.5. ¿Recibiste la vacuna contra el tétanos, la difteria y la tos convulsa (trip"
+C2_V_2_6_O1,Numérico,"2.6. ¿Por qué motivo recibiste la vacuna contra el tétanos, la difteria y la tos"
+C2_V_2_6_O2,Numérico,"2.6. ¿Por qué motivo recibiste la vacuna contra el tétanos, la difteria y la tos"
+C2_V_2_6_O3,Numérico,"2.6. ¿Por qué motivo recibiste la vacuna contra el tétanos, la difteria y la tos"
+C2_V_2_6_O4,Numérico,"2.6. ¿Por qué motivo recibiste la vacuna contra el tétanos, la difteria y la tos"
+C2_V_2_6_O5,Numérico,"2.6. ¿Por qué motivo recibiste la vacuna contra el tétanos, la difteria y la tos"
+C2_V_2_6_O6,Numérico,"2.6. ¿Por qué motivo recibiste la vacuna contra el tétanos, la difteria y la tos"
+C2_V_2_6_O7,Numérico,"2.6. ¿Por qué motivo recibiste la vacuna contra el tétanos, la difteria y la tos"
+C2_V_2_6_O8,Numérico,"2.6. ¿Por qué motivo recibiste la vacuna contra el tétanos, la difteria y la tos"
+C2_V_2_6_OtherS,Cadena,"2.6. ¿Por qué motivo recibiste la vacuna contra el tétanos, la difteria y la tos"
+C2_V_2_7_O1,Numérico,"2.7. ¿Por qué motivo NO recibiste la vacuna contra el tétanos, la difteria y la"
+C2_V_2_7_O2,Numérico,"2.7. ¿Por qué motivo NO recibiste la vacuna contra el tétanos, la difteria y la"
+C2_V_2_7_O3,Numérico,"2.7. ¿Por qué motivo NO recibiste la vacuna contra el tétanos, la difteria y la"
+C2_V_2_7_O4,Numérico,"2.7. ¿Por qué motivo NO recibiste la vacuna contra el tétanos, la difteria y la"
+C2_V_2_7_O5,Numérico,"2.7. ¿Por qué motivo NO recibiste la vacuna contra el tétanos, la difteria y la"
+C2_V_2_7_O6,Numérico,"2.7. ¿Por qué motivo NO recibiste la vacuna contra el tétanos, la difteria y la"
+C2_V_2_7_O7,Numérico,"2.7. ¿Por qué motivo NO recibiste la vacuna contra el tétanos, la difteria y la"
+C2_V_2_7_OtherS,Cadena,"2.7. ¿Por qué motivo NO recibiste la vacuna contra el tétanos, la difteria y la"
+C2_V_2_8,Numérico,2.8.
+C2_V_2_9,Numérico,2.9. ¿Tiene carnet de vacunación?
+C2_PC_3_1,Numérico,"3.1. Alguna vez, {0} ¿ha sido diagnosticado/a con celiaquía?"
+C2_PC_3_2,Numérico,"3.2. Para el diagnostico de celiaquía, ¿le han realizado una biopsia, es decir,"
+C2_PC_3_3,Numérico,3.3. ¿Sigue {0} la dieta especial para celiaquía?
+C2_PC_3_4,Numérico,"3.4. Desde que {0} fue diagnosticado/a, ¿con que frecuencia ha recibido asistenc"
+C2_PC_3_5_O1,Numérico,3.5. ¿Cuál de las siguientes asistencias alimentarias por celiaquía han recibido
+C2_PC_3_5_O2,Numérico,3.5. ¿Cuál de las siguientes asistencias alimentarias por celiaquía han recibido
+C2_PC_3_5_O3,Numérico,3.5. ¿Cuál de las siguientes asistencias alimentarias por celiaquía han recibido
+C2_PC_3_5_O4,Numérico,3.5. ¿Cuál de las siguientes asistencias alimentarias por celiaquía han recibido
+C2_PC_3_5_OtherS,Cadena,3.5. ¿Cuál de las siguientes asistencias alimentarias por celiaquía han recibido
+C2_AF_4_1,Numérico,"4.1. Durante los últimos 7 días, ¿cuántas horas y minutos en total durmió {0}?"
+C2_AF_4_2,Numérico,"4.2. Durante los últimos 7 días, considerando sólo el tiempo fuera de la guarder"
+C2_AF_4_3,Numérico,"4.3. Durante los últimos 7 días, considerando sólo el tiempo fuera de la guarder"
+I_1_C2_AF_4_4,Numérico,"(Lunes) 4.4.{0}. Durante la última semana, ¿cuántas horas y minutos de educación"
+I_2_C2_AF_4_4,Numérico,"(Martes) 4.4.{0}. Durante la última semana, ¿cuántas horas y minutos de educació"
+I_3_C2_AF_4_4,Numérico,"(Miercoles) 4.4.{0}. Durante la última semana, ¿cuántas horas y minutos de educa"
+I_4_C2_AF_4_4,Numérico,"(Jueves) 4.4.{0}. Durante la última semana, ¿cuántas horas y minutos de educació"
+I_5_C2_AF_4_4,Numérico,"(Viernes) 4.4.{0}. Durante la última semana, ¿cuántas horas y minutos de educaci"
+C2_AF_4_5,Numérico,"4.5. ¿Camina, pedalea o patina el niño/a al menos 10 minutos consecutivos para i"
+I_1_C2_AF_4_6,Numérico,"(Lunes) 4.6.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos caminó, pe"
+I_2_C2_AF_4_6,Numérico,"(Martes) 4.6.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos caminó, p"
+I_3_C2_AF_4_6,Numérico,"(Miercoles) 4.6.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos caminó"
+I_4_C2_AF_4_6,Numérico,"(Jueves) 4.6.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos caminó, p"
+I_5_C2_AF_4_6,Numérico,"(Viernes) 4.6.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos caminó,"
+I_6_C2_AF_4_6,Numérico,"(Sabado) 4.6.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos caminó, p"
+I_7_C2_AF_4_6,Numérico,"(Domingo) 4.6.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos caminó,"
+C2_AF_4_7,Numérico,"4.7. Durante los últimos 7 días, ¿el niño/a realizó actividades dentro de la cas"
+I_1_C2_AF_4_8,Numérico,"(Lunes) 4.8.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos el niño/a"
+I_2_C2_AF_4_8,Numérico,"(Martes) 4.8.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos el niño/a"
+I_3_C2_AF_4_8,Numérico,"(Miercoles) 4.8.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos el niñ"
+I_4_C2_AF_4_8,Numérico,"(Jueves) 4.8.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos el niño/a"
+I_5_C2_AF_4_8,Numérico,"(Viernes) 4.8.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos el niño/"
+I_6_C2_AF_4_8,Numérico,"(Sabado) 4.8.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos el niño/a"
+I_7_C2_AF_4_8,Numérico,"(Domingo) 4.8.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos el niño/"
+C2_AF_4_9,Numérico,"4.9. Durante los últimos 7 días, ¿el niño/a jugó dentro de la casa con consolas"
+I_1_C2_AF_4_10,Numérico,"(Lunes) 4.10.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos el niño/a"
+I_2_C2_AF_4_10,Numérico,"(Martes) 4.10.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos el niño/"
+I_3_C2_AF_4_10,Numérico,"(Miercoles) 4.10.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos el ni"
+I_4_C2_AF_4_10,Numérico,"(Jueves) 4.10.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos el niño/"
+I_5_C2_AF_4_10,Numérico,"(Viernes) 4.10.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos el niño"
+I_6_C2_AF_4_10,Numérico,"(Sabado) 4.10.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos el niño/"
+I_7_C2_AF_4_10,Numérico,"(Domingo) 4.10.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos el niño"
+C2_AF_4_11,Numérico,"4.11. Durante los últimos 7 días, {0} realizó actividades fuera de la casa, al a"
+I_1_C2_AF_4_12,Numérico,"(Lunes) 4.12.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos {1} jugó"
+I_2_C2_AF_4_12,Numérico,"(Martes) 4.12.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos {1} jugó"
+I_3_C2_AF_4_12,Numérico,"(Miercoles) 4.12.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos {1} j"
+I_4_C2_AF_4_12,Numérico,"(Jueves) 4.12.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos {1} jugó"
+I_5_C2_AF_4_12,Numérico,"(Viernes) 4.12.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos {1} jug"
+I_6_C2_AF_4_12,Numérico,"(Sabado) 4.12.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos {1} jugó"
+I_7_C2_AF_4_12,Numérico,"(Domingo) 4.12.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos {1} jug"
+C2_AF_4_13,Numérico,"4.13. Durante los últimos 7 días, {0} realizó deporte organizado y/o programas d"
+I_1_C2_AF_4_14,Numérico,"(Lunes) 4.14.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos {1} reali"
+I_2_C2_AF_4_14,Numérico,"(Martes) 4.14.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos {1} real"
+I_3_C2_AF_4_14,Numérico,"(Miercoles) 4.14.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos {1} r"
+I_4_C2_AF_4_14,Numérico,"(Jueves) 4.14.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos {1} real"
+I_5_C2_AF_4_14,Numérico,"(Viernes) 4.14.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos {1} rea"
+I_6_C2_AF_4_14,Numérico,"(Sabado) 4.14.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos {1} real"
+I_7_C2_AF_4_14,Numérico,"(Domingo) 4.14.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos {1} rea"
+C2_AF_4_15,Numérico,"4.15. Durante los últimos 7 días, ¿realizó {0} ejercicios para fortalecer múscul"
+I_1_C2_AF_4_16,Numérico,"(Lunes) 4.16.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos realizó {"
+I_2_C2_AF_4_16,Numérico,"(Martes) 4.16.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos realizó"
+I_3_C2_AF_4_16,Numérico,"(Miercoles) 4.16.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos reali"
+I_4_C2_AF_4_16,Numérico,"(Jueves) 4.16.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos realizó"
+I_5_C2_AF_4_16,Numérico,"(Viernes) 4.16.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos realizó"
+I_6_C2_AF_4_16,Numérico,"(Sabado) 4.16.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos realizó"
+I_7_C2_AF_4_16,Numérico,"(Domingo) 4.16.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos realizó"
+C2_AF_4_17,Numérico,4.17. ¿Realiza educación física en la escuela?
+I_1_C2_AF_4_18,Numérico,"(Lunes) 4.18.{0}. Durante la última semana, ¿cuántas horas y minutos de educació"
+I_2_C2_AF_4_18,Numérico,"(Martes) 4.18.{0}. Durante la última semana, ¿cuántas horas y minutos de educaci"
+I_3_C2_AF_4_18,Numérico,"(Miercoles) 4.18.{0}. Durante la última semana, ¿cuántas horas y minutos de educ"
+I_4_C2_AF_4_18,Numérico,"(Jueves) 4.18.{0}. Durante la última semana, ¿cuántas horas y minutos de educaci"
+I_5_C2_AF_4_18,Numérico,"(Viernes) 4.18.{0}. Durante la última semana, ¿cuántas horas y minutos de educac"
+I_6_C2_AF_4_18,Numérico,"(Sabado) 4.18.{0}. Durante la última semana, ¿cuántas horas y minutos de educaci"
+I_7_C2_AF_4_18,Numérico,"(Domingo) 4.18.{0}. Durante la última semana, ¿cuántas horas y minutos de educac"
+C2_AF_4_19_O1,Numérico,4.19. ¿Cuál es la causa por la cuál {0} no realiza educación física?
+C2_AF_4_19_O2,Numérico,4.19. ¿Cuál es la causa por la cuál {0} no realiza educación física?
+C2_AF_4_19_O3,Numérico,4.19. ¿Cuál es la causa por la cuál {0} no realiza educación física?
+C2_AF_4_19_O4,Numérico,4.19. ¿Cuál es la causa por la cuál {0} no realiza educación física?
+C2_AF_4_19_O4_OtherS,Cadena,4.19. ¿Cuál es la causa por la cuál {0} no realiza educación física?  (Otros) [O
+C2_HAC_5_1_1,Numérico,"5.1.1. Durante los últimos 7 días, indique cuántas veces el niño/a desayunó."
+C2_HAC_5_1_2,Numérico,"5.1.2. Durante los últimos 7 días, indique cuántas veces el niño/a almorzó."
+C2_HAC_5_1_3,Numérico,"5.1.3. Durante los últimos 7 días, indique cuántas veces el niño/a merendó."
+C2_HAC_5_1_4,Numérico,"5.1.4. Durante los últimos 7 días, indique cuántas veces el niño/a cenó."
+C2_HAC_5_1_5,Numérico,"5.1.5. Durante los últimos 7 días, ¿con qué frecuencia el niño/a consumió algún"
+C2_HAC_5_1_6_O1,Numérico,"5.1.6. Durante los últimos 7 días, ¿qué alimentos o bebidas consumió el niño/a e"
+C2_HAC_5_1_6_O2,Numérico,"5.1.6. Durante los últimos 7 días, ¿qué alimentos o bebidas consumió el niño/a e"
+C2_HAC_5_1_6_O3,Numérico,"5.1.6. Durante los últimos 7 días, ¿qué alimentos o bebidas consumió el niño/a e"
+C2_HAC_5_1_6_O4,Numérico,"5.1.6. Durante los últimos 7 días, ¿qué alimentos o bebidas consumió el niño/a e"
+C2_HAC_5_1_6_O5,Numérico,"5.1.6. Durante los últimos 7 días, ¿qué alimentos o bebidas consumió el niño/a e"
+C2_HAC_5_1_6_O6,Numérico,"5.1.6. Durante los últimos 7 días, ¿qué alimentos o bebidas consumió el niño/a e"
+C2_HAC_5_1_6_O7,Numérico,"5.1.6. Durante los últimos 7 días, ¿qué alimentos o bebidas consumió el niño/a e"
+C2_HAC_5_1_6_O8,Numérico,"5.1.6. Durante los últimos 7 días, ¿qué alimentos o bebidas consumió el niño/a e"
+C2_HAC_5_1_6_O9,Numérico,"5.1.6. Durante los últimos 7 días, ¿qué alimentos o bebidas consumió el niño/a e"
+C2_HAC_5_1_7,Numérico,"5.1.7. Durante los últimos 7 días, ¿qué cantidad de veces el niño/a comió comida"
+C2_HAC_5_1_8_O1,Numérico,5.1.8. ¿Dónde fueron elaboradas esas comidas consumidas por el niño/a fuera del
+C2_HAC_5_1_8_O2,Numérico,5.1.8. ¿Dónde fueron elaboradas esas comidas consumidas por el niño/a fuera del
+C2_HAC_5_1_8_O3,Numérico,5.1.8. ¿Dónde fueron elaboradas esas comidas consumidas por el niño/a fuera del
+C2_HAC_5_1_8_O4,Numérico,5.1.8. ¿Dónde fueron elaboradas esas comidas consumidas por el niño/a fuera del
+C2_HAC_5_1_8_O5,Numérico,5.1.8. ¿Dónde fueron elaboradas esas comidas consumidas por el niño/a fuera del
+C2_HAC_5_1_8_O6,Numérico,5.1.8. ¿Dónde fueron elaboradas esas comidas consumidas por el niño/a fuera del
+C2_HAC_5_1_8_OtherS,Cadena,5.1.8. ¿Dónde fueron elaboradas esas comidas consumidas por el niño/a fuera del
+C2_HAC_5_2,Numérico,"5.2. ¿Hay algún alimento que por razones de religión, salud o decisión propia no"
+C2_HAC_5_3,Cadena,5.3. ¿Puede indicarme cuál/cuáles alimento/s no consume el niño/a?
+C2_HAC_5_4,Numérico,5.4. ¿Con que frecuencia le agrega sal a los alimentos del niño/a una vez que es
+C2_HAC_5_5,Numérico,"5.5. Durante los últimos 7 días, ¿qué cantidad de veces compró algún alimento po"
+C2_HAC_5_6,Numérico,"5.6. {0}, ¿Con qué frecuencia come acompañado/a?"
+C2_HAC_5_7,Numérico,"5.7. En general, mientras {0} come, ¿con que frecuencia mira pantallas de algún"
+T_C2_FCA_6_1_1,Numérico,"… leche, yogur y/o quesos?"
+T_C2_FCA_6_1_2,Numérico,… frutas frescas (solas y/o en preparaciones)?
+T_C2_FCA_6_1_3,Numérico,… verduras (solas y/o en preparaciones) sin contar papa y batata?
+T_C2_FCA_6_1_4,Numérico,"…papa, batata, cereales refinados como arroz blanco, pastas, tartas, empanadas y"
+T_C2_FCA_6_1_5,Numérico,"…cereales integrales, legumbres (por ejemplo lentejas, garbanzos, porotos, arroz"
+T_C2_FCA_6_1_6,Numérico,"… embutidos y fiambres (jamón, salame, chorizo, salchicha, etc)?"
+T_C2_FCA_6_1_7,Numérico,"… carne roja (por ejemplo de  vaca, chivo, cordero), carne de ave y/o huevos?"
+T_C2_FCA_6_1_8,Numérico,… pescado fresco y/o enlatado?
+T_C2_FCA_6_1_9,Numérico,"… aceites vegetales (como girasol, maíz, soja, girasol alto oleico, oliva y/o ca"
+T_C2_FCA_6_1_10,Numérico,"… frutas secas sin salar (como maní, nueces, almendras, avellanas, castañas, etc"
+T_C2_FCA_6_1_11,Numérico,"… productos de copetín (papas fritas, palitos de maíz, etc.)?"
+T_C2_FCA_6_1_12,Numérico,"… golosinas (caramelos, alfajores, chupetines, chicles, barras de cereal, etc.)?"
+T_C2_FCA_6_1_13,Numérico,"…facturas, productos de pastelería, galletitas dulces, cereales con azúcar"
+T_C2_FCA_6_1_14,Numérico,"…productos congelados pre elaborados (nuggets de pollo, supremas, medallones, ba"
+T_C2_FCA_6_1_15,Numérico,"… bebidas artificiales sin azúcar (jugos en polvos y/o concentrados, gaseosas, a"
+T_C2_FCA_6_1_16,Numérico,"… bebidas artificiales con azúcar (jugos en polvos y/o concentrados, gaseosas, a"
+T_C2_FCA_6_1_17,Numérico,… agua?
+C2_EE_7_1,Numérico,"7.1. En la guardería, jardín o escuela, al niño/a, ¿le proveen algún alimento o"
+T_C2_EE_7_2_1,Numérico,"Bebidas con azúcar (jugos en polvo y/o concentrados, gaseosas, aguas saborizadas"
+T_C2_EE_7_2_2,Numérico,"Bebidas sin azúcar (jugos en polvo y/o concentrados, gaseosas, aguas saborizadas"
+T_C2_EE_7_2_3,Numérico,"Infusiones (té, mate cocido, café)"
+T_C2_EE_7_2_4,Numérico,"Productos de copetín (papas fritas, palitos de maíz, etc.)"
+T_C2_EE_7_2_5,Numérico,"Golosinas (caramelos, alfajores, chupetines, chicles, barras de cereal, etc.)"
+T_C2_EE_7_2_6,Numérico,"Facturas, productos de pastelería, galletitas dulces, cereales con azúcar"
+T_C2_EE_7_2_7,Numérico,"Frutas frescas (enteras, en ensaladas, jugos naturales, licuados, etc)"
+T_C2_EE_7_2_8,Numérico,"Agua segura (sin agregado de jugo, frutas, etc)"
+T_C2_EE_7_2_9,Numérico,Yogur/postres lácteos /leche
+T_C2_EE_7_2_10,Numérico,Sándwich
+C2_EE_7_3,Numérico,7.3. ¿La escuela tiene un kiosco o buffet donde {0} pueda comprar alimentos y/o
+C2_EE_7_4,Numérico,"7.4. Durante los últimos 7 días, ¿compró {0} algún alimento y/o bebida en el kio"
+C2_EE_7_5_O1,Numérico,7.5. ¿Podría indicarme qué producto/s compró {0} en el kiosco o buffet durante l
+C2_EE_7_5_O2,Numérico,7.5. ¿Podría indicarme qué producto/s compró {0} en el kiosco o buffet durante l
+C2_EE_7_5_O3,Numérico,7.5. ¿Podría indicarme qué producto/s compró {0} en el kiosco o buffet durante l
+C2_EE_7_5_O4,Numérico,7.5. ¿Podría indicarme qué producto/s compró {0} en el kiosco o buffet durante l
+C2_EE_7_5_O5,Numérico,7.5. ¿Podría indicarme qué producto/s compró {0} en el kiosco o buffet durante l
+C2_EE_7_5_O6,Numérico,7.5. ¿Podría indicarme qué producto/s compró {0} en el kiosco o buffet durante l
+C2_EE_7_5_O7,Numérico,7.5. ¿Podría indicarme qué producto/s compró {0} en el kiosco o buffet durante l
+C2_EE_7_5_O8,Numérico,7.5. ¿Podría indicarme qué producto/s compró {0} en el kiosco o buffet durante l
+C2_EE_7_5_O9,Numérico,7.5. ¿Podría indicarme qué producto/s compró {0} en el kiosco o buffet durante l
+C2_EE_7_5_O10,Numérico,7.5. ¿Podría indicarme qué producto/s compró {0} en el kiosco o buffet durante l
+C2_EE_7_5_O11,Numérico,7.5. ¿Podría indicarme qué producto/s compró {0} en el kiosco o buffet durante l
+C2_EE_7_5_O12,Numérico,7.5. ¿Podría indicarme qué producto/s compró {0} en el kiosco o buffet durante l
+C2_EE_7_5_O13,Numérico,7.5. ¿Podría indicarme qué producto/s compró {0} en el kiosco o buffet durante l
+C2_EE_7_5_OtherS,Cadena,7.5. ¿Podría indicarme qué producto/s compró {0} en el kiosco o buffet durante l
+C2_A_8_1,Numérico,8.1. Peso del niño/a
+C2_A_8_1A,Cadena,8.1A. Especificar qué ropa tiene puesta el niño/a:
+C2_A_8_2,Numérico,8.2. Talla del niño/a
+C2_A_8_3,Cadena,"8.3. En caso de haber tenido algún inconveniente para pesar o medir al niño/a, c"
+C2_A_8_4,Numérico,8.4. ¿Cuál es el peso aproximado de la madre de {0}?
+C2_A_8_5,Numérico,8.5. ¿Cuál es la talla aproximada de la madre de {0}?
+C2_A_8_6,Numérico,8.6. ¿Cuál es el peso aproximado del padre de {0}?
+C2_A_8_7,Numérico,8.7. ¿Cuál es la talla aproximada del padre de {0}?
+C3_FECHA,Fecha,Fecha de nacimiento del encuestado/a
+C3_SEXO,Numérico,Tu sexo de nacimiento fue:
+C3_SGA_1_1,Numérico,"1.1. En general, dirías que tu salud es:"
+T_C3_SGA_1_2_1,Numérico,Diabetes
+T_C3_SGA_1_2_2,Numérico,Enfermedad renal
+T_C3_SGA_1_2_3,Numérico,Hipertensión o presión alta
+T_C3_SGA_1_2_4,Numérico,"Dislipemia, colesterol o triglicéridos altos"
+T_C3_SGA_1_2_5,Numérico,Asma u otra enfermedad respiratoria
+T_C3_SGA_1_2_6,Numérico,Anemia
+T_C3_SGA_1_2_7,Numérico,Algún tipo de Cardiopatía
+T_C3_SGA_1_2_8,Numérico,Otras enfermedades de larga duración
+C3_SGA_1_2_OtherS,Cadena,Qué otra enfermedad de larga duración?
+C3_SGA_1_3,Numérico,1.3. ¿Fumás actualmente?
+C3_SGA_1_4_O1,Numérico,1.4. ¿Tenés dificultad o limitación permanente para…
+C3_SGA_1_4_O2,Numérico,1.4. ¿Tenés dificultad o limitación permanente para…
+C3_SGA_1_4_O3,Numérico,1.4. ¿Tenés dificultad o limitación permanente para…
+C3_SGA_1_4_O4,Numérico,1.4. ¿Tenés dificultad o limitación permanente para…
+C3_SGA_1_4_O5,Numérico,1.4. ¿Tenés dificultad o limitación permanente para…
+C3_SGA_1_4_O6,Numérico,1.4. ¿Tenés dificultad o limitación permanente para…
+C3_SGA_1_5,Numérico,1.5. ¿Tenés certificado de discapacidad?
+C3_SGA_1_6,Numérico,1.6. ¿Estás actualmente embarazada?
+C3_SGA_1_7,Fecha,1.7. ¿Cuál fue la fecha de tu última menstruación?
+C3_SGA_1_8,Numérico,1.8. ¿Estás amamantando actualmente?
+C3_SGA_1_9,Numérico,1.9. ¿Cuántos meses cumplidos tiene el bebé al que amamantás?
+C3_V_2_1,Numérico,2.1. ¿Recibiste la vacuna contra el virus de papiloma humano (VPH)?
+C3_V_2_2,Numérico,2.2. ¿Cuántas dosis recibiste?
+C3_V_2_3_O1,Numérico,2.3. ¿Por qué motivo recibiste la vacuna contra el virus de papiloma humano (VPH
+C3_V_2_3_O2,Numérico,2.3. ¿Por qué motivo recibiste la vacuna contra el virus de papiloma humano (VPH
+C3_V_2_3_O3,Numérico,2.3. ¿Por qué motivo recibiste la vacuna contra el virus de papiloma humano (VPH
+C3_V_2_3_O4,Numérico,2.3. ¿Por qué motivo recibiste la vacuna contra el virus de papiloma humano (VPH
+C3_V_2_3_O5,Numérico,2.3. ¿Por qué motivo recibiste la vacuna contra el virus de papiloma humano (VPH
+C3_V_2_3_O6,Numérico,2.3. ¿Por qué motivo recibiste la vacuna contra el virus de papiloma humano (VPH
+C3_V_2_3_O7,Numérico,2.3. ¿Por qué motivo recibiste la vacuna contra el virus de papiloma humano (VPH
+C3_V_2_3_O8,Numérico,2.3. ¿Por qué motivo recibiste la vacuna contra el virus de papiloma humano (VPH
+C3_V_2_3_OtherS,Cadena,2.3. ¿Por qué motivo recibiste la vacuna contra el virus de papiloma humano (VPH
+C3_V_2_4_O1,Numérico,2.4. ¿Por qué motivo NO recibiste la vacuna contra el virus de papiloma humano (
+C3_V_2_4_O2,Numérico,2.4. ¿Por qué motivo NO recibiste la vacuna contra el virus de papiloma humano (
+C3_V_2_4_O3,Numérico,2.4. ¿Por qué motivo NO recibiste la vacuna contra el virus de papiloma humano (
+C3_V_2_4_O4,Numérico,2.4. ¿Por qué motivo NO recibiste la vacuna contra el virus de papiloma humano (
+C3_V_2_4_O5,Numérico,2.4. ¿Por qué motivo NO recibiste la vacuna contra el virus de papiloma humano (
+C3_V_2_4_O6,Numérico,2.4. ¿Por qué motivo NO recibiste la vacuna contra el virus de papiloma humano (
+C3_V_2_4_O7,Numérico,2.4. ¿Por qué motivo NO recibiste la vacuna contra el virus de papiloma humano (
+C3_V_2_4_OtherS,Cadena,2.4. ¿Por qué motivo NO recibiste la vacuna contra el virus de papiloma humano (
+C3_V_2_5,Numérico,"2.5. ¿Recibiste la vacuna contra el tétanos, la difteria y la tos convulsa (trip"
+C3_V_2_6_O1,Numérico,"2.6. ¿Por qué motivo recibiste la vacuna contra el tétanos, la difteria y la tos"
+C3_V_2_6_O2,Numérico,"2.6. ¿Por qué motivo recibiste la vacuna contra el tétanos, la difteria y la tos"
+C3_V_2_6_O3,Numérico,"2.6. ¿Por qué motivo recibiste la vacuna contra el tétanos, la difteria y la tos"
+C3_V_2_6_O4,Numérico,"2.6. ¿Por qué motivo recibiste la vacuna contra el tétanos, la difteria y la tos"
+C3_V_2_6_O5,Numérico,"2.6. ¿Por qué motivo recibiste la vacuna contra el tétanos, la difteria y la tos"
+C3_V_2_6_O6,Numérico,"2.6. ¿Por qué motivo recibiste la vacuna contra el tétanos, la difteria y la tos"
+C3_V_2_6_O7,Numérico,"2.6. ¿Por qué motivo recibiste la vacuna contra el tétanos, la difteria y la tos"
+C3_V_2_6_O8,Numérico,"2.6. ¿Por qué motivo recibiste la vacuna contra el tétanos, la difteria y la tos"
+C3_V_2_6_OtherS,Cadena,"2.6. ¿Por qué motivo recibiste la vacuna contra el tétanos, la difteria y la tos"
+C3_V_2_7_O1,Numérico,"2.7. ¿Por qué motivo NO recibiste la vacuna contra el tétanos, la difteria y la"
+C3_V_2_7_O2,Numérico,"2.7. ¿Por qué motivo NO recibiste la vacuna contra el tétanos, la difteria y la"
+C3_V_2_7_O3,Numérico,"2.7. ¿Por qué motivo NO recibiste la vacuna contra el tétanos, la difteria y la"
+C3_V_2_7_O4,Numérico,"2.7. ¿Por qué motivo NO recibiste la vacuna contra el tétanos, la difteria y la"
+C3_V_2_7_O5,Numérico,"2.7. ¿Por qué motivo NO recibiste la vacuna contra el tétanos, la difteria y la"
+C3_V_2_7_O6,Numérico,"2.7. ¿Por qué motivo NO recibiste la vacuna contra el tétanos, la difteria y la"
+C3_V_2_7_O7,Numérico,"2.7. ¿Por qué motivo NO recibiste la vacuna contra el tétanos, la difteria y la"
+C3_V_2_7_OtherS,Cadena,"2.7. ¿Por qué motivo NO recibiste la vacuna contra el tétanos, la difteria y la"
+C3_V_2_8,Numérico,2.8.
+C3_V_2_9,Numérico,2.9. ¿Tiene carnet de vacunación?
+C3_PC_3_1,Numérico,3.1. ¿Alguna vez te diagnosticaron celiaquía?
+C3_PC_3_2,Numérico,"3.2. Para el diagnostico de celiaquía, ¿te realizaron una biopsia, es decir, un"
+C3_PC_3_3,Numérico,3.3.¿Realizás la dieta especial para celiaquía?
+C3_PC_3_4,Numérico,"3.4. Desde que fuiste diagnosticado/a, ¿con que frecuencia recibiste asistencia"
+C3_PC_3_5_O1,Numérico,3.5. ¿Cuál de las siguientes asistencias alimentarias por celiaquía recibiste?
+C3_PC_3_5_O2,Numérico,3.5. ¿Cuál de las siguientes asistencias alimentarias por celiaquía recibiste?
+C3_PC_3_5_O3,Numérico,3.5. ¿Cuál de las siguientes asistencias alimentarias por celiaquía recibiste?
+C3_PC_3_5_O4,Numérico,3.5. ¿Cuál de las siguientes asistencias alimentarias por celiaquía recibiste?
+C3_PC_3_5_OtherS,Cadena,3.5. ¿Cuál de las siguientes asistencias alimentarias por celiaquía recibiste?
+C3_AF_4_1,Numérico,"4.1. Durante los últimos 7 días, ¿cuántas horas y minutos en total dormiste en l"
+C3_AF_4_2,Numérico,"4.2. Durante los últimos 7 días, considerando sólo el tiempo fuera de la escuela"
+C3_AF_4_3,Numérico,"4.3. Durante los últimos 7 días, considerando sólo el tiempo fuera de la escuela"
+I_1_C3_AF_4_4,Numérico,"(Lunes) 4.4.{0}. Durante la última semana, ¿cuántas horas y minutos de educación"
+I_2_C3_AF_4_4,Numérico,"(Martes) 4.4.{0}. Durante la última semana, ¿cuántas horas y minutos de educació"
+I_3_C3_AF_4_4,Numérico,"(Miercoles) 4.4.{0}. Durante la última semana, ¿cuántas horas y minutos de educa"
+I_4_C3_AF_4_4,Numérico,"(Jueves) 4.4.{0}. Durante la última semana, ¿cuántas horas y minutos de educació"
+I_5_C3_AF_4_4,Numérico,"(Viernes) 4.4.{0}. Durante la última semana, ¿cuántas horas y minutos de educaci"
+I_6_C3_AF_4_4,Numérico,"(Sabado) 4.4.{0}. Durante la última semana, ¿cuántas horas y minutos de educació"
+I_7_C3_AF_4_4,Numérico,"(Domingo) 4.4.{0}. Durante la última semana, ¿cuántas horas y minutos de educaci"
+C3_AF_4_5,Numérico,"4.5. ¿Caminas, pedaleas o patinás  al menos 10 minutos consecutivos para ir de u"
+I_1_C3_AF_4_6,Numérico,"(Lunes) 4.6.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos caminas, p"
+I_2_C3_AF_4_6,Numérico,"(Martes) 4.6.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos caminas,"
+I_3_C3_AF_4_6,Numérico,"(Miercoles) 4.6.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos camina"
+I_4_C3_AF_4_6,Numérico,"(Jueves) 4.6.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos caminas,"
+I_5_C3_AF_4_6,Numérico,"(Viernes) 4.6.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos caminas,"
+I_6_C3_AF_4_6,Numérico,"(Sabado) 4.6.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos caminas,"
+I_7_C3_AF_4_6,Numérico,"(Domingo) 4.6.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos caminas,"
+C3_AF_4_7,Numérico,"4.7. Durante los últimos 7 días, ¿realizaste actividades dentro de la casa de in"
+I_1_C3_AF_4_8,Numérico,"(Lunes) 4.8.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos jugaste de"
+I_2_C3_AF_4_8,Numérico,"(Martes) 4.8.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos jugaste d"
+I_3_C3_AF_4_8,Numérico,"(Miercoles) 4.8.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos jugast"
+I_4_C3_AF_4_8,Numérico,"(Jueves) 4.8.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos jugaste d"
+I_5_C3_AF_4_8,Numérico,"(Viernes) 4.8.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos jugaste"
+I_6_C3_AF_4_8,Numérico,"(Sabado) 4.8.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos jugaste d"
+I_7_C3_AF_4_8,Numérico,"(Domingo) 4.8.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos jugaste"
+C3_AF_4_9,Numérico,"4.9. Durante los últimos 7 días, ¿jugaste dentro de la casa con consolas de vide"
+I_1_C3_AF_4_10,Numérico,"(Lunes) 4.10.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos jugaste d"
+I_2_C3_AF_4_10,Numérico,"(Martes) 4.10.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos jugaste"
+I_3_C3_AF_4_10,Numérico,"(Miercoles) 4.10.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos jugas"
+I_4_C3_AF_4_10,Numérico,"(Jueves) 4.10.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos jugaste"
+I_5_C3_AF_4_10,Numérico,"(Viernes) 4.10.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos jugaste"
+I_6_C3_AF_4_10,Numérico,"(Sabado) 4.10.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos jugaste"
+I_7_C3_AF_4_10,Numérico,"(Domingo) 4.10.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos jugaste"
+C3_AF_4_11,Numérico,"4.11. Durante los últimos 7 días, ¿realizaste actividades fuera de la casa, al a"
+I_1_C3_AF_4_12,Numérico,"(Lunes) 4.12.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos jugaste f"
+I_2_C3_AF_4_12,Numérico,"(Martes) 4.12.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos jugaste"
+I_3_C3_AF_4_12,Numérico,"(Miercoles) 4.12.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos jugas"
+I_4_C3_AF_4_12,Numérico,"(Jueves) 4.12.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos jugaste"
+I_5_C3_AF_4_12,Numérico,"(Viernes) 4.12.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos jugaste"
+I_6_C3_AF_4_12,Numérico,"(Sabado) 4.12.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos jugaste"
+I_7_C3_AF_4_12,Numérico,"(Domingo) 4.12.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos jugaste"
+C3_AF_4_13,Numérico,"4.13. Durante los últimos 7 días, ¿realizaste deporte organizado y/o programas d"
+I_1_C3_AF_4_14,Numérico,"(Lunes) 4.14.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos realizast"
+I_2_C3_AF_4_14,Numérico,"(Martes) 4.14.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos realizas"
+I_3_C3_AF_4_14,Numérico,"(Miercoles) 4.14.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos reali"
+I_4_C3_AF_4_14,Numérico,"(Jueves) 4.14.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos realizas"
+I_5_C3_AF_4_14,Numérico,"(Viernes) 4.14.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos realiza"
+I_6_C3_AF_4_14,Numérico,"(Sabado) 4.14.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos realizas"
+I_7_C3_AF_4_14,Numérico,"(Domingo) 4.14.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos realiza"
+C3_AF_4_15,Numérico,"4.15. Durante los últimos 7 días, ¿realizaste ejercicio para fortalecer músculos"
+I_1_C3_AF_4_16,Numérico,"(Lunes) 4.16.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos  realizas"
+I_2_C3_AF_4_16,Numérico,"(Martes) 4.16.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos  realiza"
+I_3_C3_AF_4_16,Numérico,"(Miercoles) 4.16.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos  real"
+I_4_C3_AF_4_16,Numérico,"(Jueves) 4.16.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos  realiza"
+I_5_C3_AF_4_16,Numérico,"(Viernes) 4.16.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos  realiz"
+I_6_C3_AF_4_16,Numérico,"(Sabado) 4.16.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos  realiza"
+I_7_C3_AF_4_16,Numérico,"(Domingo) 4.16.{0}. Durante los últimos 7 días, ¿cuántas horas y minutos  realiz"
+C3_AF_4_17,Numérico,4.17. ¿Realizas educación física en la escuela?
+I_1_C3_AF_4_18,Numérico,"(Lunes) 4.18.{0}. Durante la última semana, ¿cuántas horas y minutos de educació"
+I_2_C3_AF_4_18,Numérico,"(Martes) 4.18.{0}. Durante la última semana, ¿cuántas horas y minutos de educaci"
+I_3_C3_AF_4_18,Numérico,"(Miercoles) 4.18.{0}. Durante la última semana, ¿cuántas horas y minutos de educ"
+I_4_C3_AF_4_18,Numérico,"(Jueves) 4.18.{0}. Durante la última semana, ¿cuántas horas y minutos de educaci"
+I_5_C3_AF_4_18,Numérico,"(Viernes) 4.18.{0}. Durante la última semana, ¿cuántas horas y minutos de educac"
+I_6_C3_AF_4_18,Numérico,"(Sabado) 4.18.{0}. Durante la última semana, ¿cuántas horas y minutos de educaci"
+I_7_C3_AF_4_18,Numérico,"(Domingo) 4.18.{0}. Durante la última semana, ¿cuántas horas y minutos de educac"
+C3_AF_4_19_O1,Numérico,4.19. ¿Cuál es la causa por la cuál no realizas educación física en la escuela?
+C3_AF_4_19_O2,Numérico,4.19. ¿Cuál es la causa por la cuál no realizas educación física en la escuela?
+C3_AF_4_19_O3,Numérico,4.19. ¿Cuál es la causa por la cuál no realizas educación física en la escuela?
+C3_AF_4_19_O4,Numérico,4.19. ¿Cuál es la causa por la cuál no realizas educación física en la escuela?
+C3_AF_4_19_O5,Numérico,4.19. ¿Cuál es la causa por la cuál no realizas educación física en la escuela?
+C3_HAC_5_1_1,Numérico,"5.1.1. Durante los últimos 7 días, indicá cuántas veces desayunaste."
+C3_HAC_5_1_2,Numérico,"5.1.2 Durante los últimos 7 días, indicá cuántas veces almorzaste."
+C3_HAC_5_1_3,Numérico,"5.1.3. Durante los últimos 7 días, indicá cuántas veces  merendaste."
+C3_HAC_5_1_4,Numérico,"5.1.4. Durante los últimos 7 días, indicá cuántas veces cenaste."
+C3_HAC_5_1_5,Numérico,"5.1.5. Durante los últimos 7 días, ¿con qué frecuencia consumiste algún alimento"
+C3_HAC_5_1_6_O1,Numérico,"5.1.6. Durante los últimos 7 días, ¿qué alimentos o bebidas consumiste en esas o"
+C3_HAC_5_1_6_O2,Numérico,"5.1.6. Durante los últimos 7 días, ¿qué alimentos o bebidas consumiste en esas o"
+C3_HAC_5_1_6_O3,Numérico,"5.1.6. Durante los últimos 7 días, ¿qué alimentos o bebidas consumiste en esas o"
+C3_HAC_5_1_6_O4,Numérico,"5.1.6. Durante los últimos 7 días, ¿qué alimentos o bebidas consumiste en esas o"
+C3_HAC_5_1_6_O5,Numérico,"5.1.6. Durante los últimos 7 días, ¿qué alimentos o bebidas consumiste en esas o"
+C3_HAC_5_1_6_O6,Numérico,"5.1.6. Durante los últimos 7 días, ¿qué alimentos o bebidas consumiste en esas o"
+C3_HAC_5_1_6_O7,Numérico,"5.1.6. Durante los últimos 7 días, ¿qué alimentos o bebidas consumiste en esas o"
+C3_HAC_5_1_6_O8,Numérico,"5.1.6. Durante los últimos 7 días, ¿qué alimentos o bebidas consumiste en esas o"
+C3_HAC_5_1_6_O9,Numérico,"5.1.6. Durante los últimos 7 días, ¿qué alimentos o bebidas consumiste en esas o"
+C3_HAC_5_1_7,Numérico,"5.1.7. Durante los últimos 7 días, ¿qué cantidad de veces comiste comidas elabor"
+C3_HAC_5_1_8_O1,Numérico,5.1.8. ¿Dónde fueron elaboradas esas comidas consumidas fuera del hogar?  Consid
+C3_HAC_5_1_8_O2,Numérico,5.1.8. ¿Dónde fueron elaboradas esas comidas consumidas fuera del hogar?  Consid
+C3_HAC_5_1_8_O3,Numérico,5.1.8. ¿Dónde fueron elaboradas esas comidas consumidas fuera del hogar?  Consid
+C3_HAC_5_1_8_O4,Numérico,5.1.8. ¿Dónde fueron elaboradas esas comidas consumidas fuera del hogar?  Consid
+C3_HAC_5_1_8_O5,Numérico,5.1.8. ¿Dónde fueron elaboradas esas comidas consumidas fuera del hogar?  Consid
+C3_HAC_5_1_8_O6,Numérico,5.1.8. ¿Dónde fueron elaboradas esas comidas consumidas fuera del hogar?  Consid
+C3_HAC_5_1_8_OtherS,Cadena,5.1.8. ¿Dónde fueron elaboradas esas comidas consumidas fuera del hogar?  Consid
+C3_HAC_5_3,Numérico,"5.3. ¿Hay algún alimento que por razones de religión, salud o decisión propia no"
+C3_HAC_5_4,Cadena,5.4. ¿Podés indicarme cuál/cuáles alimento/s no consumís?
+C3_HAC_5_5,Numérico,5.5. ¿Con qué frecuencia le agregás sal a los alimentos una vez que están cocido
+C3_HAC_5_6,Numérico,5.6. ¿Cuánta sal pensás que consumís?
+C3_HAC_5_7,Numérico,"5.7. En general, cuando compras algún alimento envasado, ¿leés la tabla de compo"
+C3_HAC_5_8,Numérico,5.8. ¿Te resulta comprensible esta información?
+C3_HAC_5_9,Numérico,"5.9. Cuando comprás un producto, ¿comparás la información nutricional con otros"
+C3_HAC_5_10,Numérico,5.10. ¿Considerás que la elección de los alimentos que ingerís o comprás se ve i
+C3_HAC_5_11,Numérico,"5.11. Tomando como referencia los últimos siete días, ¿con qué frecuencia compra"
+C3_HAC_5_12,Numérico,5.12. ¿Con qué frecuencia comés acompañado/a?
+C3_HAC_5_13,Numérico,"5.13. En general, mientras comes, ¿con qué frecuencia miras pantallas de algún d"
+T_C3_FCA_6_1_1,Numérico,"… leche, yogur y/o quesos?"
+T_C3_FCA_6_1_2,Numérico,… frutas frescas (solas y/o en preparaciones)?
+T_C3_FCA_6_1_3,Numérico,… verduras (solas y/o en preparaciones) sin contar papa y batata?
+T_C3_FCA_6_1_4,Numérico,"…papa, batata, cereales refinados como arroz blanco, pastas, tartas, empanadas y"
+T_C3_FCA_6_1_5,Numérico,"…cereales integrales, legumbres (por ejemplo lentejas, garbanzos, porotos, arroz"
+T_C3_FCA_6_1_6,Numérico,"… embutidos y/o fiambres (jamón, salame, chorizo, salchicha, etc)?"
+T_C3_FCA_6_1_7,Numérico,"… carne roja (por ejemplo de  vaca, chivo, cordero), carne de ave y/o huevos?"
+T_C3_FCA_6_1_8,Numérico,… pescado fresco y/o enlatado?
+T_C3_FCA_6_1_9,Numérico,"… aceites vegetales (como girasol, maíz, soja, girasol alto oleico, oliva y/o ca"
+T_C3_FCA_6_1_10,Numérico,"… frutas secas sin salar (como maní, nueces, almendras, avellanas, castañas, etc"
+T_C3_FCA_6_1_11,Numérico,"… productos de copetín (papas fritas, palitos de maíz, etc.)?"
+T_C3_FCA_6_1_12,Numérico,"… golosinas (caramelos, alfajores, chupetines, chicles, barras de cereal, etc.)?"
+T_C3_FCA_6_1_13,Numérico,"…facturas y/o productos de pastelería, galletitas dulces, cereales con azúcar"
+T_C3_FCA_6_1_14,Numérico,"…productos congelados pre elaborados (nuggets de pollo, supremas, medallones, ba"
+T_C3_FCA_6_1_15,Numérico,"… bebidas artificiales sin azúcar (jugos en polvos y/o concentrados, gaseosas, a"
+T_C3_FCA_6_1_16,Numérico,"… bebidas artificiales con azúcar (jugos en polvos y/o concentrados, gaseosas, a"
+T_C3_FCA_6_1_17,Numérico,… agua?
+C3_EE_7_1,Numérico,"7.1. En la escuela, ¿te proveen algún alimento y/o bebida?"
+T_C3_EE_7_2_1,Numérico,"Bebidas con azúcar (jugos en polvo y/o concentrados, gaseosas, aguas saborizadas"
+T_C3_EE_7_2_2,Numérico,"Bebidas sin azúcar (jugos en polvo y/o concentrados, gaseosas, aguas saborizadas"
+T_C3_EE_7_2_3,Numérico,"Infusiones (té, mate cocido, café)"
+T_C3_EE_7_2_4,Numérico,"Productos de copetín (papas fritas, palitos de maíz, etc.)"
+T_C3_EE_7_2_5,Numérico,"Golosinas (caramelos, alfajores, chupetines, chicles, barras de cereal, etc.)"
+T_C3_EE_7_2_6,Numérico,"Facturas, productos de pastelería, galletitas dulces, cereales con azúcar"
+T_C3_EE_7_2_7,Numérico,"Frutas frescas (enteras, en ensaladas, jugos naturales, licuados, etc)"
+T_C3_EE_7_2_8,Numérico,"Agua segura (sin agregado de jugo, frutas, etc)"
+T_C3_EE_7_2_9,Numérico,Yogur/postres lácteos /leche
+T_C3_EE_7_2_10,Numérico,Sándwich
+C3_EE_7_3,Numérico,7.3. La escuela ¿tiene un kiosco o buffet donde puedas comprar alimentos o bebid
+C3_EE_7_4,Numérico,"7.4. Durante los últimos 7 días, ¿compraste algún alimento y/o bebida en el kios"
+C3_EE_7_5_O1,Numérico,7.5. ¿Podrías indicarme qué producto/s compraste en el kiosco o buffet durante l
+C3_EE_7_5_O2,Numérico,7.5. ¿Podrías indicarme qué producto/s compraste en el kiosco o buffet durante l
+C3_EE_7_5_O3,Numérico,7.5. ¿Podrías indicarme qué producto/s compraste en el kiosco o buffet durante l
+C3_EE_7_5_O4,Numérico,7.5. ¿Podrías indicarme qué producto/s compraste en el kiosco o buffet durante l
+C3_EE_7_5_O5,Numérico,7.5. ¿Podrías indicarme qué producto/s compraste en el kiosco o buffet durante l
+C3_EE_7_5_O6,Numérico,7.5. ¿Podrías indicarme qué producto/s compraste en el kiosco o buffet durante l
+C3_EE_7_5_O7,Numérico,7.5. ¿Podrías indicarme qué producto/s compraste en el kiosco o buffet durante l
+C3_EE_7_5_O8,Numérico,7.5. ¿Podrías indicarme qué producto/s compraste en el kiosco o buffet durante l
+C3_EE_7_5_O9,Numérico,7.5. ¿Podrías indicarme qué producto/s compraste en el kiosco o buffet durante l
+C3_EE_7_5_O10,Numérico,7.5. ¿Podrías indicarme qué producto/s compraste en el kiosco o buffet durante l
+C3_EE_7_5_O11,Numérico,7.5. ¿Podrías indicarme qué producto/s compraste en el kiosco o buffet durante l
+C3_EE_7_5_O12,Numérico,7.5. ¿Podrías indicarme qué producto/s compraste en el kiosco o buffet durante l
+C3_AAPC_8_1,Numérico,8.1. Peso
+C3_AAPC_8_1A,Cadena,8.1A. Especificar qué ropa tiene puesta.
+C3_AAPC_8_2,Numérico,8.2. Talla
+C3_AAPC_8_3,Cadena,"8.3. En caso de haber tenido algún inconveniente para pesar o medir, consigne qu"
+C3_AAPC_8_4,Numérico,"8.4. Aproximadamente, ¿cuál dirías que es el peso de tu mamá?"
+C3_AAPC_8_5,Numérico,"8.5. Aproximadamente, ¿cuánto dirías que mide tu mamá?"
+C3_AAPC_8_6,Numérico,"8.6. Aproximadamente, ¿cuál dirías que es el peso de tu papá?"
+C3_AAPC_8_7,Numérico,"8.7. Aproximadamente, ¿cuánto dirías que mide tu papá?"
+C3_AAPC_8_8,Numérico,8.8. ¿Cómo describirías tu peso actual?
+C3_AAPC_8_9,Numérico,8.9. ¿Cómo dirías que te sentís en relación a tu peso?
+C3_AAPC_8_10,Numérico,8.10. ¿Cuándo fue la última vez que te pesaste?
+C3_AAPC_8_11,Numérico,"8.11. Durante el último año, ¿algún miembro del equipo de salud te ha dicho que"
+C3_AAPC_8_12,Numérico,8.12. ¿En estos momentos estás haciendo algo para bajar de peso?
+C3_AAPC_8_13,Numérico,8.13. ¿En estos momentos estás haciendo algo para mantener controlado tu peso?
+C4_FECHA,Fecha,Fecha de nacimiento del encuestado/a
+C4_SEXO,Numérico,El sexo de su nacimiento fue:
+C4_SG_1_1,Numérico,"1.1. En general, usted diría que su salud es:"
+T_C4_SG_1_2_1,Numérico,Diabetes
+T_C4_SG_1_2_2,Numérico,Enfermedad renal
+T_C4_SG_1_2_3,Numérico,Hipertensión o presión alta
+T_C4_SG_1_2_4,Numérico,"Dislipemia, colesterol o triglicéridos altos"
+T_C4_SG_1_2_5,Numérico,Anemia
+T_C4_SG_1_2_6,Numérico,Algún tipo de cardiopatía
+T_C4_SG_1_2_7,Numérico,Tiene colocada una sonda vesical
+T_C4_SG_1_2_8,Numérico,Está transplantado/a de riñón
+T_C4_SG_1_2_9,Numérico,Obesidad
+T_C4_SG_1_2_10,Numérico,EPOC
+T_C4_SG_1_2_11,Numérico,Infarto
+T_C4_SG_1_2_12,Numérico,Cáncer
+T_C4_SG_1_2_13,Numérico,Leucemia
+T_C4_SG_1_2_14,Numérico,Otras enfermedades de larga duración
+C4_SG_1_2_OtherS,Cadena,Qué otra enfermedad de larga duración?
+C4_SG_1_3,Numérico,1.3. ¿Usted fuma actualmente?
+C4_SG_1_4_O1,Numérico,1.4. ¿Tiene usted alguna dificultad o limitación permanente para…
+C4_SG_1_4_O2,Numérico,1.4. ¿Tiene usted alguna dificultad o limitación permanente para…
+C4_SG_1_4_O3,Numérico,1.4. ¿Tiene usted alguna dificultad o limitación permanente para…
+C4_SG_1_4_O4,Numérico,1.4. ¿Tiene usted alguna dificultad o limitación permanente para…
+C4_SG_1_4_O5,Numérico,1.4. ¿Tiene usted alguna dificultad o limitación permanente para…
+C4_SG_1_4_O6,Numérico,1.4. ¿Tiene usted alguna dificultad o limitación permanente para…
+C4_SG_1_5,Numérico,1.5. ¿Tiene usted certificado de discapacidad?
+C4_SG_1_6,Numérico,1.6. ¿Está usted actualmente embarazada?
+C4_SG_1_7,Fecha,1.7. ¿Cuál fue la fecha de su última menstruación?
+C4_SG_1_8,Numérico,1.8. ¿Se encuentra amamantando actualmente?
+C4_SG_1_9,Numérico,1.9. ¿Cuántos meses tiene el bebé al que usted amamanta?
+C4_V_2_1,Numérico,"2.1. En los últimos 10 años, ¿Recibió una o más dosis de vacuna antitetánica (an"
+C4_V_2_2_O1,Numérico,2.2. ¿Sabría decirme cuál recibió?
+C4_V_2_2_O2,Numérico,2.2. ¿Sabría decirme cuál recibió?
+C4_V_2_2_O3,Numérico,2.2. ¿Sabría decirme cuál recibió?
+C4_V_2_2_O4,Numérico,2.2. ¿Sabría decirme cuál recibió?
+C4_V_2_2_O5,Numérico,2.2. ¿Sabría decirme cuál recibió?
+C4_V_2_3_O1,Numérico,2.3. ¿Por qué motivo recibió la vacuna antitetánica?
+C4_V_2_3_O2,Numérico,2.3. ¿Por qué motivo recibió la vacuna antitetánica?
+C4_V_2_3_O3,Numérico,2.3. ¿Por qué motivo recibió la vacuna antitetánica?
+C4_V_2_3_O4,Numérico,2.3. ¿Por qué motivo recibió la vacuna antitetánica?
+C4_V_2_3_O5,Numérico,2.3. ¿Por qué motivo recibió la vacuna antitetánica?
+C4_V_2_3_O6,Numérico,2.3. ¿Por qué motivo recibió la vacuna antitetánica?
+C4_V_2_3_O7,Numérico,2.3. ¿Por qué motivo recibió la vacuna antitetánica?
+C4_V_2_3_O8,Numérico,2.3. ¿Por qué motivo recibió la vacuna antitetánica?
+C4_V_2_3_O9,Numérico,2.3. ¿Por qué motivo recibió la vacuna antitetánica?
+C4_V_2_3_OtherS,Cadena,2.3. ¿Por qué motivo recibió la vacuna antitetánica? (Otro motivo) [Other (speci
+C4_V_2_4_O1,Numérico,2.4. ¿Por qué motivo NO recibió la vacuna antitetánica?
+C4_V_2_4_O2,Numérico,2.4. ¿Por qué motivo NO recibió la vacuna antitetánica?
+C4_V_2_4_O3,Numérico,2.4. ¿Por qué motivo NO recibió la vacuna antitetánica?
+C4_V_2_4_O4,Numérico,2.4. ¿Por qué motivo NO recibió la vacuna antitetánica?
+C4_V_2_4_O5,Numérico,2.4. ¿Por qué motivo NO recibió la vacuna antitetánica?
+C4_V_2_4_O6,Numérico,2.4. ¿Por qué motivo NO recibió la vacuna antitetánica?
+C4_V_2_4_O7,Numérico,2.4. ¿Por qué motivo NO recibió la vacuna antitetánica?
+C4_V_2_4_OtherS,Cadena,2.4. ¿Por qué motivo NO recibió la vacuna antitetánica? (Otro motivo) [Other (sp
+C4_V_2_5,Numérico,2.5. ¿Recibió alguna vez una vacuna contra hepatitis B?
+C4_V_2_6,Numérico,2.6. ¿Sabría decirme cuántas dosis recibió?
+C4_V_2_7_O1,Numérico,2.7. ¿Por qué motivo recibió la vacuna contra la hepatitis B?
+C4_V_2_7_O2,Numérico,2.7. ¿Por qué motivo recibió la vacuna contra la hepatitis B?
+C4_V_2_7_O3,Numérico,2.7. ¿Por qué motivo recibió la vacuna contra la hepatitis B?
+C4_V_2_7_O4,Numérico,2.7. ¿Por qué motivo recibió la vacuna contra la hepatitis B?
+C4_V_2_7_O5,Numérico,2.7. ¿Por qué motivo recibió la vacuna contra la hepatitis B?
+C4_V_2_7_O6,Numérico,2.7. ¿Por qué motivo recibió la vacuna contra la hepatitis B?
+C4_V_2_7_O7,Numérico,2.7. ¿Por qué motivo recibió la vacuna contra la hepatitis B?
+C4_V_2_7_O8,Numérico,2.7. ¿Por qué motivo recibió la vacuna contra la hepatitis B?
+C4_V_2_7_O9,Numérico,2.7. ¿Por qué motivo recibió la vacuna contra la hepatitis B?
+C4_V_2_7_OtherS,Cadena,2.7. ¿Por qué motivo recibió la vacuna contra la hepatitis B? (Otro motivo) [Oth
+C4_V_2_8_O1,Numérico,2.8. ¿Por qué motivo NO recibió la vacuna contra la hepatitis B?
+C4_V_2_8_O2,Numérico,2.8. ¿Por qué motivo NO recibió la vacuna contra la hepatitis B?
+C4_V_2_8_O3,Numérico,2.8. ¿Por qué motivo NO recibió la vacuna contra la hepatitis B?
+C4_V_2_8_O4,Numérico,2.8. ¿Por qué motivo NO recibió la vacuna contra la hepatitis B?
+C4_V_2_8_O5,Numérico,2.8. ¿Por qué motivo NO recibió la vacuna contra la hepatitis B?
+C4_V_2_8_O6,Numérico,2.8. ¿Por qué motivo NO recibió la vacuna contra la hepatitis B?
+C4_V_2_8_O7,Numérico,2.8. ¿Por qué motivo NO recibió la vacuna contra la hepatitis B?
+C4_V_2_8_OtherS,Cadena,2.8. ¿Por qué motivo NO recibió la vacuna contra la hepatitis B? (Otro motivo) [
+C4_V_2_9,Numérico,2.9. ¿Recibió en los últimos 5 años alguna dosis de vacuna contra neumococo (neu
+C4_V_2_10_O1,Numérico,2.10. ¿Sabría decirme cuál recibió?
+C4_V_2_10_O2,Numérico,2.10. ¿Sabría decirme cuál recibió?
+C4_V_2_10_O3,Numérico,2.10. ¿Sabría decirme cuál recibió?
+C4_V_2_10_O4,Numérico,2.10. ¿Sabría decirme cuál recibió?
+C4_V_2_11_O1,Numérico,2.11. ¿Por qué motivo recibió la vacuna contra el neumococo?
+C4_V_2_11_O2,Numérico,2.11. ¿Por qué motivo recibió la vacuna contra el neumococo?
+C4_V_2_11_O3,Numérico,2.11. ¿Por qué motivo recibió la vacuna contra el neumococo?
+C4_V_2_11_O4,Numérico,2.11. ¿Por qué motivo recibió la vacuna contra el neumococo?
+C4_V_2_11_O5,Numérico,2.11. ¿Por qué motivo recibió la vacuna contra el neumococo?
+C4_V_2_11_O6,Numérico,2.11. ¿Por qué motivo recibió la vacuna contra el neumococo?
+C4_V_2_11_O7,Numérico,2.11. ¿Por qué motivo recibió la vacuna contra el neumococo?
+C4_V_2_11_O8,Numérico,2.11. ¿Por qué motivo recibió la vacuna contra el neumococo?
+C4_V_2_11_O9,Numérico,2.11. ¿Por qué motivo recibió la vacuna contra el neumococo?
+C4_V_2_11_OtherS,Cadena,2.11. ¿Por qué motivo recibió la vacuna contra el neumococo? (Otro motivo) [Othe
+C4_V_2_12_O1,Numérico,2.12. ¿Por qué motivo NO recibió la vacuna contra el neumococo?
+C4_V_2_12_O2,Numérico,2.12. ¿Por qué motivo NO recibió la vacuna contra el neumococo?
+C4_V_2_12_O3,Numérico,2.12. ¿Por qué motivo NO recibió la vacuna contra el neumococo?
+C4_V_2_12_O4,Numérico,2.12. ¿Por qué motivo NO recibió la vacuna contra el neumococo?
+C4_V_2_12_O5,Numérico,2.12. ¿Por qué motivo NO recibió la vacuna contra el neumococo?
+C4_V_2_12_O6,Numérico,2.12. ¿Por qué motivo NO recibió la vacuna contra el neumococo?
+C4_V_2_12_O7,Numérico,2.12. ¿Por qué motivo NO recibió la vacuna contra el neumococo?
+C4_V_2_12_OtherS,Cadena,2.12. ¿Por qué motivo NO recibió la vacuna contra el neumococo? (Otro motivo) [O
+C4_V_2_13,Numérico,2.13. Este año o el anterior ¿recibió una dosis de vacuna antigripal?
+C4_V_2_14_O1,Numérico,2.14. ¿Por qué motivo recibió la vacuna antigripal?
+C4_V_2_14_O2,Numérico,2.14. ¿Por qué motivo recibió la vacuna antigripal?
+C4_V_2_14_O3,Numérico,2.14. ¿Por qué motivo recibió la vacuna antigripal?
+C4_V_2_14_O4,Numérico,2.14. ¿Por qué motivo recibió la vacuna antigripal?
+C4_V_2_14_O5,Numérico,2.14. ¿Por qué motivo recibió la vacuna antigripal?
+C4_V_2_14_O6,Numérico,2.14. ¿Por qué motivo recibió la vacuna antigripal?
+C4_V_2_14_O7,Numérico,2.14. ¿Por qué motivo recibió la vacuna antigripal?
+C4_V_2_14_O8,Numérico,2.14. ¿Por qué motivo recibió la vacuna antigripal?
+C4_V_2_14_O9,Numérico,2.14. ¿Por qué motivo recibió la vacuna antigripal?
+C4_V_2_14_OtherS,Cadena,2.14. ¿Por qué motivo recibió la vacuna antigripal? (Otro motivo) [Other (specif
+C4_V_2_15_O1,Numérico,2.15.  ¿Por qué motivo NO recibió la vacuna antigripal?
+C4_V_2_15_O2,Numérico,2.15.  ¿Por qué motivo NO recibió la vacuna antigripal?
+C4_V_2_15_O3,Numérico,2.15.  ¿Por qué motivo NO recibió la vacuna antigripal?
+C4_V_2_15_O4,Numérico,2.15.  ¿Por qué motivo NO recibió la vacuna antigripal?
+C4_V_2_15_O5,Numérico,2.15.  ¿Por qué motivo NO recibió la vacuna antigripal?
+C4_V_2_15_O6,Numérico,2.15.  ¿Por qué motivo NO recibió la vacuna antigripal?
+C4_V_2_15_O7,Numérico,2.15.  ¿Por qué motivo NO recibió la vacuna antigripal?
+C4_V_2_15_OtherS,Cadena,2.15.  ¿Por qué motivo NO recibió la vacuna antigripal? (Otro motivo) [Other (sp
+C4_V_2_16,Numérico,2.16. CARNET VACUNACIÓN
+C4_V_2_17,Numérico,2.17. ¿Tiene carnet de vacunación?
+C4_PC_3_1,Numérico,"3.1. Alguna vez, ¿le diagnosticaron celiaquía?"
+C4_PC_3_2,Numérico,"3.2. Para el diagnostico de celiaquía, ¿le realizaron una biopsia, es decir, un"
+C4_PC_3_3,Numérico,3.3. ¿Realiza la dieta especial para celiaquía?
+C4_PC_3_4,Numérico,"3.4. Desde que fué diagnosticado/a, ¿con que frecuencia recibe asistencia alimen"
+C4_PC_3_5_O1,Numérico,3.5. ¿Cuál de las siguientes asistencias alimentarias por celiaquía recibió?
+C4_PC_3_5_O2,Numérico,3.5. ¿Cuál de las siguientes asistencias alimentarias por celiaquía recibió?
+C4_PC_3_5_O3,Numérico,3.5. ¿Cuál de las siguientes asistencias alimentarias por celiaquía recibió?
+C4_PC_3_5_O4,Numérico,3.5. ¿Cuál de las siguientes asistencias alimentarias por celiaquía recibió?
+C4_PC_3_5_OtherS,Cadena,3.5. ¿Cuál de las siguientes asistencias alimentarias por celiaquía recibió?  (O
+C4_AF_4_1,Numérico,4.1. ¿Exige su trabajo una actividad física intensa que implica una aceleración
+C4_AF_4_2,Numérico,"4.2. En una semana típica, ¿cuántos días realiza usted actividades físicas inten"
+C4_AF_4_3,Numérico,"4.3. En uno de esos días en los que realiza actividades físicas intensas, ¿cuánt"
+C4_AF_4_4,Numérico,4.4. ¿Exige su trabajo una actividad de intensidad moderada que implica una lige
+C4_AF_4_5,Numérico,"4.5. En una semana típica, ¿cuántos días realiza usted actividades de intensidad"
+C4_AF_4_6,Numérico,4.6. En uno de esos días en los que realiza actividades físicas de intensidad mo
+C4_AF_4_7,Numérico,4.7. ¿Camina usted o usa usted una bicicleta al menos 10 minutos consecutivos en
+C4_AF_4_8,Numérico,"4.8. En una semana típica, ¿cuántos días camina o va en bicicleta al menos 10 mi"
+C4_AF_4_9,Numérico,"4.9. En un día típico, ¿cuánto tiempo pasa caminando o yendo en bicicleta para d"
+C4_AF_4_10,Numérico,"4.10. ¿En su tiempo libre, practica usted deportes/fitness intensos que implican"
+C4_AF_4_11,Numérico,"4.11. En una semana típica, ¿cuántos días practica usted deportes/fitness intens"
+C4_AF_4_12,Numérico,"4.12. En uno de esos días en los que practica deportes/fitness intensos, ¿cuánto"
+C4_AF_4_13,Numérico,4.13. ¿En su tiempo libre practica usted alguna actividad de intensidad moderada
+C4_AF_4_14,Numérico,"4.14. En una semana típica, ¿cuántos días practica usted actividades físicas de"
+C4_AF_4_15,Numérico,4.15. En uno de esos días en los que practica actividades físicas de intensidad
+C4_AF_4_16,Numérico,4.16. ¿Cuándo tiempo suele pasar sentado o recostado en un día típico?
+C4_HAC_5_1_1,Numérico,"5.1.1. Durante los últimos 7 días, indique cuántas veces desayunó."
+C4_HAC_5_1_2,Numérico,"5.1.2 Durante los últimos 7 días, indique cuántas veces almorzó."
+C4_HAC_5_1_3,Numérico,"5.1.3. Durante los últimos 7 días, indique cuántas veces merendó."
+C4_HAC_5_1_4,Numérico,"5.1.4. Durante los últimos 7 días, indique cuántas veces cenó."
+C4_HAC_5_1_5,Numérico,"5.1.5. Durante los últimos 7 días, ¿con qué frecuencia consumió algún alimento o"
+C4_HAC_5_1_6_O1,Numérico,"5.1.6. Durante los últimos 7 días, ¿qué alimentos o bebidas consumió  en esas oc"
+C4_HAC_5_1_6_O2,Numérico,"5.1.6. Durante los últimos 7 días, ¿qué alimentos o bebidas consumió  en esas oc"
+C4_HAC_5_1_6_O3,Numérico,"5.1.6. Durante los últimos 7 días, ¿qué alimentos o bebidas consumió  en esas oc"
+C4_HAC_5_1_6_O4,Numérico,"5.1.6. Durante los últimos 7 días, ¿qué alimentos o bebidas consumió  en esas oc"
+C4_HAC_5_1_6_O5,Numérico,"5.1.6. Durante los últimos 7 días, ¿qué alimentos o bebidas consumió  en esas oc"
+C4_HAC_5_1_6_O6,Numérico,"5.1.6. Durante los últimos 7 días, ¿qué alimentos o bebidas consumió  en esas oc"
+C4_HAC_5_1_6_O7,Numérico,"5.1.6. Durante los últimos 7 días, ¿qué alimentos o bebidas consumió  en esas oc"
+C4_HAC_5_1_6_O8,Numérico,"5.1.6. Durante los últimos 7 días, ¿qué alimentos o bebidas consumió  en esas oc"
+C4_HAC_5_1_6_O9,Numérico,"5.1.6. Durante los últimos 7 días, ¿qué alimentos o bebidas consumió  en esas oc"
+C4_HAC_5_1_7,Numérico,"5.1.7. Durante los últimos 7 días, ¿qué cantidad de veces consumió comidas elabo"
+C4_HAC_5_1_8_O1,Numérico,5.1.8. ¿Dónde fueron elaboradas esas comidas consumidas fuera del hogar?  Consid
+C4_HAC_5_1_8_O2,Numérico,5.1.8. ¿Dónde fueron elaboradas esas comidas consumidas fuera del hogar?  Consid
+C4_HAC_5_1_8_O3,Numérico,5.1.8. ¿Dónde fueron elaboradas esas comidas consumidas fuera del hogar?  Consid
+C4_HAC_5_1_8_O4,Numérico,5.1.8. ¿Dónde fueron elaboradas esas comidas consumidas fuera del hogar?  Consid
+C4_HAC_5_1_8_O5,Numérico,5.1.8. ¿Dónde fueron elaboradas esas comidas consumidas fuera del hogar?  Consid
+C4_HAC_5_1_8_O6,Numérico,5.1.8. ¿Dónde fueron elaboradas esas comidas consumidas fuera del hogar?  Consid
+C4_HAC_5_1_8_OtherS,Cadena,5.1.8. ¿Dónde fueron elaboradas esas comidas consumidas fuera del hogar?  Consid
+C4_HAC_5_2,Numérico,"5.2. ¿Hay algún alimento que por razones de religión, salud o decisión propia no"
+C4_HAC_5_3,Cadena,5.3. ¿Puede indicarme cuál/cuáles alimento/s no consume?
+C4_HAC_5_4,Numérico,5.4. ¿Con qué frecuencia le agregás sal a los alimentos una vez que están cocido
+C4_HAC_5_5,Numérico,5.5. ¿Cuánta sal piensa que consume?
+C4_HAC_5_6,Numérico,"5.6. En general, cuando compra algún alimento envasado, ¿lee la tabla de composi"
+C4_HAC_5_7,Numérico,5.7. ¿Le resulta comprensible esta información?
+C4_HAC_5_8,Numérico,5.8. ¿Considera que la elección de los alimentos que ingiere o compra se ve infl
+C4_HAC_5_9,Numérico,"5.9. Durante los últimos 7 días, ¿con qué frecuencia compró algún alimento porqu"
+C4_HAC_5_10,Numérico,"5.10. Cuando usted compra un producto, ¿compara la información nutricional con o"
+C4_HAC_5_11,Numérico,5.11. Pensando en su alimentación habitual ¿Cuán saludable considera que es…?
+C4_HAC_5_12,Numérico,5.12. ¿Con qué frecuencia come usted acompañado/a?
+C4_HAC_5_13,Numérico,"5.13. En general, mientras come, ¿con qué frecuencia mira pantallas de algún dis"
+T_C4_FCA_6_1_1,Numérico,"… leche, yogur y/o quesos?"
+T_C4_FCA_6_1_2,Numérico,… frutas frescas (solas y/o en preparaciones)?
+T_C4_FCA_6_1_3,Numérico,… verduras (solas y/o en preparaciones) sin contar papa y batata?
+T_C4_FCA_6_1_4,Numérico,"…papa, batata, cereales refinados como arroz blanco, pastas, tartas, empanadas y"
+T_C4_FCA_6_1_5,Numérico,"…cereales integrales, legumbres (por ejemplo lentejas, garbanzos, porotos, arroz"
+T_C4_FCA_6_1_6,Numérico,"… embutidos y/o fiambres (jamón, salame, chorizo, salchicha, etc)?"
+T_C4_FCA_6_1_7,Numérico,"… carne roja (por ejemplo de  vaca, chivo, cordero), carne de ave y/o huevos?"
+T_C4_FCA_6_1_8,Numérico,… pescado fresco y/o enlatado?
+T_C4_FCA_6_1_9,Numérico,"… aceites vegetales (como girasol, maíz, soja, girasol alto oleico, oliva y/o ca"
+T_C4_FCA_6_1_10,Numérico,"… frutas secas sin salar (como maní, nueces, almendras, avellanas, castañas, etc"
+T_C4_FCA_6_1_11,Numérico,"… productos de copetín (papas fritas, palitos de maíz, etc.)?"
+T_C4_FCA_6_1_12,Numérico,"… golosinas (caramelos, alfajores, chupetines, chicles, barras de cereal, etc.)?"
+T_C4_FCA_6_1_13,Numérico,"…facturas y/o productos de pastelería, galletitas dulces, cereales con azúcar"
+T_C4_FCA_6_1_14,Numérico,"…productos congelados pre elaborados (nuggets de pollo, supremas, medallones, ba"
+T_C4_FCA_6_1_15,Numérico,"… bebidas artificiales sin azúcar (jugos en polvos y/o concentrados, gaseosas, a"
+T_C4_FCA_6_1_16,Numérico,"… bebidas artificiales con azúcar (jugos en polvos y/o concentrados, gaseosas, a"
+T_C4_FCA_6_1_17,Numérico,… agua?
+C4_A_7_1,Numérico,7.1. ¿Cuánto cree usted que está pesando?
+C4_A_7_2,Numérico,7.2. ¿Cuánto piensa usted que mide?
+C4_A_7_3,Numérico,7.3. Peso
+C4_A_7_3A,Cadena,7.3A. Especificar qué ropa tiene puesta.
+C4_A_7_4,Numérico,7.4. Talla
+C4_A_7_5,Cadena,"7.5. En caso de haber tenido algún inconveniente para pesar o medir, consigne qu"
+C4_A_7_6,Numérico,7.6. ¿Cómo describiría su peso actual?
+C4_A_7_7,Numérico,7.7. ¿Cómo se siente en relación a tu peso?
+C4_A_7_8,Numérico,7.8. ¿Cuándo fue la última vez que se pesó?
+C4_A_7_9,Numérico,"7.9. Durante el último año, ¿un médico, una enfermera u otro profesional de la s"
+C4_A_7_10,Numérico,"7.10. ¿En estos momentos está haciendo algo para bajar de peso? (dieta, ejercici"
+C4_A_7_11,Numérico,7.11. ¿En estos momentos está haciendo algo para mantener controlado su peso?
+ES_Seleccionado,Numérico,DUMMY BIO SELECCIONADO
+miembro_id,Numérico,Identificador del Miembro asociado
+hogar_id,Numérico,ID del Hogar
+vivienda_id,Numérico,
+region,Numérico,
+M01_miembro_id,Numérico,Miembro 01 - ID del Miembro (HDR)
+M01_caso_id,Numérico,Miembro 01 - ID del Caso (STG)
+M01_clave,Cadena,Miembro 01 - Clave del Miembro (HDR)
+M01_sd_caso_id,Numérico,Miembro 01 - ID del Caso en el que se cargó el Socio-Demográfico (STG)
+M01_SD_3,Numérico,Miembro 01 - SD3. Sexo
+M01_SD_4,Numérico,Miembro 01 - SD4. ¿Cuántos años tiene?
+M01_SD_5,Numérico,Miembro 01 - SD5. ¿Cuántos meses tiene?
+M01_SD_6,Numérico,Miembro 01 - SD6. Relación de parentesco con la jefa/e
+M01_SD_10,Numérico,Miembro 01 - SD10. ¿Esta persona es indígena o descendiente de pueblos indígenas
+M01_SD_11,Numérico,Miembro 01 - SD11. Indique a cuál?
+M01_SD_12,Numérico,Miembro 01 - SD12. ¿En qué país nació?
+M01_SD_14_O1,Numérico,Miembro 01 - SD14. ¿Qué tipo de cobertura médica tiene?
+M01_SD_14_O2,Numérico,Miembro 01 - SD14. ¿Qué tipo de cobertura médica tiene?
+M01_SD_14_O3,Numérico,Miembro 01 - SD14. ¿Qué tipo de cobertura médica tiene?
+M01_SD_14_O4,Numérico,Miembro 01 - SD14. ¿Qué tipo de cobertura médica tiene?
+M01_SD_14_O5,Numérico,Miembro 01 - SD14. ¿Qué tipo de cobertura médica tiene?
+M01_SD_14_O6,Numérico,Miembro 01 - SD14. ¿Qué tipo de cobertura médica tiene?
+M01_SD_14_O7,Numérico,Miembro 01 - SD14. ¿Qué tipo de cobertura médica tiene?
+M01_SD_14_O8,Numérico,Miembro 01 - SD14. ¿Qué tipo de cobertura médica tiene?
+M01_SD_15,Numérico,Miembro 01 - SD15. ¿Asiste o asistió a algún establecimiento educativo?
+M01_SD_16,Numérico,Miembro 01 - SD16. ¿Qué nivel Cursa/cursó?
+M01_SD_17,Numérico,Miembro 01 - SD17. ¿Completó ese nivel?
+M01_SD_18,Numérico,Miembro 01 - SD18. ¿Cuál es el último grado o año que aprobó en ese nivel?
+M01_SD_19,Numérico,"Miembro 01 - SD19. En la semana pasada...¿trabajó por lo menos una hora, sin con"
+M01_SD_20,Numérico,Miembro 01 - SD20. No trabajó porque...
+M01_SD_21,Numérico,Miembro 01 - SD21. En ese empleo / ocupación trabaja como...
+M01_SD_22,Numérico,"Miembro 01 - SD22. En ese trabajo, ¿le descuentan para la jubilación?"
+M01_SD_23,Numérico,"Miembro 01 - SD23. En ese trabajo, ¿aporta por sí mismo para la jubilación?"
+M01_SD_24,Numérico,Miembro 01 - SD24. CONDICION DE INACTIVIDAD
+M01_SD_25,Numérico,Miembro 01 - SD25. ¿Este menor de 18 años recibe la Asignación Universal por Hij
+M01_SD_26,Numérico,Miembro 01 - SD26. ¿Cuál fue su ingreso individual en el hogar en el último mes?
+M01_SD_27,Numérico,Miembro 01 - SD27. ¿Me podría indicar en cuál de estos tramos se ubica su ingres
+SD_28,Numérico,SD28. ¿Me podría indicar en cuál de estos tramos se ubica el ingreso total mensu
+M01_SD_6_1,Numérico,Miembro 01 - SD6.1. ¿Es el miembro del hogar que elige habitualmente los aliment
+M01_SD_6_2,Numérico,Miembro 01 - SD6.2. ¿Es la persona que habitualmente prepara los alimentos a ser
+M02_miembro_id,Numérico,Miembro 02 - ID del Miembro (HDR)
+M02_caso_id,Numérico,Miembro 02 - ID del Caso (STG)
+M02_clave,Cadena,Miembro 02 - Clave del Miembro (HDR)
+M02_sd_caso_id,Numérico,Miembro 02 - ID del Caso en el que se cargó el Socio-Demográfico (STG)
+M02_SD_3,Numérico,Miembro 02 - SD3. Sexo
+M02_SD_4,Numérico,Miembro 02 - SD4. ¿Cuántos años tiene?
+M02_SD_5,Numérico,Miembro 02 - SD5. ¿Cuántos meses tiene?
+M02_SD_6,Numérico,Miembro 02 - SD6. Relación de parentesco con la jefa/e
+M02_SD_10,Numérico,Miembro 02 - SD10. ¿Esta persona es indígena o descendiente de pueblos indígenas
+M02_SD_11,Numérico,Miembro 02 - SD11. Indique a cuál?
+M02_SD_12,Numérico,Miembro 02 - SD12. ¿En qué país nació?
+M02_SD_14_O1,Numérico,Miembro 02 - SD14. ¿Qué tipo de cobertura médica tiene?
+M02_SD_14_O2,Numérico,Miembro 02 - SD14. ¿Qué tipo de cobertura médica tiene?
+M02_SD_14_O3,Numérico,Miembro 02 - SD14. ¿Qué tipo de cobertura médica tiene?
+M02_SD_14_O4,Numérico,Miembro 02 - SD14. ¿Qué tipo de cobertura médica tiene?
+M02_SD_14_O5,Numérico,Miembro 02 - SD14. ¿Qué tipo de cobertura médica tiene?
+M02_SD_14_O6,Numérico,Miembro 02 - SD14. ¿Qué tipo de cobertura médica tiene?
+M02_SD_14_O7,Numérico,Miembro 02 - SD14. ¿Qué tipo de cobertura médica tiene?
+M02_SD_14_O8,Numérico,Miembro 02 - SD14. ¿Qué tipo de cobertura médica tiene?
+M02_SD_15,Numérico,Miembro 02 - SD15. ¿Asiste o asistió a algún establecimiento educativo?
+M02_SD_16,Numérico,Miembro 02 - SD16. ¿Qué nivel Cursa/cursó?
+M02_SD_17,Numérico,Miembro 02 - SD17. ¿Completó ese nivel?
+M02_SD_18,Numérico,Miembro 02 - SD18. ¿Cuál es el último grado o año que aprobó en ese nivel?
+M02_SD_19,Numérico,"Miembro 02 - SD19. En la semana pasada...¿trabajó por lo menos una hora, sin con"
+M02_SD_20,Numérico,Miembro 02 - SD20. No trabajó porque...
+M02_SD_21,Numérico,Miembro 02 - SD21. En ese empleo / ocupación trabaja como...
+M02_SD_22,Numérico,"Miembro 02 - SD22. En ese trabajo, ¿le descuentan para la jubilación?"
+M02_SD_23,Numérico,"Miembro 02 - SD23. En ese trabajo, ¿aporta por sí mismo para la jubilación?"
+M02_SD_24,Numérico,Miembro 02 - SD24. CONDICION DE INACTIVIDAD
+M02_SD_25,Numérico,Miembro 02 - SD25. ¿Este menor de 18 años recibe la Asignación Universal por Hij
+M02_SD_26,Numérico,Miembro 02 - SD26. ¿Cuál fue su ingreso individual en el hogar en el último mes?
+M02_SD_27,Numérico,Miembro 02 - SD27. ¿Me podría indicar en cuál de estos tramos se ubica su ingres
+M02_SD_6_1,Numérico,Miembro 02 - SD6.1. ¿Es el miembro del hogar que elige habitualmente los aliment
+M02_SD_6_2,Numérico,Miembro 02 - SD6.2. ¿Es la persona que habitualmente prepara los alimentos a ser
+M03_miembro_id,Numérico,Miembro 03 - ID del Miembro (HDR)
+M03_caso_id,Numérico,Miembro 03 - ID del Caso (STG)
+M03_clave,Cadena,Miembro 03 - Clave del Miembro (HDR)
+M03_sd_caso_id,Numérico,Miembro 03 - ID del Caso en el que se cargó el Socio-Demográfico (STG)
+M03_SD_3,Numérico,Miembro 03 - SD3. Sexo
+M03_SD_4,Numérico,Miembro 03 - SD4. ¿Cuántos años tiene?
+M03_SD_5,Numérico,Miembro 03 - SD5. ¿Cuántos meses tiene?
+M03_SD_6,Numérico,Miembro 03 - SD6. Relación de parentesco con la jefa/e
+M03_SD_10,Numérico,Miembro 03 - SD10. ¿Esta persona es indígena o descendiente de pueblos indígenas
+M03_SD_11,Numérico,Miembro 03 - SD11. Indique a cuál?
+M03_SD_12,Numérico,Miembro 03 - SD12. ¿En qué país nació?
+M03_SD_14_O1,Numérico,Miembro 03 - SD14. ¿Qué tipo de cobertura médica tiene?
+M03_SD_14_O2,Numérico,Miembro 03 - SD14. ¿Qué tipo de cobertura médica tiene?
+M03_SD_14_O3,Numérico,Miembro 03 - SD14. ¿Qué tipo de cobertura médica tiene?
+M03_SD_14_O4,Numérico,Miembro 03 - SD14. ¿Qué tipo de cobertura médica tiene?
+M03_SD_14_O5,Numérico,Miembro 03 - SD14. ¿Qué tipo de cobertura médica tiene?
+M03_SD_14_O6,Numérico,Miembro 03 - SD14. ¿Qué tipo de cobertura médica tiene?
+M03_SD_14_O7,Numérico,Miembro 03 - SD14. ¿Qué tipo de cobertura médica tiene?
+M03_SD_14_O8,Numérico,Miembro 03 - SD14. ¿Qué tipo de cobertura médica tiene?
+M03_SD_15,Numérico,Miembro 03 - SD15. ¿Asiste o asistió a algún establecimiento educativo?
+M03_SD_16,Numérico,Miembro 03 - SD16. ¿Qué nivel Cursa/cursó?
+M03_SD_17,Numérico,Miembro 03 - SD17. ¿Completó ese nivel?
+M03_SD_18,Numérico,Miembro 03 - SD18. ¿Cuál es el último grado o año que aprobó en ese nivel?
+M03_SD_19,Numérico,"Miembro 03 - SD19. En la semana pasada...¿trabajó por lo menos una hora, sin con"
+M03_SD_20,Numérico,Miembro 03 - SD20. No trabajó porque...
+M03_SD_21,Numérico,Miembro 03 - SD21. En ese empleo / ocupación trabaja como...
+M03_SD_22,Numérico,"Miembro 03 - SD22. En ese trabajo, ¿le descuentan para la jubilación?"
+M03_SD_23,Numérico,"Miembro 03 - SD23. En ese trabajo, ¿aporta por sí mismo para la jubilación?"
+M03_SD_24,Numérico,Miembro 03 - SD24. CONDICION DE INACTIVIDAD
+M03_SD_25,Numérico,Miembro 03 - SD25. ¿Este menor de 18 años recibe la Asignación Universal por Hij
+M03_SD_26,Numérico,Miembro 03 - SD26. ¿Cuál fue su ingreso individual en el hogar en el último mes?
+M03_SD_27,Numérico,Miembro 03 - SD27. ¿Me podría indicar en cuál de estos tramos se ubica su ingres
+M03_SD_6_1,Numérico,Miembro 03 - SD6.1. ¿Es el miembro del hogar que elige habitualmente los aliment
+M03_SD_6_2,Numérico,Miembro 03 - SD6.2. ¿Es la persona que habitualmente prepara los alimentos a ser
+M04_miembro_id,Numérico,Miembro 04 - ID del Miembro (HDR)
+M04_caso_id,Numérico,Miembro 04 - ID del Caso (STG)
+M04_clave,Cadena,Miembro 04 - Clave del Miembro (HDR)
+M04_sd_caso_id,Numérico,Miembro 04 - ID del Caso en el que se cargó el Socio-Demográfico (STG)
+M04_SD_3,Numérico,Miembro 04 - SD3. Sexo
+M04_SD_4,Numérico,Miembro 04 - SD4. ¿Cuántos años tiene?
+M04_SD_5,Numérico,Miembro 04 - SD5. ¿Cuántos meses tiene?
+M04_SD_6,Numérico,Miembro 04 - SD6. Relación de parentesco con la jefa/e
+M04_SD_10,Numérico,Miembro 04 - SD10. ¿Esta persona es indígena o descendiente de pueblos indígenas
+M04_SD_11,Numérico,Miembro 04 - SD11. Indique a cuál?
+M04_SD_12,Numérico,Miembro 04 - SD12. ¿En qué país nació?
+M04_SD_14_O1,Numérico,Miembro 04 - SD14. ¿Qué tipo de cobertura médica tiene?
+M04_SD_14_O2,Numérico,Miembro 04 - SD14. ¿Qué tipo de cobertura médica tiene?
+M04_SD_14_O3,Numérico,Miembro 04 - SD14. ¿Qué tipo de cobertura médica tiene?
+M04_SD_14_O4,Numérico,Miembro 04 - SD14. ¿Qué tipo de cobertura médica tiene?
+M04_SD_14_O5,Numérico,Miembro 04 - SD14. ¿Qué tipo de cobertura médica tiene?
+M04_SD_14_O6,Numérico,Miembro 04 - SD14. ¿Qué tipo de cobertura médica tiene?
+M04_SD_14_O7,Numérico,Miembro 04 - SD14. ¿Qué tipo de cobertura médica tiene?
+M04_SD_14_O8,Numérico,Miembro 04 - SD14. ¿Qué tipo de cobertura médica tiene?
+M04_SD_15,Numérico,Miembro 04 - SD15. ¿Asiste o asistió a algún establecimiento educativo?
+M04_SD_16,Numérico,Miembro 04 - SD16. ¿Qué nivel Cursa/cursó?
+M04_SD_17,Numérico,Miembro 04 - SD17. ¿Completó ese nivel?
+M04_SD_18,Numérico,Miembro 04 - SD18. ¿Cuál es el último grado o año que aprobó en ese nivel?
+M04_SD_19,Numérico,"Miembro 04 - SD19. En la semana pasada...¿trabajó por lo menos una hora, sin con"
+M04_SD_20,Numérico,Miembro 04 - SD20. No trabajó porque...
+M04_SD_21,Numérico,Miembro 04 - SD21. En ese empleo / ocupación trabaja como...
+M04_SD_22,Numérico,"Miembro 04 - SD22. En ese trabajo, ¿le descuentan para la jubilación?"
+M04_SD_23,Numérico,"Miembro 04 - SD23. En ese trabajo, ¿aporta por sí mismo para la jubilación?"
+M04_SD_24,Numérico,Miembro 04 - SD24. CONDICION DE INACTIVIDAD
+M04_SD_25,Numérico,Miembro 04 - SD25. ¿Este menor de 18 años recibe la Asignación Universal por Hij
+M04_SD_26,Numérico,Miembro 04 - SD26. ¿Cuál fue su ingreso individual en el hogar en el último mes?
+M04_SD_27,Numérico,Miembro 04 - SD27. ¿Me podría indicar en cuál de estos tramos se ubica su ingres
+M04_SD_6_1,Numérico,Miembro 04 - SD6.1. ¿Es el miembro del hogar que elige habitualmente los aliment
+M04_SD_6_2,Numérico,Miembro 04 - SD6.2. ¿Es la persona que habitualmente prepara los alimentos a ser
+M05_miembro_id,Numérico,Miembro 05 - ID del Miembro (HDR)
+M05_caso_id,Numérico,Miembro 05 - ID del Caso (STG)
+M05_clave,Cadena,Miembro 05 - Clave del Miembro (HDR)
+M05_sd_caso_id,Numérico,Miembro 05 - ID del Caso en el que se cargó el Socio-Demográfico (STG)
+M05_SD_3,Numérico,Miembro 05 - SD3. Sexo
+M05_SD_4,Numérico,Miembro 05 - SD4. ¿Cuántos años tiene?
+M05_SD_5,Numérico,Miembro 05 - SD5. ¿Cuántos meses tiene?
+M05_SD_6,Numérico,Miembro 05 - SD6. Relación de parentesco con la jefa/e
+M05_SD_10,Numérico,Miembro 05 - SD10. ¿Esta persona es indígena o descendiente de pueblos indígenas
+M05_SD_11,Numérico,Miembro 05 - SD11. Indique a cuál?
+M05_SD_12,Numérico,Miembro 05 - SD12. ¿En qué país nació?
+M05_SD_14_O1,Numérico,Miembro 05 - SD14. ¿Qué tipo de cobertura médica tiene?
+M05_SD_14_O2,Numérico,Miembro 05 - SD14. ¿Qué tipo de cobertura médica tiene?
+M05_SD_14_O3,Numérico,Miembro 05 - SD14. ¿Qué tipo de cobertura médica tiene?
+M05_SD_14_O4,Numérico,Miembro 05 - SD14. ¿Qué tipo de cobertura médica tiene?
+M05_SD_14_O5,Numérico,Miembro 05 - SD14. ¿Qué tipo de cobertura médica tiene?
+M05_SD_14_O6,Numérico,Miembro 05 - SD14. ¿Qué tipo de cobertura médica tiene?
+M05_SD_14_O7,Numérico,Miembro 05 - SD14. ¿Qué tipo de cobertura médica tiene?
+M05_SD_14_O8,Numérico,Miembro 05 - SD14. ¿Qué tipo de cobertura médica tiene?
+M05_SD_15,Numérico,Miembro 05 - SD15. ¿Asiste o asistió a algún establecimiento educativo?
+M05_SD_16,Numérico,Miembro 05 - SD16. ¿Qué nivel Cursa/cursó?
+M05_SD_17,Numérico,Miembro 05 - SD17. ¿Completó ese nivel?
+M05_SD_18,Numérico,Miembro 05 - SD18. ¿Cuál es el último grado o año que aprobó en ese nivel?
+M05_SD_19,Numérico,"Miembro 05 - SD19. En la semana pasada...¿trabajó por lo menos una hora, sin con"
+M05_SD_20,Numérico,Miembro 05 - SD20. No trabajó porque...
+M05_SD_21,Numérico,Miembro 05 - SD21. En ese empleo / ocupación trabaja como...
+M05_SD_22,Numérico,"Miembro 05 - SD22. En ese trabajo, ¿le descuentan para la jubilación?"
+M05_SD_23,Numérico,"Miembro 05 - SD23. En ese trabajo, ¿aporta por sí mismo para la jubilación?"
+M05_SD_24,Numérico,Miembro 05 - SD24. CONDICION DE INACTIVIDAD
+M05_SD_25,Numérico,Miembro 05 - SD25. ¿Este menor de 18 años recibe la Asignación Universal por Hij
+M05_SD_26,Numérico,Miembro 05 - SD26. ¿Cuál fue su ingreso individual en el hogar en el último mes?
+M05_SD_27,Numérico,Miembro 05 - SD27. ¿Me podría indicar en cuál de estos tramos se ubica su ingres
+M05_SD_6_1,Numérico,Miembro 05 - SD6.1. ¿Es el miembro del hogar que elige habitualmente los aliment
+M05_SD_6_2,Numérico,Miembro 05 - SD6.2. ¿Es la persona que habitualmente prepara los alimentos a ser
+M06_miembro_id,Numérico,Miembro 06 - ID del Miembro (HDR)
+M06_caso_id,Numérico,Miembro 06 - ID del Caso (STG)
+M06_clave,Cadena,Miembro 06 - Clave del Miembro (HDR)
+M06_sd_caso_id,Numérico,Miembro 06 - ID del Caso en el que se cargó el Socio-Demográfico (STG)
+M06_SD_3,Numérico,Miembro 06 - SD3. Sexo
+M06_SD_4,Numérico,Miembro 06 - SD4. ¿Cuántos años tiene?
+M06_SD_5,Numérico,Miembro 06 - SD5. ¿Cuántos meses tiene?
+M06_SD_6,Numérico,Miembro 06 - SD6. Relación de parentesco con la jefa/e
+M06_SD_10,Numérico,Miembro 06 - SD10. ¿Esta persona es indígena o descendiente de pueblos indígenas
+M06_SD_11,Numérico,Miembro 06 - SD11. Indique a cuál?
+M06_SD_12,Numérico,Miembro 06 - SD12. ¿En qué país nació?
+M06_SD_14_O1,Numérico,Miembro 06 - SD14. ¿Qué tipo de cobertura médica tiene?
+M06_SD_14_O2,Numérico,Miembro 06 - SD14. ¿Qué tipo de cobertura médica tiene?
+M06_SD_14_O3,Numérico,Miembro 06 - SD14. ¿Qué tipo de cobertura médica tiene?
+M06_SD_14_O4,Numérico,Miembro 06 - SD14. ¿Qué tipo de cobertura médica tiene?
+M06_SD_14_O5,Numérico,Miembro 06 - SD14. ¿Qué tipo de cobertura médica tiene?
+M06_SD_14_O6,Numérico,Miembro 06 - SD14. ¿Qué tipo de cobertura médica tiene?
+M06_SD_14_O7,Numérico,Miembro 06 - SD14. ¿Qué tipo de cobertura médica tiene?
+M06_SD_14_O8,Numérico,Miembro 06 - SD14. ¿Qué tipo de cobertura médica tiene?
+M06_SD_15,Numérico,Miembro 06 - SD15. ¿Asiste o asistió a algún establecimiento educativo?
+M06_SD_16,Numérico,Miembro 06 - SD16. ¿Qué nivel Cursa/cursó?
+M06_SD_17,Numérico,Miembro 06 - SD17. ¿Completó ese nivel?
+M06_SD_18,Numérico,Miembro 06 - SD18. ¿Cuál es el último grado o año que aprobó en ese nivel?
+M06_SD_19,Numérico,"Miembro 06 - SD19. En la semana pasada...¿trabajó por lo menos una hora, sin con"
+M06_SD_20,Numérico,Miembro 06 - SD20. No trabajó porque...
+M06_SD_21,Numérico,Miembro 06 - SD21. En ese empleo / ocupación trabaja como...
+M06_SD_22,Numérico,"Miembro 06 - SD22. En ese trabajo, ¿le descuentan para la jubilación?"
+M06_SD_23,Numérico,"Miembro 06 - SD23. En ese trabajo, ¿aporta por sí mismo para la jubilación?"
+M06_SD_24,Numérico,Miembro 06 - SD24. CONDICION DE INACTIVIDAD
+M06_SD_25,Numérico,Miembro 06 - SD25. ¿Este menor de 18 años recibe la Asignación Universal por Hij
+M06_SD_26,Numérico,Miembro 06 - SD26. ¿Cuál fue su ingreso individual en el hogar en el último mes?
+M06_SD_27,Numérico,Miembro 06 - SD27. ¿Me podría indicar en cuál de estos tramos se ubica su ingres
+M06_SD_6_1,Numérico,Miembro 06 - SD6.1. ¿Es el miembro del hogar que elige habitualmente los aliment
+M06_SD_6_2,Numérico,Miembro 06 - SD6.2. ¿Es la persona que habitualmente prepara los alimentos a ser
+M07_miembro_id,Numérico,Miembro 07 - ID del Miembro (HDR)
+M07_caso_id,Numérico,Miembro 07 - ID del Caso (STG)
+M07_clave,Cadena,Miembro 07 - Clave del Miembro (HDR)
+M07_sd_caso_id,Numérico,Miembro 07 - ID del Caso en el que se cargó el Socio-Demográfico (STG)
+M07_SD_3,Numérico,Miembro 07 - SD3. Sexo
+M07_SD_4,Numérico,Miembro 07 - SD4. ¿Cuántos años tiene?
+M07_SD_5,Numérico,Miembro 07 - SD5. ¿Cuántos meses tiene?
+M07_SD_6,Numérico,Miembro 07 - SD6. Relación de parentesco con la jefa/e
+M07_SD_10,Numérico,Miembro 07 - SD10. ¿Esta persona es indígena o descendiente de pueblos indígenas
+M07_SD_11,Numérico,Miembro 07 - SD11. Indique a cuál?
+M07_SD_12,Numérico,Miembro 07 - SD12. ¿En qué país nació?
+M07_SD_14_O1,Numérico,Miembro 07 - SD14. ¿Qué tipo de cobertura médica tiene?
+M07_SD_14_O2,Numérico,Miembro 07 - SD14. ¿Qué tipo de cobertura médica tiene?
+M07_SD_14_O3,Numérico,Miembro 07 - SD14. ¿Qué tipo de cobertura médica tiene?
+M07_SD_14_O4,Numérico,Miembro 07 - SD14. ¿Qué tipo de cobertura médica tiene?
+M07_SD_14_O5,Numérico,Miembro 07 - SD14. ¿Qué tipo de cobertura médica tiene?
+M07_SD_14_O6,Numérico,Miembro 07 - SD14. ¿Qué tipo de cobertura médica tiene?
+M07_SD_14_O7,Numérico,Miembro 07 - SD14. ¿Qué tipo de cobertura médica tiene?
+M07_SD_14_O8,Numérico,Miembro 07 - SD14. ¿Qué tipo de cobertura médica tiene?
+M07_SD_15,Numérico,Miembro 07 - SD15. ¿Asiste o asistió a algún establecimiento educativo?
+M07_SD_16,Numérico,Miembro 07 - SD16. ¿Qué nivel Cursa/cursó?
+M07_SD_17,Numérico,Miembro 07 - SD17. ¿Completó ese nivel?
+M07_SD_18,Numérico,Miembro 07 - SD18. ¿Cuál es el último grado o año que aprobó en ese nivel?
+M07_SD_19,Numérico,"Miembro 07 - SD19. En la semana pasada...¿trabajó por lo menos una hora, sin con"
+M07_SD_20,Numérico,Miembro 07 - SD20. No trabajó porque...
+M07_SD_21,Numérico,Miembro 07 - SD21. En ese empleo / ocupación trabaja como...
+M07_SD_22,Numérico,"Miembro 07 - SD22. En ese trabajo, ¿le descuentan para la jubilación?"
+M07_SD_23,Numérico,"Miembro 07 - SD23. En ese trabajo, ¿aporta por sí mismo para la jubilación?"
+M07_SD_24,Numérico,Miembro 07 - SD24. CONDICION DE INACTIVIDAD
+M07_SD_25,Numérico,Miembro 07 - SD25. ¿Este menor de 18 años recibe la Asignación Universal por Hij
+M07_SD_26,Numérico,Miembro 07 - SD26. ¿Cuál fue su ingreso individual en el hogar en el último mes?
+M07_SD_27,Numérico,Miembro 07 - SD27. ¿Me podría indicar en cuál de estos tramos se ubica su ingres
+M07_SD_6_1,Numérico,Miembro 07 - SD6.1. ¿Es el miembro del hogar que elige habitualmente los aliment
+M07_SD_6_2,Numérico,Miembro 07 - SD6.2. ¿Es la persona que habitualmente prepara los alimentos a ser
+M08_miembro_id,Numérico,Miembro 08 - ID del Miembro (HDR)
+M08_caso_id,Numérico,Miembro 08 - ID del Caso (STG)
+M08_clave,Cadena,Miembro 08 - Clave del Miembro (HDR)
+M08_sd_caso_id,Numérico,Miembro 08 - ID del Caso en el que se cargó el Socio-Demográfico (STG)
+M08_SD_3,Numérico,Miembro 08 - SD3. Sexo
+M08_SD_4,Numérico,Miembro 08 - SD4. ¿Cuántos años tiene?
+M08_SD_5,Numérico,Miembro 08 - SD5. ¿Cuántos meses tiene?
+M08_SD_6,Numérico,Miembro 08 - SD6. Relación de parentesco con la jefa/e
+M08_SD_10,Numérico,Miembro 08 - SD10. ¿Esta persona es indígena o descendiente de pueblos indígenas
+M08_SD_11,Numérico,Miembro 08 - SD11. Indique a cuál?
+M08_SD_12,Numérico,Miembro 08 - SD12. ¿En qué país nació?
+M08_SD_14_O1,Numérico,Miembro 08 - SD14. ¿Qué tipo de cobertura médica tiene?
+M08_SD_14_O2,Numérico,Miembro 08 - SD14. ¿Qué tipo de cobertura médica tiene?
+M08_SD_14_O3,Numérico,Miembro 08 - SD14. ¿Qué tipo de cobertura médica tiene?
+M08_SD_14_O4,Numérico,Miembro 08 - SD14. ¿Qué tipo de cobertura médica tiene?
+M08_SD_14_O5,Numérico,Miembro 08 - SD14. ¿Qué tipo de cobertura médica tiene?
+M08_SD_14_O6,Numérico,Miembro 08 - SD14. ¿Qué tipo de cobertura médica tiene?
+M08_SD_14_O7,Numérico,Miembro 08 - SD14. ¿Qué tipo de cobertura médica tiene?
+M08_SD_14_O8,Numérico,Miembro 08 - SD14. ¿Qué tipo de cobertura médica tiene?
+M08_SD_15,Numérico,Miembro 08 - SD15. ¿Asiste o asistió a algún establecimiento educativo?
+M08_SD_16,Numérico,Miembro 08 - SD16. ¿Qué nivel Cursa/cursó?
+M08_SD_17,Numérico,Miembro 08 - SD17. ¿Completó ese nivel?
+M08_SD_18,Numérico,Miembro 08 - SD18. ¿Cuál es el último grado o año que aprobó en ese nivel?
+M08_SD_19,Numérico,"Miembro 08 - SD19. En la semana pasada...¿trabajó por lo menos una hora, sin con"
+M08_SD_20,Numérico,Miembro 08 - SD20. No trabajó porque...
+M08_SD_21,Numérico,Miembro 08 - SD21. En ese empleo / ocupación trabaja como...
+M08_SD_22,Numérico,"Miembro 08 - SD22. En ese trabajo, ¿le descuentan para la jubilación?"
+M08_SD_23,Numérico,"Miembro 08 - SD23. En ese trabajo, ¿aporta por sí mismo para la jubilación?"
+M08_SD_24,Numérico,Miembro 08 - SD24. CONDICION DE INACTIVIDAD
+M08_SD_25,Numérico,Miembro 08 - SD25. ¿Este menor de 18 años recibe la Asignación Universal por Hij
+M08_SD_26,Numérico,Miembro 08 - SD26. ¿Cuál fue su ingreso individual en el hogar en el último mes?
+M08_SD_27,Numérico,Miembro 08 - SD27. ¿Me podría indicar en cuál de estos tramos se ubica su ingres
+M08_SD_6_1,Numérico,Miembro 08 - SD6.1. ¿Es el miembro del hogar que elige habitualmente los aliment
+M08_SD_6_2,Numérico,Miembro 08 - SD6.2. ¿Es la persona que habitualmente prepara los alimentos a ser
+M09_miembro_id,Numérico,Miembro 09 - ID del Miembro (HDR)
+M09_caso_id,Numérico,Miembro 09 - ID del Caso (STG)
+M09_clave,Cadena,Miembro 09 - Clave del Miembro (HDR)
+M09_sd_caso_id,Numérico,Miembro 09 - ID del Caso en el que se cargó el Socio-Demográfico (STG)
+M09_SD_3,Numérico,Miembro 09 - SD3. Sexo
+M09_SD_4,Numérico,Miembro 09 - SD4. ¿Cuántos años tiene?
+M09_SD_5,Numérico,Miembro 09 - SD5. ¿Cuántos meses tiene?
+M09_SD_6,Numérico,Miembro 09 - SD6. Relación de parentesco con la jefa/e
+M09_SD_10,Numérico,Miembro 09 - SD10. ¿Esta persona es indígena o descendiente de pueblos indígenas
+M09_SD_11,Numérico,Miembro 09 - SD11. Indique a cuál?
+M09_SD_12,Numérico,Miembro 09 - SD12. ¿En qué país nació?
+M09_SD_14_O1,Numérico,Miembro 09 - SD14. ¿Qué tipo de cobertura médica tiene?
+M09_SD_14_O2,Numérico,Miembro 09 - SD14. ¿Qué tipo de cobertura médica tiene?
+M09_SD_14_O3,Numérico,Miembro 09 - SD14. ¿Qué tipo de cobertura médica tiene?
+M09_SD_14_O4,Numérico,Miembro 09 - SD14. ¿Qué tipo de cobertura médica tiene?
+M09_SD_14_O5,Numérico,Miembro 09 - SD14. ¿Qué tipo de cobertura médica tiene?
+M09_SD_14_O6,Numérico,Miembro 09 - SD14. ¿Qué tipo de cobertura médica tiene?
+M09_SD_14_O7,Numérico,Miembro 09 - SD14. ¿Qué tipo de cobertura médica tiene?
+M09_SD_14_O8,Numérico,Miembro 09 - SD14. ¿Qué tipo de cobertura médica tiene?
+M09_SD_15,Numérico,Miembro 09 - SD15. ¿Asiste o asistió a algún establecimiento educativo?
+M09_SD_16,Numérico,Miembro 09 - SD16. ¿Qué nivel Cursa/cursó?
+M09_SD_17,Numérico,Miembro 09 - SD17. ¿Completó ese nivel?
+M09_SD_18,Numérico,Miembro 09 - SD18. ¿Cuál es el último grado o año que aprobó en ese nivel?
+M09_SD_19,Numérico,"Miembro 09 - SD19. En la semana pasada...¿trabajó por lo menos una hora, sin con"
+M09_SD_20,Numérico,Miembro 09 - SD20. No trabajó porque...
+M09_SD_21,Numérico,Miembro 09 - SD21. En ese empleo / ocupación trabaja como...
+M09_SD_22,Numérico,"Miembro 09 - SD22. En ese trabajo, ¿le descuentan para la jubilación?"
+M09_SD_23,Numérico,"Miembro 09 - SD23. En ese trabajo, ¿aporta por sí mismo para la jubilación?"
+M09_SD_24,Numérico,Miembro 09 - SD24. CONDICION DE INACTIVIDAD
+M09_SD_25,Numérico,Miembro 09 - SD25. ¿Este menor de 18 años recibe la Asignación Universal por Hij
+M09_SD_26,Numérico,Miembro 09 - SD26. ¿Cuál fue su ingreso individual en el hogar en el último mes?
+M09_SD_27,Numérico,Miembro 09 - SD27. ¿Me podría indicar en cuál de estos tramos se ubica su ingres
+M09_SD_6_1,Numérico,Miembro 09 - SD6.1. ¿Es el miembro del hogar que elige habitualmente los aliment
+M09_SD_6_2,Numérico,Miembro 09 - SD6.2. ¿Es la persona que habitualmente prepara los alimentos a ser
+M10_miembro_id,Numérico,Miembro 10 - ID del Miembro (HDR)
+M10_caso_id,Numérico,Miembro 10 - ID del Caso (STG)
+M10_clave,Cadena,Miembro 10 - Clave del Miembro (HDR)
+M10_sd_caso_id,Numérico,Miembro 10 - ID del Caso en el que se cargó el Socio-Demográfico (STG)
+M10_SD_3,Numérico,Miembro 10 - SD3. Sexo
+M10_SD_4,Numérico,Miembro 10 - SD4. ¿Cuántos años tiene?
+M10_SD_5,Numérico,Miembro 10 - SD5. ¿Cuántos meses tiene?
+M10_SD_6,Numérico,Miembro 10 - SD6. Relación de parentesco con la jefa/e
+M10_SD_10,Numérico,Miembro 10 - SD10. ¿Esta persona es indígena o descendiente de pueblos indígenas
+M10_SD_11,Numérico,Miembro 10 - SD11. Indique a cuál?
+M10_SD_12,Numérico,Miembro 10 - SD12. ¿En qué país nació?
+M10_SD_14_O1,Numérico,Miembro 10 - SD14. ¿Qué tipo de cobertura médica tiene?
+M10_SD_14_O2,Numérico,Miembro 10 - SD14. ¿Qué tipo de cobertura médica tiene?
+M10_SD_14_O3,Numérico,Miembro 10 - SD14. ¿Qué tipo de cobertura médica tiene?
+M10_SD_14_O4,Numérico,Miembro 10 - SD14. ¿Qué tipo de cobertura médica tiene?
+M10_SD_14_O5,Numérico,Miembro 10 - SD14. ¿Qué tipo de cobertura médica tiene?
+M10_SD_14_O6,Numérico,Miembro 10 - SD14. ¿Qué tipo de cobertura médica tiene?
+M10_SD_14_O7,Numérico,Miembro 10 - SD14. ¿Qué tipo de cobertura médica tiene?
+M10_SD_14_O8,Numérico,Miembro 10 - SD14. ¿Qué tipo de cobertura médica tiene?
+M10_SD_15,Numérico,Miembro 10 - SD15. ¿Asiste o asistió a algún establecimiento educativo?
+M10_SD_16,Numérico,Miembro 10 - SD16. ¿Qué nivel Cursa/cursó?
+M10_SD_17,Numérico,Miembro 10 - SD17. ¿Completó ese nivel?
+M10_SD_18,Numérico,Miembro 10 - SD18. ¿Cuál es el último grado o año que aprobó en ese nivel?
+M10_SD_19,Numérico,"Miembro 10 - SD19. En la semana pasada...¿trabajó por lo menos una hora, sin con"
+M10_SD_20,Numérico,Miembro 10 - SD20. No trabajó porque...
+M10_SD_21,Numérico,Miembro 10 - SD21. En ese empleo / ocupación trabaja como...
+M10_SD_22,Numérico,"Miembro 10 - SD22. En ese trabajo, ¿le descuentan para la jubilación?"
+M10_SD_23,Numérico,"Miembro 10 - SD23. En ese trabajo, ¿aporta por sí mismo para la jubilación?"
+M10_SD_24,Numérico,Miembro 10 - SD24. CONDICION DE INACTIVIDAD
+M10_SD_25,Numérico,Miembro 10 - SD25. ¿Este menor de 18 años recibe la Asignación Universal por Hij
+M10_SD_26,Numérico,Miembro 10 - SD26. ¿Cuál fue su ingreso individual en el hogar en el último mes?
+M10_SD_27,Numérico,Miembro 10 - SD27. ¿Me podría indicar en cuál de estos tramos se ubica su ingres
+M10_SD_6_1,Numérico,Miembro 10 - SD6.1. ¿Es el miembro del hogar que elige habitualmente los aliment
+M10_SD_6_2,Numérico,Miembro 10 - SD6.2. ¿Es la persona que habitualmente prepara los alimentos a ser
+M11_miembro_id,Numérico,Miembro 11 - ID del Miembro (HDR)
+M11_caso_id,Numérico,Miembro 11 - ID del Caso (STG)
+M11_clave,Cadena,Miembro 11 - Clave del Miembro (HDR)
+M11_sd_caso_id,Numérico,Miembro 11 - ID del Caso en el que se cargó el Socio-Demográfico (STG)
+M11_SD_3,Numérico,Miembro 11 - SD3. Sexo
+M11_SD_4,Numérico,Miembro 11 - SD4. ¿Cuántos años tiene?
+M11_SD_5,Numérico,Miembro 11 - SD5. ¿Cuántos meses tiene?
+M11_SD_6,Numérico,Miembro 11 - SD6. Relación de parentesco con la jefa/e
+M11_SD_10,Numérico,Miembro 11 - SD10. ¿Esta persona es indígena o descendiente de pueblos indígenas
+M11_SD_11,Numérico,Miembro 11 - SD11. Indique a cuál?
+M11_SD_12,Numérico,Miembro 11 - SD12. ¿En qué país nació?
+M11_SD_14_O1,Numérico,Miembro 11 - SD14. ¿Qué tipo de cobertura médica tiene?
+M11_SD_14_O2,Numérico,Miembro 11 - SD14. ¿Qué tipo de cobertura médica tiene?
+M11_SD_14_O3,Numérico,Miembro 11 - SD14. ¿Qué tipo de cobertura médica tiene?
+M11_SD_14_O4,Numérico,Miembro 11 - SD14. ¿Qué tipo de cobertura médica tiene?
+M11_SD_14_O5,Numérico,Miembro 11 - SD14. ¿Qué tipo de cobertura médica tiene?
+M11_SD_14_O6,Numérico,Miembro 11 - SD14. ¿Qué tipo de cobertura médica tiene?
+M11_SD_14_O7,Numérico,Miembro 11 - SD14. ¿Qué tipo de cobertura médica tiene?
+M11_SD_14_O8,Numérico,Miembro 11 - SD14. ¿Qué tipo de cobertura médica tiene?
+M11_SD_15,Numérico,Miembro 11 - SD15. ¿Asiste o asistió a algún establecimiento educativo?
+M11_SD_16,Numérico,Miembro 11 - SD16. ¿Qué nivel Cursa/cursó?
+M11_SD_17,Numérico,Miembro 11 - SD17. ¿Completó ese nivel?
+M11_SD_18,Numérico,Miembro 11 - SD18. ¿Cuál es el último grado o año que aprobó en ese nivel?
+M11_SD_19,Numérico,"Miembro 11 - SD19. En la semana pasada...¿trabajó por lo menos una hora, sin con"
+M11_SD_20,Numérico,Miembro 11 - SD20. No trabajó porque...
+M11_SD_21,Numérico,Miembro 11 - SD21. En ese empleo / ocupación trabaja como...
+M11_SD_22,Numérico,"Miembro 11 - SD22. En ese trabajo, ¿le descuentan para la jubilación?"
+M11_SD_23,Numérico,"Miembro 11 - SD23. En ese trabajo, ¿aporta por sí mismo para la jubilación?"
+M11_SD_24,Numérico,Miembro 11 - SD24. CONDICION DE INACTIVIDAD
+M11_SD_25,Numérico,Miembro 11 - SD25. ¿Este menor de 18 años recibe la Asignación Universal por Hij
+M11_SD_26,Numérico,Miembro 11 - SD26. ¿Cuál fue su ingreso individual en el hogar en el último mes?
+M11_SD_27,Numérico,Miembro 11 - SD27. ¿Me podría indicar en cuál de estos tramos se ubica su ingres
+M11_SD_6_1,Numérico,Miembro 11 - SD6.1. ¿Es el miembro del hogar que elige habitualmente los aliment
+M11_SD_6_2,Numérico,Miembro 11 - SD6.2. ¿Es la persona que habitualmente prepara los alimentos a ser
+M12_miembro_id,Numérico,Miembro 12 - ID del Miembro (HDR)
+M12_caso_id,Numérico,Miembro 12 - ID del Caso (STG)
+M12_clave,Cadena,Miembro 12 - Clave del Miembro (HDR)
+M12_sd_caso_id,Numérico,Miembro 12 - ID del Caso en el que se cargó el Socio-Demográfico (STG)
+M12_SD_3,Numérico,Miembro 12 - SD3. Sexo
+M12_SD_4,Numérico,Miembro 12 - SD4. ¿Cuántos años tiene?
+M12_SD_5,Numérico,Miembro 12 - SD5. ¿Cuántos meses tiene?
+M12_SD_6,Numérico,Miembro 12 - SD6. Relación de parentesco con la jefa/e
+M12_SD_10,Numérico,Miembro 12 - SD10. ¿Esta persona es indígena o descendiente de pueblos indígenas
+M12_SD_11,Numérico,Miembro 12 - SD11. Indique a cuál?
+M12_SD_12,Numérico,Miembro 12 - SD12. ¿En qué país nació?
+M12_SD_14_O1,Numérico,Miembro 12 - SD14. ¿Qué tipo de cobertura médica tiene?
+M12_SD_14_O2,Numérico,Miembro 12 - SD14. ¿Qué tipo de cobertura médica tiene?
+M12_SD_14_O3,Numérico,Miembro 12 - SD14. ¿Qué tipo de cobertura médica tiene?
+M12_SD_14_O4,Numérico,Miembro 12 - SD14. ¿Qué tipo de cobertura médica tiene?
+M12_SD_14_O5,Numérico,Miembro 12 - SD14. ¿Qué tipo de cobertura médica tiene?
+M12_SD_14_O6,Numérico,Miembro 12 - SD14. ¿Qué tipo de cobertura médica tiene?
+M12_SD_14_O7,Numérico,Miembro 12 - SD14. ¿Qué tipo de cobertura médica tiene?
+M12_SD_14_O8,Numérico,Miembro 12 - SD14. ¿Qué tipo de cobertura médica tiene?
+M12_SD_15,Numérico,Miembro 12 - SD15. ¿Asiste o asistió a algún establecimiento educativo?
+M12_SD_16,Numérico,Miembro 12 - SD16. ¿Qué nivel Cursa/cursó?
+M12_SD_17,Numérico,Miembro 12 - SD17. ¿Completó ese nivel?
+M12_SD_18,Numérico,Miembro 12 - SD18. ¿Cuál es el último grado o año que aprobó en ese nivel?
+M12_SD_19,Numérico,"Miembro 12 - SD19. En la semana pasada...¿trabajó por lo menos una hora, sin con"
+M12_SD_20,Numérico,Miembro 12 - SD20. No trabajó porque...
+M12_SD_21,Numérico,Miembro 12 - SD21. En ese empleo / ocupación trabaja como...
+M12_SD_22,Numérico,"Miembro 12 - SD22. En ese trabajo, ¿le descuentan para la jubilación?"
+M12_SD_23,Numérico,"Miembro 12 - SD23. En ese trabajo, ¿aporta por sí mismo para la jubilación?"
+M12_SD_24,Numérico,Miembro 12 - SD24. CONDICION DE INACTIVIDAD
+M12_SD_25,Numérico,Miembro 12 - SD25. ¿Este menor de 18 años recibe la Asignación Universal por Hij
+M12_SD_26,Numérico,Miembro 12 - SD26. ¿Cuál fue su ingreso individual en el hogar en el último mes?
+M12_SD_27,Numérico,Miembro 12 - SD27. ¿Me podría indicar en cuál de estos tramos se ubica su ingres
+M12_SD_6_1,Numérico,Miembro 12 - SD6.1. ¿Es el miembro del hogar que elige habitualmente los aliment
+M12_SD_6_2,Numérico,Miembro 12 - SD6.2. ¿Es la persona que habitualmente prepara los alimentos a ser
+M13_miembro_id,Numérico,Miembro 13 - ID del Miembro (HDR)
+M13_caso_id,Numérico,Miembro 13 - ID del Caso (STG)
+M13_clave,Cadena,Miembro 13 - Clave del Miembro (HDR)
+M13_sd_caso_id,Numérico,Miembro 13 - ID del Caso en el que se cargó el Socio-Demográfico (STG)
+M13_SD_3,Numérico,Miembro 13 - SD3. Sexo
+M13_SD_4,Numérico,Miembro 13 - SD4. ¿Cuántos años tiene?
+M13_SD_5,Numérico,Miembro 13 - SD5. ¿Cuántos meses tiene?
+M13_SD_6,Numérico,Miembro 13 - SD6. Relación de parentesco con la jefa/e
+M13_SD_10,Numérico,Miembro 13 - SD10. ¿Esta persona es indígena o descendiente de pueblos indígenas
+M13_SD_11,Numérico,Miembro 13 - SD11. Indique a cuál?
+M13_SD_12,Numérico,Miembro 13 - SD12. ¿En qué país nació?
+M13_SD_14_O1,Numérico,Miembro 13 - SD14. ¿Qué tipo de cobertura médica tiene?
+M13_SD_14_O2,Numérico,Miembro 13 - SD14. ¿Qué tipo de cobertura médica tiene?
+M13_SD_14_O3,Numérico,Miembro 13 - SD14. ¿Qué tipo de cobertura médica tiene?
+M13_SD_14_O4,Numérico,Miembro 13 - SD14. ¿Qué tipo de cobertura médica tiene?
+M13_SD_14_O5,Numérico,Miembro 13 - SD14. ¿Qué tipo de cobertura médica tiene?
+M13_SD_14_O6,Numérico,Miembro 13 - SD14. ¿Qué tipo de cobertura médica tiene?
+M13_SD_14_O7,Numérico,Miembro 13 - SD14. ¿Qué tipo de cobertura médica tiene?
+M13_SD_14_O8,Numérico,Miembro 13 - SD14. ¿Qué tipo de cobertura médica tiene?
+M13_SD_15,Numérico,Miembro 13 - SD15. ¿Asiste o asistió a algún establecimiento educativo?
+M13_SD_16,Numérico,Miembro 13 - SD16. ¿Qué nivel Cursa/cursó?
+M13_SD_17,Numérico,Miembro 13 - SD17. ¿Completó ese nivel?
+M13_SD_18,Numérico,Miembro 13 - SD18. ¿Cuál es el último grado o año que aprobó en ese nivel?
+M13_SD_19,Numérico,"Miembro 13 - SD19. En la semana pasada...¿trabajó por lo menos una hora, sin con"
+M13_SD_20,Numérico,Miembro 13 - SD20. No trabajó porque...
+M13_SD_21,Numérico,Miembro 13 - SD21. En ese empleo / ocupación trabaja como...
+M13_SD_22,Numérico,"Miembro 13 - SD22. En ese trabajo, ¿le descuentan para la jubilación?"
+M13_SD_23,Numérico,"Miembro 13 - SD23. En ese trabajo, ¿aporta por sí mismo para la jubilación?"
+M13_SD_24,Numérico,Miembro 13 - SD24. CONDICION DE INACTIVIDAD
+M13_SD_25,Numérico,Miembro 13 - SD25. ¿Este menor de 18 años recibe la Asignación Universal por Hij
+M13_SD_26,Numérico,Miembro 13 - SD26. ¿Cuál fue su ingreso individual en el hogar en el último mes?
+M13_SD_27,Numérico,Miembro 13 - SD27. ¿Me podría indicar en cuál de estos tramos se ubica su ingres
+M13_SD_6_1,Numérico,Miembro 13 - SD6.1. ¿Es el miembro del hogar que elige habitualmente los aliment
+M13_SD_6_2,Numérico,Miembro 13 - SD6.2. ¿Es la persona que habitualmente prepara los alimentos a ser
+M14_miembro_id,Numérico,Miembro 14 - ID del Miembro (HDR)
+M14_caso_id,Numérico,Miembro 14 - ID del Caso (STG)
+M14_clave,Cadena,Miembro 14 - Clave del Miembro (HDR)
+M14_sd_caso_id,Numérico,Miembro 14 - ID del Caso en el que se cargó el Socio-Demográfico (STG)
+M14_SD_3,Numérico,Miembro 14 - SD3. Sexo
+M14_SD_4,Numérico,Miembro 14 - SD4. ¿Cuántos años tiene?
+M14_SD_5,Numérico,Miembro 14 - SD5. ¿Cuántos meses tiene?
+M14_SD_6,Numérico,Miembro 14 - SD6. Relación de parentesco con la jefa/e
+M14_SD_10,Numérico,Miembro 14 - SD10. ¿Esta persona es indígena o descendiente de pueblos indígenas
+M14_SD_11,Numérico,Miembro 14 - SD11. Indique a cuál?
+M14_SD_12,Numérico,Miembro 14 - SD12. ¿En qué país nació?
+M14_SD_14_O1,Numérico,Miembro 14 - SD14. ¿Qué tipo de cobertura médica tiene?
+M14_SD_14_O2,Numérico,Miembro 14 - SD14. ¿Qué tipo de cobertura médica tiene?
+M14_SD_14_O3,Numérico,Miembro 14 - SD14. ¿Qué tipo de cobertura médica tiene?
+M14_SD_14_O4,Numérico,Miembro 14 - SD14. ¿Qué tipo de cobertura médica tiene?
+M14_SD_14_O5,Numérico,Miembro 14 - SD14. ¿Qué tipo de cobertura médica tiene?
+M14_SD_14_O6,Numérico,Miembro 14 - SD14. ¿Qué tipo de cobertura médica tiene?
+M14_SD_14_O7,Numérico,Miembro 14 - SD14. ¿Qué tipo de cobertura médica tiene?
+M14_SD_14_O8,Numérico,Miembro 14 - SD14. ¿Qué tipo de cobertura médica tiene?
+M14_SD_15,Numérico,Miembro 14 - SD15. ¿Asiste o asistió a algún establecimiento educativo?
+M14_SD_16,Numérico,Miembro 14 - SD16. ¿Qué nivel Cursa/cursó?
+M14_SD_17,Numérico,Miembro 14 - SD17. ¿Completó ese nivel?
+M14_SD_18,Numérico,Miembro 14 - SD18. ¿Cuál es el último grado o año que aprobó en ese nivel?
+M14_SD_19,Numérico,"Miembro 14 - SD19. En la semana pasada...¿trabajó por lo menos una hora, sin con"
+M14_SD_20,Numérico,Miembro 14 - SD20. No trabajó porque...
+M14_SD_21,Numérico,Miembro 14 - SD21. En ese empleo / ocupación trabaja como...
+M14_SD_22,Numérico,"Miembro 14 - SD22. En ese trabajo, ¿le descuentan para la jubilación?"
+M14_SD_23,Numérico,"Miembro 14 - SD23. En ese trabajo, ¿aporta por sí mismo para la jubilación?"
+M14_SD_24,Numérico,Miembro 14 - SD24. CONDICION DE INACTIVIDAD
+M14_SD_25,Numérico,Miembro 14 - SD25. ¿Este menor de 18 años recibe la Asignación Universal por Hij
+M14_SD_26,Numérico,Miembro 14 - SD26. ¿Cuál fue su ingreso individual en el hogar en el último mes?
+M14_SD_27,Numérico,Miembro 14 - SD27. ¿Me podría indicar en cuál de estos tramos se ubica su ingres
+M14_SD_6_1,Numérico,Miembro 14 - SD6.1. ¿Es el miembro del hogar que elige habitualmente los aliment
+M14_SD_6_2,Numérico,Miembro 14 - SD6.2. ¿Es la persona que habitualmente prepara los alimentos a ser
+M15_miembro_id,Numérico,Miembro 15 - ID del Miembro (HDR)
+M15_caso_id,Numérico,Miembro 15 - ID del Caso (STG)
+M15_clave,Cadena,Miembro 15 - Clave del Miembro (HDR)
+M15_sd_caso_id,Numérico,Miembro 15 - ID del Caso en el que se cargó el Socio-Demográfico (STG)
+M15_SD_3,Numérico,Miembro 15 - SD3. Sexo
+M15_SD_4,Numérico,Miembro 15 - SD4. ¿Cuántos años tiene?
+M15_SD_5,Numérico,Miembro 15 - SD5. ¿Cuántos meses tiene?
+M15_SD_6,Numérico,Miembro 15 - SD6. Relación de parentesco con la jefa/e
+M15_SD_10,Numérico,Miembro 15 - SD10. ¿Esta persona es indígena o descendiente de pueblos indígenas
+M15_SD_11,Numérico,Miembro 15 - SD11. Indique a cuál?
+M15_SD_12,Numérico,Miembro 15 - SD12. ¿En qué país nació?
+M15_SD_14_O1,Numérico,Miembro 15 - SD14. ¿Qué tipo de cobertura médica tiene?
+M15_SD_14_O2,Numérico,Miembro 15 - SD14. ¿Qué tipo de cobertura médica tiene?
+M15_SD_14_O3,Numérico,Miembro 15 - SD14. ¿Qué tipo de cobertura médica tiene?
+M15_SD_14_O4,Numérico,Miembro 15 - SD14. ¿Qué tipo de cobertura médica tiene?
+M15_SD_14_O5,Numérico,Miembro 15 - SD14. ¿Qué tipo de cobertura médica tiene?
+M15_SD_14_O6,Numérico,Miembro 15 - SD14. ¿Qué tipo de cobertura médica tiene?
+M15_SD_14_O7,Numérico,Miembro 15 - SD14. ¿Qué tipo de cobertura médica tiene?
+M15_SD_14_O8,Numérico,Miembro 15 - SD14. ¿Qué tipo de cobertura médica tiene?
+M15_SD_15,Numérico,Miembro 15 - SD15. ¿Asiste o asistió a algún establecimiento educativo?
+M15_SD_16,Numérico,Miembro 15 - SD16. ¿Qué nivel Cursa/cursó?
+M15_SD_17,Numérico,Miembro 15 - SD17. ¿Completó ese nivel?
+M15_SD_18,Numérico,Miembro 15 - SD18. ¿Cuál es el último grado o año que aprobó en ese nivel?
+M15_SD_19,Numérico,"Miembro 15 - SD19. En la semana pasada...¿trabajó por lo menos una hora, sin con"
+M15_SD_20,Numérico,Miembro 15 - SD20. No trabajó porque...
+M15_SD_21,Numérico,Miembro 15 - SD21. En ese empleo / ocupación trabaja como...
+M15_SD_22,Numérico,"Miembro 15 - SD22. En ese trabajo, ¿le descuentan para la jubilación?"
+M15_SD_23,Numérico,"Miembro 15 - SD23. En ese trabajo, ¿aporta por sí mismo para la jubilación?"
+M15_SD_24,Numérico,Miembro 15 - SD24. CONDICION DE INACTIVIDAD
+M15_SD_25,Numérico,Miembro 15 - SD25. ¿Este menor de 18 años recibe la Asignación Universal por Hij
+M15_SD_26,Numérico,Miembro 15 - SD26. ¿Cuál fue su ingreso individual en el hogar en el último mes?
+M15_SD_27,Numérico,Miembro 15 - SD27. ¿Me podría indicar en cuál de estos tramos se ubica su ingres
+M15_SD_6_1,Numérico,Miembro 15 - SD6.1. ¿Es el miembro del hogar que elige habitualmente los aliment
+M15_SD_6_2,Numérico,Miembro 15 - SD6.2. ¿Es la persona que habitualmente prepara los alimentos a ser
+T_SD_29_1,Numérico,Asignación Universal por Embarazo
+T_SD_29_2,Numérico,Asignación Universal por Discapacidad
+T_SD_29_3,Numérico,Pensiones no Contributivas/ Graciables
+T_SD_29_4,Numérico,Jóvenes por Más y Mejor Trabajo
+T_SD_29_5,Numérico,Seguro de Capacitación y Empleo
+T_SD_29_6,Numérico,Inserción Laboral (PIL)
+T_SD_29_7,Numérico,Entrenamiento para el Trabajo
+T_SD_29_8,Numérico,Otros Programas de Empleo
+T_SD_29_9,Numérico,Progresar
+T_SD_29_10,Numérico,Becas para Pueblos Originarios
+T_SD_29_11,Numérico,Subsidios Mensuales para Salud (PROSAR - PAMI)
+T_SD_29_12,Numérico,"Tarjetas, tickets, vales o bonos para compra de alimentos (PNSA)"
+T_SD_29_13,Numérico,Ingreso Social con Trabajo: Argentina Trabaja
+T_SD_29_14,Numérico,Ellas Hacen
+T_SD_29_15,Numérico,Plan Provincial/ Municipal
+T_SD_29_16,Numérico,Otros
+T_SD_29_17,Numérico,No recuerda plan
+T_SD_29_18,Numérico,No tiene ninguno
+SD_29_PP_OtherS,Cadena,Nombre del Plan Provincial/ Municipal
+SD_29_Other_OtherS,Cadena,Qué otro plan?
+T_SD_30_1,Numérico,Asignación Universal por Embarazo
+T_SD_30_2,Numérico,Asignación Universal por Discapacidad
+T_SD_30_3,Numérico,Pensiones no Contributivas/ Graciables
+T_SD_30_4,Numérico,Jóvenes por Más y Mejor Trabajo
+T_SD_30_5,Numérico,Seguro de Capacitación y Empleo
+T_SD_30_6,Numérico,Inserción Laboral (PIL)
+T_SD_30_7,Numérico,Entrenamiento para el Trabajo
+T_SD_30_8,Numérico,Otros Programas de Empleo
+T_SD_30_9,Numérico,Progresar
+T_SD_30_10,Numérico,Becas para Pueblos Originarios
+T_SD_30_11,Numérico,Subsidios Mensuales para Salud (PROSAR - PAMI)
+T_SD_30_12,Numérico,"Tarjetas, tickets, vales o bonos para compra de alimentos (PNSA)"
+T_SD_30_13,Numérico,Ingreso Social con Trabajo: Argentina Trabaja
+T_SD_30_14,Numérico,Ellas Hacen
+T_SD_30_15,Numérico,Plan Provincial/ Municipal: {0}
+T_SD_30_16,Numérico,Otro: {0}
+T_SD_30_17,Numérico,No recuerda plan
+SD_3_1,Numérico,SD3.1. Tipo de vivienda
+SD_3_1_OtherS,Cadena,SD3.1. Tipo de vivienda  [Other (specify)]
+SD_3_2,Numérico,SD3.2. Tipo de vivienda. Material predominante del piso.
+SD_3_2_OtherS,Cadena,SD3.2. Tipo de vivienda. Material predominante del piso. [Other (specify)]
+SD_3_3,Numérico,SD3.3. Material predominante de las paredes exteriores
+SD_3_3_OtherS,Cadena,SD3.3. Material predominante de las paredes exteriores  [Other (specify)]
+SD_3_4,Numérico,SD3.4. ¿Cómo se abastece el agua?
+SD_3_5_O1,Numérico,"SD3.5. El agua que usa, ¿proviene de..."
+SD_3_5_O2,Numérico,"SD3.5. El agua que usa, ¿proviene de..."
+SD_3_5_O3,Numérico,"SD3.5. El agua que usa, ¿proviene de..."
+SD_3_5_O4,Numérico,"SD3.5. El agua que usa, ¿proviene de..."
+SD_3_5_O5,Numérico,"SD3.5. El agua que usa, ¿proviene de..."
+SD_3_5_O6,Numérico,"SD3.5. El agua que usa, ¿proviene de..."
+SD_3_5_O7,Numérico,"SD3.5. El agua que usa, ¿proviene de..."
+SD_3_5_OtherS,Cadena,"SD3.5. El agua que usa, ¿proviene de... (Otros) [Other (specify)]"
+SD_3_6,Numérico,SD3.6. El baño tiene...
+SD_3_7,Numérico,SD3.7. ¿Cómo es el desagüe del inodoro?
+SD_3_8,Numérico,"SD3.8. Este hogar, ¿tiene electricidad..."
+SD_3_9,Numérico,SD3.9. ¿Tiene heladera?
+SD_3_10,Numérico,SD3.10. ¿Para cocinar Ud. usa habitualmente...?
+SD_3_10_OtherS,Cadena,SD3.10. ¿Para cocinar Ud. usa habitualmente...? [Other (specify)]
+SD_3_11,Numérico,SD3.11. ¿Tiene teléfono (fijo o celular) disponible para el uso del hogar?
+SD_3_12,Numérico,SD3.12. Propiedad de la vivienda.
+SD_3_12_OtherS,Cadena,SD3.12. Propiedad de la vivienda. [Other (specify)]
+SD_3_13,Numérico,SD3.13. La vivienda es...
+SD_3_13_OtherS,Cadena,SD3.13. La vivienda es... [Other (specify)]
+SD_3_14,Numérico,SD3.14. Cantidad de habitaciones de uso exclusivo del grupo familiar (sin contar
+SD_3_15,Numérico,SD3.15. ¿En el hogar tienen automóvil propio?
+T_SD_3_16_1,Cadena,MARCA
+T_SD_3_16_2,Cadena,MODELO
+T_SD_3_16_3,Cadena,AÑO
+T_SD_3_16_2_1,Cadena,MARCA
+T_SD_3_16_2_2,Cadena,MODELO
+T_SD_3_16_2_3,Cadena,AÑO
+T_SD_5_1_1,Numérico,A - Bolsón o caja de alimentos
+T_SD_5_1_2,Numérico,B - Ticket para la compra de Alimentos
+T_SD_5_1_3,Numérico,C - Acreditación en tarjeta magnética de uso exclusivo para la compra de aliment
+T_SD_5_1_4,Numérico,D - Leche fluida o en polvo o leche de fórmula
+T_SD_5_1_5,Numérico,E - Otra forma de Asistencia Alimentaria
+SD_6_3_1_O1,Numérico,SD6.3.1. ¿Dónde compran habitualmente leche y lácteos?
+SD_6_3_1_O2,Numérico,SD6.3.1. ¿Dónde compran habitualmente leche y lácteos?
+SD_6_3_1_O3,Numérico,SD6.3.1. ¿Dónde compran habitualmente leche y lácteos?
+SD_6_3_1_O4,Numérico,SD6.3.1. ¿Dónde compran habitualmente leche y lácteos?
+SD_6_3_1_O5,Numérico,SD6.3.1. ¿Dónde compran habitualmente leche y lácteos?
+SD_6_3_1_O6,Numérico,SD6.3.1. ¿Dónde compran habitualmente leche y lácteos?
+SD_6_3_1_O7,Numérico,SD6.3.1. ¿Dónde compran habitualmente leche y lácteos?
+SD_6_3_1_O8,Numérico,SD6.3.1. ¿Dónde compran habitualmente leche y lácteos?
+SD_6_3_2_O1,Numérico,"SD6.3.2. ¿Dónde compran habitualmente Carnes (vacuna, pollo, pescado) y huevo?"
+SD_6_3_2_O2,Numérico,"SD6.3.2. ¿Dónde compran habitualmente Carnes (vacuna, pollo, pescado) y huevo?"
+SD_6_3_2_O3,Numérico,"SD6.3.2. ¿Dónde compran habitualmente Carnes (vacuna, pollo, pescado) y huevo?"
+SD_6_3_2_O4,Numérico,"SD6.3.2. ¿Dónde compran habitualmente Carnes (vacuna, pollo, pescado) y huevo?"
+SD_6_3_2_O5,Numérico,"SD6.3.2. ¿Dónde compran habitualmente Carnes (vacuna, pollo, pescado) y huevo?"
+SD_6_3_2_O6,Numérico,"SD6.3.2. ¿Dónde compran habitualmente Carnes (vacuna, pollo, pescado) y huevo?"
+SD_6_3_2_O7,Numérico,"SD6.3.2. ¿Dónde compran habitualmente Carnes (vacuna, pollo, pescado) y huevo?"
+SD_6_3_2_O8,Numérico,"SD6.3.2. ¿Dónde compran habitualmente Carnes (vacuna, pollo, pescado) y huevo?"
+SD_6_3_3_O1,Numérico,SD6.3.3. ¿Dónde compran habitualmente Vegetales y frutas?
+SD_6_3_3_O2,Numérico,SD6.3.3. ¿Dónde compran habitualmente Vegetales y frutas?
+SD_6_3_3_O3,Numérico,SD6.3.3. ¿Dónde compran habitualmente Vegetales y frutas?
+SD_6_3_3_O4,Numérico,SD6.3.3. ¿Dónde compran habitualmente Vegetales y frutas?
+SD_6_3_3_O5,Numérico,SD6.3.3. ¿Dónde compran habitualmente Vegetales y frutas?
+SD_6_3_3_O6,Numérico,SD6.3.3. ¿Dónde compran habitualmente Vegetales y frutas?
+SD_6_3_3_O7,Numérico,SD6.3.3. ¿Dónde compran habitualmente Vegetales y frutas?
+SD_6_3_3_O8,Numérico,SD6.3.3. ¿Dónde compran habitualmente Vegetales y frutas?
+SD_6_3_4_O1,Numérico,"SD6.3.4. ¿Dónde compran habitualmente Alimentos secos ( fideos, harina, aceites,"
+SD_6_3_4_O2,Numérico,"SD6.3.4. ¿Dónde compran habitualmente Alimentos secos ( fideos, harina, aceites,"
+SD_6_3_4_O3,Numérico,"SD6.3.4. ¿Dónde compran habitualmente Alimentos secos ( fideos, harina, aceites,"
+SD_6_3_4_O4,Numérico,"SD6.3.4. ¿Dónde compran habitualmente Alimentos secos ( fideos, harina, aceites,"
+SD_6_3_4_O5,Numérico,"SD6.3.4. ¿Dónde compran habitualmente Alimentos secos ( fideos, harina, aceites,"
+SD_6_3_4_O6,Numérico,"SD6.3.4. ¿Dónde compran habitualmente Alimentos secos ( fideos, harina, aceites,"
+SD_6_3_4_O7,Numérico,"SD6.3.4. ¿Dónde compran habitualmente Alimentos secos ( fideos, harina, aceites,"
+SD_6_3_4_O8,Numérico,"SD6.3.4. ¿Dónde compran habitualmente Alimentos secos ( fideos, harina, aceites,"
+SD_MIEMBRO_SORTEADO,Numérico,Miembro Seleccionado - Número de Miembro
+SD_MIEMBRO_SORTEADO_miembro_id,Numérico,Miembro Seleccionado - ID del Miembro (HDR)
+SD_MIEMBRO_SORTEADO_caso_id,Numérico,Miembro Seleccionado - ID del Caso (STG)
+SD_MIEMBRO_SORTEADO_clave,Cadena,Miembro Seleccionado - Clave del Miembro (HDR)
+SD_MIEMBRO_SORTEADO_sd_caso_id,Numérico,Miembro Seleccionado - ID del Caso en el que se cargó el Socio-Demográfico (STG)
+SD_MIEMBRO_SORTEADO_SD_3,Numérico,Miembro Seleccionado - SD3. Sexo
+SD_MIEMBRO_SORTEADO_SD_4,Numérico,Miembro Seleccionado - SD4. ¿Cuántos años tiene?
+SD_MIEMBRO_SORTEADO_SD_5,Numérico,Miembro Seleccionado - SD5. ¿Cuántos meses tiene?
+SD_MIEMBRO_SORTEADO_SD_6,Numérico,Miembro Seleccionado - SD6. Relación de parentesco con la jefa/e
+SD_MIEMBRO_SORTEADO_SD_10,Numérico,Miembro Seleccionado - SD10. ¿Esta persona es indígena o descendiente de pueblos
+SD_MIEMBRO_SORTEADO_SD_11,Numérico,Miembro Seleccionado - SD11. Indique a cuál?
+SD_MIEMBRO_SORTEADO_SD_12,Numérico,Miembro Seleccionado - SD12. ¿En qué país nació?
+SD_MIEMBRO_SORTEADO_SD_14_O1,Numérico,Miembro Seleccionado - SD14. ¿Qué tipo de cobertura médica tiene?
+SD_MIEMBRO_SORTEADO_SD_14_O2,Numérico,Miembro Seleccionado - SD14. ¿Qué tipo de cobertura médica tiene?
+SD_MIEMBRO_SORTEADO_SD_14_O3,Numérico,Miembro Seleccionado - SD14. ¿Qué tipo de cobertura médica tiene?
+SD_MIEMBRO_SORTEADO_SD_14_O4,Numérico,Miembro Seleccionado - SD14. ¿Qué tipo de cobertura médica tiene?
+SD_MIEMBRO_SORTEADO_SD_14_O5,Numérico,Miembro Seleccionado - SD14. ¿Qué tipo de cobertura médica tiene?
+SD_MIEMBRO_SORTEADO_SD_14_O6,Numérico,Miembro Seleccionado - SD14. ¿Qué tipo de cobertura médica tiene?
+SD_MIEMBRO_SORTEADO_SD_14_O7,Numérico,Miembro Seleccionado - SD14. ¿Qué tipo de cobertura médica tiene?
+SD_MIEMBRO_SORTEADO_SD_14_O8,Numérico,Miembro Seleccionado - SD14. ¿Qué tipo de cobertura médica tiene?
+SD_MIEMBRO_SORTEADO_SD_15,Numérico,Miembro Seleccionado - SD15. ¿Asiste o asistió a algún establecimiento educativo
+SD_MIEMBRO_SORTEADO_SD_16,Numérico,Miembro Seleccionado - SD16. ¿Qué nivel Cursa/cursó?
+SD_MIEMBRO_SORTEADO_SD_17,Numérico,Miembro Seleccionado - SD17. ¿Completó ese nivel?
+SD_MIEMBRO_SORTEADO_SD_18,Numérico,Miembro Seleccionado - SD18. ¿Cuál es el último grado o año que aprobó en ese ni
+SD_MIEMBRO_SORTEADO_SD_19,Numérico,Miembro Seleccionado - SD19. En la semana pasada...¿trabajó por lo menos una hor
+SD_MIEMBRO_SORTEADO_SD_20,Numérico,Miembro Seleccionado - SD20. No trabajó porque...
+SD_MIEMBRO_SORTEADO_SD_21,Numérico,Miembro Seleccionado - SD21. En ese empleo / ocupación trabaja como...
+SD_MIEMBRO_SORTEADO_SD_22,Numérico,"Miembro Seleccionado - SD22. En ese trabajo, ¿le descuentan para la jubilación?"
+SD_MIEMBRO_SORTEADO_SD_23,Numérico,"Miembro Seleccionado - SD23. En ese trabajo, ¿aporta por sí mismo para la jubila"
+SD_MIEMBRO_SORTEADO_SD_24,Numérico,Miembro Seleccionado - SD24. CONDICION DE INACTIVIDAD
+SD_MIEMBRO_SORTEADO_SD_25,Numérico,Miembro Seleccionado - SD25. ¿Este menor de 18 años recibe la Asignación Univers
+SD_MIEMBRO_SORTEADO_SD_26,Numérico,Miembro Seleccionado - SD26. ¿Cuál fue su ingreso individual en el hogar en el ú
+SD_MIEMBRO_SORTEADO_SD_27,Numérico,Miembro Seleccionado - SD27. ¿Me podría indicar en cuál de estos tramos se ubica
+SD_MIEMBRO_SORTEADO_SD_6_1,Numérico,Miembro Seleccionado - SD6.1. ¿Es el miembro del hogar que elige habitualmente l
+SD_MIEMBRO_SORTEADO_SD_6_2,Numérico,Miembro Seleccionado - SD6.2. ¿Es la persona que habitualmente prepara los alime
+SD_5_1,Numérico,SD.5.1 Recibe asistencia alimentaria
+HAC_5_1_8,Numérico,HAC.5.1.8 Comidas elaboradas en un comedor comunitario
+HAC_5_10,Numérico,HAC.5.10 Frecuencia con que considera que la elección de los alimentos que consu
+HAC_5_10_AGRUP,Numérico,HAC.5.10 Frecuencia con que considera que la elección de los alimentos que consu
+HAC_5_11,Numérico,HAC.5.11 En los últimos 7 días compró algún alimento porque fue visto en alguna
+HAC_5_11_FREQ,Numérico,"HAC.5.11 En los últimos 7 días, frecuencia en que compró algún alimento porque f"
+HAC_5_11_AGRUP,Numérico,"HAC.5.11 En los últimos 7 días, frecuencia en que compró algún alimento porque f"
+HAC_5_12,Numérico,HAC.5.12 Siempre come acompañado
+HAC_5_12_b,Numérico,HAC.5.12.b Nunca o sólo alguna vez come acompañado
+HAC_5_13,Numérico,HAC.5.13 Siempre o casi siempre mira pantallas de algún dispositivo electrónico
+HAC_5_7,Numérico,"HAC.5.7 Lee la tabla de composición nutricional de los envases, siempre o frecue"
+HAC_5_7_FREQ,Numérico,HAC.5.7 Frecuencia de lectura de la tabla de composición nutricional de los enva
+HAC_5_7_AGRUP,Numérico,HAC.5.7 Frecuencia de lectura de la tabla de composición nutricional de los enva
+FCA_6_1_1,Numérico,"FCA.6.1.1 Consumen con periodicidad definida: Leche, yogur y/o quesos - Al menos"
+FCA_6_1_2,Numérico,FCA.6.1.2 Consumen con periodicidad definida: Frutas frescas (solas y/o en prepa
+FCA_6_1_3,Numérico,FCA.6.1.3 Consumen con periodicidad definida: Verduras (solas y/o en preparacion
+FCA_6_1_6,Numérico,"FCA.6.1.6 Consumen con periodicidad definida: embutidos y/o fiambres (jamón, sal"
+FCA_6_1_7,Numérico,"FCA.6.1.7 Consumen con periodicidad definida: carne roja (por ejemplo de  vaca,"
+FCA_6_1_7_b,Numérico,"FCA.6.1.7 Consumen con periodicidad definida: carne roja (por ejemplo de  vaca,"
+FCA_6_1_8,Numérico,FCA.6.1.8 Consumen con periodicidad definida: pescado fresco y/o enlatado
+FCA_6_1_11,Numérico,FCA.6.1.11 Consumen con periodicidad definida: productos de copetín (papas frita
+FCA_6_1_12,Numérico,"FCA.6.1.12 Consumen con periodicidad definida: golosinas (caramelos, alfajores,"
+FCA_6_1_13,Numérico,"FCA.6.1.13 Consumen con periodicidad definida: facturas, productos de pastelería"
+FCA_6_1_14,Numérico,FCA.6.1.14 Consumen con periodicidad definida: productos congelados pre elaborad
+FCA_6_1_15,Numérico,FCA.6.1.15 Consumen con periodicidad definida: bebidas artificiales sin azúcar (
+FCA_6_1_16,Numérico,FCA.6.1.16 Consumen con periodicidad definida: Bebidas artificiales con azúcar (
+FCA_6_1_17,Numérico,FCA.6.1.17 Consumen con periodicidad definida: Agua - 6 o más veces por día
+F_FF,Numérico,Frecuencia de consumo FRUTAS FRESCAS
+F_V,Numérico,Frecuencia de consumo VERDURAS
+F_LYQ,Numérico,"Frecuencia de consumo LECHE, YOGURT, QUESO"
+F_CR,Numérico,Frecuencia de consumo CARNES ROJAS
+F_PESC,Numérico,Frecuencia de consumo PESCADOS
+F_BCA,Numérico,Frecuencia de comsumo BEBIDAS CON AZUCAR
+F_FAC,Numérico,Frecuencia de consumo FACTURAS
+F_COP,Numérico,Frecuencia de consumo COPETIN
+F_GOL,Numérico,Frecuencia de consumo GOLOSINAS
+compro_publi,Numérico,"Durante los últimos 7 días, ¿con qué frecuencia compró algún alimento porque lo vio en alguna publicidad (TV, radio, revista, etc.)? (2 a 12 años)"
+compro_publimayor,Numérico,"Durante los últimos 7 días, ¿con qué frecuencia compró algún alimento porque lo vio en alguna publicidad (TV, radio, revista, etc.)? (13 años y mas)"
+lectura_etiqsino,Numérico,¿lee la tabla de composición nutricional del envase?
+compren_etiq,Numérico,¿Le resulta comprensible esta información?
+EE_7_1,Numérico,"EE.7.1 Se le provee algún alimento y/o bebida en la guardería, jardín o escuela"
+EE_7_2_1,Numérico,"EE.7.2.1 Frecuencia de provisión en la guardería, jardín o escuela: Bebidas con"
+EE_7_2_2,Numérico,"EE.7.2.2 Frecuencia de provisión en la guardería, jardín o escuela: Bebidas sin"
+EE_7_2_3,Numérico,"EE.7.2.3 Frecuencia de provisión en la guardería, jardín o escuela: Infusiones ("
+EE_7_2_4,Numérico,"EE.7.2.4 Frecuencia de provisión en la guardería, jardín o escuela: Productos de"
+EE_7_2_5,Numérico,"EE.7.2.5 Frecuencia de provisión en la guardería, jardín o escuela: Golosinas (c"
+EE_7_2_6,Numérico,"EE.7.2.6 Frecuencia de provisión en la guardería, jardín o escuela: Facturas, pr"
+EE_7_2_7,Numérico,"EE.7.2.7 Frecuencia de provisión en la guardería, jardín o escuela: Frutas fresc"
+EE_7_2_8,Numérico,"EE.7.2.8 Frecuencia de provisión en la guardería, jardín o escuela: Agua segura"
+EE_7_2_9,Numérico,"EE.7.2.9 Frecuencia de provisión en la guardería, jardín o escuela: Yogur/postre"
+EE_7_2_10,Numérico,"EE.7.2.10 Frecuencia de provisión en la guardería, jardín o escuela: Sandwich"
+EE_7_3,Numérico,EE.7.3 Reporta que la escuela posee un kiosco y/o buffet donde comprar alimentos
+EE_7_4,Numérico,EE.7.4 Compró algún alimento y/o bebida en los últimos 7 días
+EE_7_5_01,Numérico,EE.7.5.01 Compró en el kiosco o buffet durante los últimos 7 días: Bebidas con a
+EE_7_5_04,Numérico,EE.7.5.04 Compró en el kiosco o buffet durante los últimos 7 días: Productos de
+EE_7_5_05,Numérico,EE.7.5.05 Compró en el kiosco o buffet durante los últimos 7 días: Golosinas (ca
+EE_7_2_1bis,Numérico,BEBIDAS CON AZUCAR
+EE_7_2_6bis,Numérico,PRODUCTOS DE PASTELERÍA
+SD_28_NivelIngresoHogar,Numérico,Nivel de ingresos del Hogar
+SD_CANT_MIEMBROS,Numérico,Cantidad de habitantes del hogar
+UPM,Numérico,Aglomerado
+EUPM,Cadena,Estrato
+F_STG_calib,Numérico,Ponderador
+Cobertura_salud,Numérico,Cobertura de salud del encuestado
+Maximo_cursado_C4,Numérico,Máximo nivel de educación alcanzado por el encuestado de 18 y más años
+Nivel_educacion_C4,Numérico,Categorias de máximo nivel de educación alcanzado por el encuestado de 18 y más
+Nivel_educ_C1_C3,Numérico,Categorias máximo nivel educación alcanzado por jefe hogar C1 a C3
+Nivel_educacion_total,Numérico,Categorias máximo nivel educación alcanzado por jefe hogar (C1-C3) o encuestado
+predict_imp,Numérico,valores de SD_28_NivelIngresoHogar mas imputados crudos
+SD_28_imputado,Numérico,Variable de medias de rango de ingreso completa
+ingreso_uc_imputado,Numérico,Ingreso del hogar por unidad consumidora
+IngHog_UC_QUINT_imp,Numérico,Quintiles regionalizados de ingreso del hogar por unidad consumidora
+C1_A_9_2C,Numérico,Peso corregido sin pañal
+Prematuro,Numérico,Finalización de embarazo antes de 37 semanas
+PESO,Numérico,Peso
+TALLA,Numérico,Talla
+IMC,Numérico,Índice de masa corporal
+PESO2,Numérico,Peso con reemplazo de peso referido en C4
+TALLA2,Numérico,Talla con reemplazo de talla referida en C4
+IMC2,Numérico,Índice de masa corporal con valores referidos
+tipodecalzado,Cadena,tipo de calzado
+calzado,Numérico,Calzado
+fecha_entr,Fecha,Fecha de la entrevista
+antropo_fnac,Fecha,Fecha de nacimineto
+antropo_sex,Numérico,Sexo (para Anthro)
+Edadd,Numérico,Edad (d)
+Edadm,Numérico,Edad (m)
+ZPE,Numérico,Z-score de peso para edad
+ZTE,Numérico,Z-score de talla para edad
+PTZ,Numérico,Z-score de peso para talla
+ZIMCE,Numérico,Z-score de IMC para edad
+Alerta,Cadena,Alertas de Anthro y Anthro plus
+Alerta_IMC,Numérico,Alertas para excluir del análisis IMC 0 a 17 años
+Alerta_PTZ,Numérico,Alertas para excluir del analisis peso para talla 0 a 59 meses
+IMC_0a4cat,Numérico,Categorías de IMC para 0 a 59 meses
+IMC_0a4cat_ex,Numérico,Categorías de IMC con exceso de peso para 0 a 59 meses
+IMC_5a17cat,Numérico,Categorías de IMC para 5 a 17 años
+IMC_5a17cat_ex,Numérico,Categorías de IMC con exceso de peso para 5 a 17 años
+IMC_C4cat,Numérico,Categorías de índice de masa corporal para 18 años y más
+IMC_C4cat_ex,Numérico,Categorías de IMC con exceso de peso para 18 años y más
+Talla_0a17cat,Numérico,Categorías de Talla para edad de 0 a 17 años
+PESO_0a4cat,Numérico,Categorías de Peso para edad de 0 a 59 meses
+PxT_0a4cat,Numérico,Categorías de Peso para talla en 0 a 59 meses
+PxT_0a4cat_ex,Numérico,Categorías de Peso para talla con exceso de peso en 0 a 59 meses
+edad_m_tramo,Numérico,edad en tramos de meses
+edad_m2_tramo,Numérico,edad en tramos bimensuales
+CreatininaSuero,Numérico,Creatitinina en sueron en mg/l
+CreatininaUrinaria,Numérico,Creatinina urinario en g/dl
+SodioUrinario,Numérico,Sodio urinario en meq/l
+UPM_numerado,Numérico,Aglomerado bioquimica
+EUPM_numerado,Numérico,Estrato bioquimica
+F_bio,Numérico,Ponderador bioquimica
+Ingesta_Na,Numérico,Ingesta estimada de 24 horas de sodio (Na) en mmol
+ingesta_SAL,Numérico,Ingesta estimada de sal en 24 hs (gr)
+OMS_SAL,Numérico,Consumo de sal 24 hs >= 5 gramos
+MicroalbuminuriamgL5,Numérico,Microalbuminuria en mg/L
+VFG_CKD,Numérico,Velocidad de Filtrado Glomerular
+VFG_CKD_G5,Numérico,Grados de VFG (G5)
+VFG_CKD_G3,Numérico,Grados de VFG (G3 agrupado)
+alb_creat,Numérico,Relacion albuminuria/creatininuria en mg/dl
+albcreat_A3,Numérico,Grados de Relacion albuminuria/creatininuria
+Alb_Crea_A2,Numérico,Grados de Relacion albuminuria/creatininuria (agrupado)
+Enf_renal,Numérico,Enfermedad renal
+edad_salida,Numérico,
+Calendario,Numérico,Calendario escolar
+vacaciones,Numérico,
+hs_sueño_ajustado_nn,Numérico,Horas/día de sueño
+sueño_OMS_nn,Numérico,Sueño recomendado OMS
+hs_CS_CJ_ajustado_nn,Numérico,Horas/día de comportamiento sedentario (con juego)
+hs_CS_SJ_ajustado_nn,Numérico,Horas/día de comportamiento sedentario (sin juego)
+hs_CS_total_nn,Numérico,Horas/día de comportamiento sedentario total
+CS_tot_nn,Numérico,Horas de sedentarismo por día -menos o más de 3 horas
+TA_semanal_min_nn,Numérico,Min/día de transporte activo de lunes a viernes
+TA_finde_min_nn,Numérico,Min/día de transporte activo el sábado y domingo
+TA_semanal_tot_min_nn,Numérico,Min/día de transporte activo de lunes a domingo
+HO_semanal_min_nn,Numérico,Min/día de AF libre en el hogar de lunes a viernes
+HO_finde_min_nn,Numérico,Min/día de AF libre en el hogar el sábado y domingo
+HO_semanal_tot_min_nn,Numérico,Min/día de AF libre en el hogar de lunes a domingo
+HPO_semanal_min_nn,Numérico,Min/día de AF libre en el hogar frente a pantalla de lunes a viernes
+HPO_finde_min_nn,Numérico,Min/día de AF libre en el hogar frente a pantalla el sábado y domingo
+HPO_semanal_tot_min_nn,Numérico,Min/día de AF libre en el hogar frente a pantalla de lunes a domingo
+TL_semanal_min_nn,Numérico,Min/día de AF en actividades no organizadas en tiempo libre de lunes a viernes
+TL_finde_min_nn,Numérico,Min/día de AF en actividades no organizadas en tiempo libre el sábado y domingo
+TL_semanal_tot_min_nn,Numérico,Min/día de AF en actividades no organizadas en tiempo libre de lunes a domingo
+TOL_semanal_min_nn,Numérico,Min/día de AF en actividades organizadas en tiempo libre de lunes a viernes
+TOL_finde_min_nn,Numérico,Min/día de AF en actividades organizadas en tiempo libre el sábado y domingo
+TOL_semanal_tot_min_nn,Numérico,Min/día de AF en actividades organizadas en tiempo libre de lunes a domingo
+ESC_semanal_min_nn,Numérico,Min/día de AF en la escuela de lunes a viernes
+ESC_finde_min_nn,Numérico,Min/día de AF en la escuela el sábado y domingo
+ESC_semanal_tot_min_nn,Numérico,Min/día de AF en la escuela de lunes a domingo
+activo_OMS_nn,Numérico,Recomendaciones mínimas de OMS para AF
+hs_sueño_ajustado_adol,Numérico,Horas/día de sueño
+sueño_OMS_adol,Numérico,Sueño recomendado
+hs_CS_SJ_ajustado_adol,Numérico,Horas/día de comportamiento sedentario (sin juego)
+hs_CS_CJ_ajustado_adol,Numérico,Horas/día de comportamiento sedentario (con juego)
+hs_CS_total_adol,Numérico,Horas/día de comportamiento sedentario total
+CS_tot_adol,Numérico,Horas de sedentarismo por día -menos o más de 3 horas
+TA_semanal_min_adol,Numérico,Min/día de transporte activo de lunes a viernes
+TA_finde_min_adol,Numérico,Min/día de transporte activo el sábado y domingo
+TA_semanal_tot_min_adol,Numérico,Min/día de transporte activo de lunes a domingo
+HO_semanal_min_adol,Numérico,Min/día de AF libre en el hogar de lunes a viernes
+HO_finde_min_adol,Numérico,Min/día de AF libre en el hogar el sábado y domingo
+HO_semanal_tot_min_adol,Numérico,Min/día de AF libre en el hogar de lunes a domingo
+HPO_semanal_min_adol,Numérico,Min/día de AF libre en el hogar frente a pantalla de lunes a viernes
+HPO_finde_min_adol,Numérico,Min/día de AF libre en el hogar frente a pantalla el sábado y domingo
+HPO_semanal_tot_min_adol,Numérico,Min/día de AF libre en el hogar frente a pantalla de lunes a domingo
+TL_semanal_min_adol,Numérico,Min/día de AF en actividades no organizadas en tiempo libre de lunes a viernes
+TL_finde_min_adol,Numérico,Min/día de AF en actividades no organizadas en tiempo libre el sábado y domingo
+TL_semanal_tot_min_adol,Numérico,Min/día de AF en actividades no organizadas en tiempo libre de lunes a domingo
+TOL_semanal_min_adol,Numérico,Min/día de AF en actividades organizadas en tiempo libre de lunes a viernes
+TOL_finde_min_adol,Numérico,Min/día de AF en actividades organizadas en tiempo libre el sábado y domingo
+TOL_semanal_tot_min_adol,Numérico,Min/día de AF en actividades organizadas en tiempo libre de lunes a domingo
+ESC_semanal_min_adol,Numérico,Min/día de AF en la escuela de lunes a viernes
+ESC_finde_min_adol,Numérico,Min/día de AF en la escuela el sábado y domingo
+ESC_semanal_tot_min_adol,Numérico,Min/día de AF en la escuela de lunes a domingo
+activo_OMS_adol,Numérico,Recomendaciones mínimas de OMS para AF
