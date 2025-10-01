@@ -101,12 +101,9 @@ def entrenar_modelo(df):
 
 modelo, metrics = entrenar_modelo(df)
 
-# ----------------------------
+
 # Extracción PDF mejorada
-# ----------------------------
-# ----------------------------
-# Extracción PDF mejorada con soporte para "NO"
-# ----------------------------
+
 def extraer_pdf(file_like):
     texto = ''
     try:
@@ -221,9 +218,10 @@ def extraer_pdf(file_like):
 # ----------------------------
 # Tablas de primas
 # ----------------------------
-tarifa_enf_df = read_csv_flexible("tarifa_seguros_enfermedades.csv")
-tarifa_salud_df = read_csv_flexible("tarifa_salud_argentina.csv")
-tarifa_base_df = read_csv_flexible("tarifa_seguros.csv")
+tarifa_enf_df = read_csv_flexible("data/tarifa_seguros_enfermedades.csv")
+tarifa_salud_df = read_csv_flexible("data/tarifa_salud_argentina.csv")
+tarifa_base_df = read_csv_flexible("data/tarifa_seguros.csv")
+
 
 for df_tmp in [tarifa_enf_df, tarifa_salud_df, tarifa_base_df]:
     if not df_tmp.empty:
@@ -487,4 +485,3 @@ st.pyplot(fig)
 st.markdown("### Métricas del modelo")
 st.metric("ROC AUC", f"{metrics['roc_auc']:.3f}")
 st.write(f"Accuracy: {metrics['classification_report']['accuracy']:.3f}")
-
