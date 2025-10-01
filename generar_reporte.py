@@ -1,69 +1,109 @@
 from reportlab.lib.pagesizes import A4
-from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Image, PageBreak
+from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, PageBreak
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.lib.units import cm
-from datetime import datetime
 
-# Configuración del documento
-doc = SimpleDocTemplate("reporte_seguro.pdf", pagesize=A4)
+# ------------------------
+# Configuración inicial
+# ------------------------
 styles = getSampleStyleSheet()
+styleH = styles["Heading1"]
+styleH.spaceAfter = 12
+styleH.alignment = 1  # centrado
+styleN = styles["Normal"]
+styleN.spaceAfter = 12
 
-# Personalización de estilos
-styles.add(ParagraphStyle(name='Titulo', fontSize=20, alignment=1, spaceAfter=20))
-styles.add(ParagraphStyle(name='Subtitulo', fontSize=14, alignment=1, spaceAfter=10))
-styles.add(ParagraphStyle(name='Pie', fontSize=8, alignment=2, textColor="grey"))
+# ------------------------
+# Documento
+# ------------------------
+doc = SimpleDocTemplate("reporte_seguro.pdf", pagesize=A4,
+                        rightMargin=2*cm, leftMargin=2*cm,
+                        topMargin=2*cm, bottomMargin=2*cm)
 
-story = []
+Story = []
 
-# ----------------------------
+# ------------------------
 # Portada
-# ----------------------------
-story.append(Paragraph("Agente IA - Seguro de Accidentes Personales", styles['Titulo']))
-story.append(Paragraph("Informe Técnico - Evaluación y Resultados", styles['Subtitulo']))
-story.append(Spacer(1, 50))
-story.append(Paragraph(f"Autor: Sol", styles['Normal']))
-story.append(Paragraph(f"Fecha: {datetime.today().strftime('%d/%m/%Y')}", styles['Normal']))
-story.append(PageBreak())
+# ------------------------
+Story.append(Spacer(1, 4*cm))
+Story.append(Paragraph("🤖 Agente IA - Seguro de Accidentes Personales", styleH))
+Story.append(Spacer(1, 1*cm))
+Story.append(Paragraph("Autores: <b>Solange Areco y Milagros Lencina</b>", styleN))
+Story.append(Spacer(1, 10*cm))
+Story.append(Paragraph("Trabajo Práctico - Challenge One", styleN))
+Story.append(Paragraph("Fecha: Septiembre 2025", styleN))
+Story.append(PageBreak())
 
-# ----------------------------
-# Secciones descriptivas
-# ----------------------------
-secciones = [
-    ("1. Introducción", 
-     "Este informe documenta el desarrollo del Agente de IA para evaluar asegurabilidad en seguros de accidentes personales."),
-    ("2. Fuentes de datos",
-     "Se integraron datasets: ENNyS2, Insurance (Kaggle), y datos sintéticos generados con Pandas/Numpy."),
-    ("3. Pipeline del modelo",
-     "Incluye preprocesamiento, Random Forest, métricas de validación y reglas de negocio determinísticas."),
-    ("4. Factores de riesgo",
-     "Edad, IMC, tabaquismo y tipo de actividad influyen en el riesgo."),
-    ("5. Evaluación del modelo",
-     "Se presentan métricas del modelo: matriz de confusión, ROC AUC, precisión y recall."),
-]
+# ------------------------
+# Introducción
+# ------------------------
+Story.append(Paragraph("1. Introducción", styleH))
+Story.append(Paragraph(
+    "Este proyecto implementa un agente de inteligencia artificial que evalúa "
+    "la asegurabilidad de personas para seguros de accidentes personales. "
+    "El sistema combina un modelo de Machine Learning con reglas de negocio "
+    "determinísticas y permite calcular una prima estimada según tablas locales "
+    "de Argentina.", styleN))
 
-# Agregar capturas
-for i, (titulo, texto) in enumerate(secciones, start=1):
-    story.append(Paragraph(f"<b>{titulo}</b>", styles['Heading2']))
-    story.append(Paragraph(texto, styles['Normal']))
-    story.append(Spacer(1, 12))
+# ------------------------
+# Datasets
+# ------------------------
+Story.append(Paragraph("2. Datasets utilizados", styleH))
+Story.append(Paragraph("• ENNyS2 (Encuesta Nacional de Nutrición y Salud, Argentina 2018-2019) - datos.gob.ar - Licencia Pública.", styleN))
+Story.append(Paragraph("• Kaggle Insurance Dataset - Kaggle.com - Licencia CC0 (uso libre).", styleN))
+Story.append(Paragraph("• Dataset sintético generado con Pandas/Numpy para ampliar diversidad de casos.", styleN))
 
-    try:
-        img_path = f"captura{i}.png"
-        story.append(Image(img_path, width=12*cm, height=8*cm))
-        story.append(Spacer(1, 24))
-    except Exception as e:
-        story.append(Paragraph(f"Imagen {i} no encontrada: {e}", styles['Normal']))
+# ------------------------
+# Pipeline técnico
+# ------------------------
+Story.append(Paragraph("3. Pipeline del modelo", styleH))
+Story.append(Paragraph(
+    "1. Ingestión: carga robusta de CSV (UTF-8, latin-1, cp1252).\n"
+    "2. Limpieza y features: edad, peso, talla, IMC, tabaquismo, enfermedades.\n"
+    "3. Entrenamiento: RandomForestClassifier con balance de clases.\n"
+    "4. Evaluación: métricas de accuracy, ROC AUC y matriz de confusión.\n"
+    "5. Exportación: modelo guardado con joblib para reutilización en Streamlit.", styleN))
 
-# ----------------------------
-# Pie de página
-# ----------------------------
-def pie_pagina(canvas, doc):
-    canvas.saveState()
-    canvas.setFont('Helvetica', 8)
-    canvas.drawString(2*cm, 1*cm, "Proyecto: Agente IA - Seguro de Accidentes Personales")
-    canvas.drawRightString(19*cm, 1*cm, f"Página {doc.page}")
-    canvas.restoreState()
+# ------------------------
+# Reglas de negocio
+# ------------------------
+Story.append(Paragraph("4. Reglas de negocio aplicadas", styleH))
+Story.append(Paragraph(
+    "• Edad ≥55 y fumador → No asegurable.\n"
+    "• Informe PDF con 'NO APTO' → No asegurable.\n"
+    "• Dos o más enfermedades graves (diabetes, hipertensión, renal, respiratoria) → No asegurable.\n"
+    "• En caso de rechazo, se aplica penalización ×1.5 en la prima final.", styleN))
 
-# Generar PDF
-doc.build(story, onLaterPages=pie_pagina, onFirstPage=pie_pagina)
-print("✅ PDF con portada y formato generado: reporte_seguro.pdf")
+# ------------------------
+# Métricas del modelo
+# ------------------------
+Story.append(Paragraph("5. Métricas del modelo", styleH))
+Story.append(Paragraph(
+    "El modelo RandomForest alcanza un accuracy ≈ 0.98 y un ROC AUC ≈ 0.999 en validación. "
+    "La matriz de confusión y métricas detalladas están integradas en la interfaz de Streamlit.", styleN))
+
+# ------------------------
+# Análisis ético
+# ------------------------
+Story.append(Paragraph("6. Análisis ético y sesgos", styleH))
+Story.append(Paragraph(
+    "El uso de variables como edad, sexo y enfermedades crónicas puede introducir sesgos "
+    "en la decisión de asegurabilidad. Se recomienda monitorear fairness y aplicar métricas "
+    "adicionales para evitar discriminación no justificada desde el punto de vista actuarial.", styleN))
+
+# ------------------------
+# Conclusiones
+# ------------------------
+Story.append(Paragraph("7. Conclusiones", styleH))
+Story.append(Paragraph(
+    "El agente IA cumple con los objetivos planteados: predicción binaria de asegurabilidad, "
+    "probabilidad de riesgo y cálculo de prima estimada en base a normativa argentina. "
+    "Como pasos futuros, se sugiere ampliar las fuentes de datos, mejorar el análisis ético "
+    "y desplegar el sistema en la nube para pruebas con usuarios reales.", styleN))
+
+# ------------------------
+# Guardar PDF
+# ------------------------
+doc.build(Story)
+print("✅ PDF final generado: reporte_seguro.pdf")
+
